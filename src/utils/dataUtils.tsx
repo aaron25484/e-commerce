@@ -17,9 +17,6 @@ export const useCategorizedData = () => {
       .then((data) => {
         setJsonData(data);
       })
-      .catch((error) => {
-        console.error('Error loading JSON data:', error);
-      });
   }, []);
 
   const categorizeProducts = (products: Product[]) => {

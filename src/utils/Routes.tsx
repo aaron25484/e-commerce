@@ -6,6 +6,7 @@ import NewArrivalsPage from "../components/Category/NewArrivals";
 import ClassicsPage from "../components/Category/Classics";
 import BestSellersPage from "../components/Category/BestSellers";
 import BackCataloguePage from "../components/Category/BackCatalogue";
+import BackButton from "./BackButton";
 
 export const RouterPaths:FC<any> = () => {
     
@@ -20,6 +21,7 @@ export const RouterPaths:FC<any> = () => {
                     <Route path="/BestSellers" element={<BestSellersPage />} />
                     <Route path="/BackCatalogue" element={<BackCataloguePage />} />
                 </Routes>
+                <BackButton />
             </BrowserRouter>
         </>
     )

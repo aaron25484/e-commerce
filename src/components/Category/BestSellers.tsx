@@ -1,4 +1,3 @@
-import React from 'react';
 import { useCategorizedData, Product } from '../../utils/dataUtils';
 
 const BestSellersPage: React.FC = () => {

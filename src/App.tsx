@@ -4,7 +4,6 @@ import Navbar from './components/Navbar/Navbar'
 import './index.css'
 import { RouterPaths } from './utils/Routes'
 
-
 function App() {
   
   return (
@@ -12,7 +11,6 @@ function App() {
       <Navbar/>
       <RouterPaths />
       <Footer/>
-
     </>
   )
 }
