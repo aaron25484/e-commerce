@@ -1,8 +1,8 @@
 import './App.css'
+import Footer from './components/Footer/Footer'
 import Navbar from './components/Navbar/Navbar'
-import { Products } from './components/Products/Products'
-import AlbumList from './components/Products/Testproducts'
 import './index.css'
+import { RouterPaths } from './utils/Routes'
 
 
 function App() {
@@ -10,8 +10,9 @@ function App() {
   return (
     <>
       <Navbar/>
-      <Products title="Lazaretto" artist='Jack White' price={50} />
-      <AlbumList />
+      <RouterPaths />
+      <Footer/>
+
     </>
   )
 }
