@@ -1,4 +1,4 @@
-import { useCategorizedData, Product } from '../utils/dataUtils';
+import { useCategorizedData, Product } from './categorizer';
 import { Link } from 'react-router-dom';
 
 const RandomCategory: React.FC = () => {

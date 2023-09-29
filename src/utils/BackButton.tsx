@@ -1,7 +1,5 @@
 import { useNavigate, useLocation } from "react-router-dom";
 
-import "./backButton.css";
-
 const BackButton = () => {
     const navigate = useNavigate();
     const location = useLocation();
@@ -10,7 +8,7 @@ const BackButton = () => {
 
     return (
         backHome && (
-        <button onClick={() => navigate("/")} className="fixed bottom-3 left-3">Back</button>
+        <button onClick={() => navigate("/")} className="fixed bottom-3 left-3 bg-yellow-600 rounded-md px-3">Back</button>
         )
     );
 };

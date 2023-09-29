@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import RandomCategory from "./RandomCategory";
+import RandomCategory from "./carouselHome";
 import SalesPage from "../components/Category/Sales";
 import { FC } from "react";
 import NewArrivalsPage from "../components/Category/NewArrivals";

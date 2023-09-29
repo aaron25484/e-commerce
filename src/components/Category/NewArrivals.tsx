@@ -1,4 +1,4 @@
-import { useCategorizedData, Product } from '../../utils/dataUtils';
+import { useCategorizedData, Product } from '../../utils/categorizer';
 
 const NewArrivalsPage: React.FC = () => {
   const { categorizedData } = useCategorizedData();
@@ -12,9 +12,9 @@ const NewArrivalsPage: React.FC = () => {
         <div className="flex flex-wrap justify-center">
           {products.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
-              <img src={product.image} alt={product.name} className="w-32 h-32 object-cover mx-auto" />
-              <p className="mt-2 text-center">{product.name}</p>
-              <p className="mt-1 text-center text-gray-500">{product.artist}</p>
+              <img src={product.image} alt={product.name} className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center" />
+              <p className="mt-2 text-center text-yellow-500">{product.name}</p>
+              <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
               <p className="mt-1 text-center text-yellow-600">${product.price}</p>
             </div>
           ))}

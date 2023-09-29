@@ -12,7 +12,7 @@ export const useCategorizedData = () => {
   const [jsonData, setJsonData] = useState<Product[]>([]);
   
   useEffect(() => {
-    fetch('src/assets/albums.json')
+    fetch('src/assets/db/albums.json')
       .then((response) => response.json())
       .then((data) => {
         setJsonData(data);
@@ -32,7 +32,10 @@ export const useCategorizedData = () => {
       categorizedData[randomCategory].push(product);
     });
 
+    console.log(categorizedData)
     return categorizedData;
+
+    
   };
 
   const categorizedData = categorizeProducts(jsonData);
