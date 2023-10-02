@@ -16,14 +16,14 @@ const BackCataloguePage: React.FC = () => {
 
   const renderBackCatalogue = () => {
     const backCatalogue = products.filter((product) => product.category === 'Back to Catalogue');
-
+    console.log(backCatalogue)
     return (
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Back in Catalogue</h2>
         <div className="flex flex-wrap justify-center">
-          {backCatalogue.map((product) => (
+          {backCatalogue && backCatalogue.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
-              <Link to={`/${product.category}`}>
+              <Link to={`/${product.id}`}>
                 <img
                   src={product.image}
                   alt={product.name}

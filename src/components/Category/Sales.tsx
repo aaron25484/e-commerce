@@ -22,7 +22,7 @@ const SalesPage: React.FC = () => {
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Sales</h2>
         <div className="flex flex-wrap justify-center">
-          {limitedSales.map((product) => (
+          {limitedSales && limitedSales.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
               <Link to={`/${product.category}`}>
                 <img

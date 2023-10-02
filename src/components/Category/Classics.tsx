@@ -21,7 +21,7 @@ const ClassicsPage: React.FC = () => {
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Classics</h2>
         <div className="flex flex-wrap justify-center">
-          {classics.map((product) => (
+          {classics && classics.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
               <Link to={`/${product.category}`}>
                 <img

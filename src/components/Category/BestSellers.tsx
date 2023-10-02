@@ -21,7 +21,7 @@ const BestSellersPage: React.FC = () => {
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Best Sellers</h2>
         <div className="flex flex-wrap justify-center">
-          {bestSellers.map((product) => (
+          {bestSellers && bestSellers.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
               <Link to={`/${product.category}`}>
                 <img

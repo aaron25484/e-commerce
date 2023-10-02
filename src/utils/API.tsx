@@ -9,7 +9,7 @@ export interface Product {
 }
 
 export const getProducts = async () => {
-  const url = 'src/assets/db/albums.json';
+  const url = 'http://localhost:3000/records';
   const response = await fetch(url);
   const data = await response.json();
   return data;

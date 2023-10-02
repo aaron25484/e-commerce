@@ -4,7 +4,7 @@ import { getProducts, Product } from './API';
 
 const Category: React.FC = () => {
   const [products, setProducts] = useState<Product[]>([]);
-
+  
   useEffect(() => {
     const fetchProductsData = async () => {
       const data = await getProducts();
@@ -17,10 +17,9 @@ const Category: React.FC = () => {
   const renderCarousel = (category: string) => {
     const categoryProducts = products.filter((product) => product.category === category);
     const limitedProducts = categoryProducts.slice(0, 5);
-    console.log(limitedProducts)
     return (
       <div className="flex space-x-4 overflow-x-scroll">
-        {limitedProducts.map((product) => (
+        {limitedProducts && limitedProducts.map((product) => (
           <div key={product.id}>
             <Link to={`/${category}`}>
               <img src={product.image} alt={product.name} className="w-32 h-32 object-cover" />
