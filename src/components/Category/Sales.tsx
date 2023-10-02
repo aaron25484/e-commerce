@@ -1,18 +1,36 @@
-import { useCategorizedData, Product } from '../../utils/categorizer';
+import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { getProducts, Product } from '../../utils/API';
 
 const SalesPage: React.FC = () => {
-  const { categorizedData } = useCategorizedData();
+  const [products, setProducts] = useState<Product[]>([]);
 
-  const sales = categorizedData['Sales'];
+  useEffect(() => {
+    const fetchProductsData = async () => {
+      const data = await getProducts();
+      setProducts(data);
+    };
 
-  const renderSales = (products: Product[]) => {
+    fetchProductsData();
+  }, []);
+
+  const renderSales = () => {
+    const sales = products.filter((product) => product.category === 'Sales');
+    const limitedSales = sales.slice(0, 5);
+
     return (
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Sales</h2>
         <div className="flex flex-wrap justify-center">
-          {products.map((product) => (
+          {limitedSales.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
-              <img src={product.image} alt={product.name} className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center" />
+              <Link to={`/${product.category}`}>
+                <img
+                  src={product.image}
+                  alt={product.name}
+                  className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center"
+                />
+              </Link>
               <p className="mt-2 text-center text-yellow-500">{product.name}</p>
               <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
               <p className="mt-1 text-center text-yellow-600">${product.price}</p>
@@ -23,11 +41,7 @@ const SalesPage: React.FC = () => {
     );
   };
 
-  return (
-    <div className="py-4">
-      {renderSales(sales)}
-    </div>
-  );
+  return <div className="py-4">{renderSales()}</div>;
 };
 
 export default SalesPage;

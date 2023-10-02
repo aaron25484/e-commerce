@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import RandomCategory from "./carouselHome";
+import Category from "./carouselHome";
 import SalesPage from "../components/Category/Sales";
 import { FC } from "react";
 import NewArrivalsPage from "../components/Category/NewArrivals";
@@ -14,12 +14,12 @@ export const RouterPaths:FC<any> = () => {
         <>
             <BrowserRouter>
                 <Routes>
-                    <Route path="/" element={<RandomCategory />}/>
-                    <Route path="/NewArrivals" element={<NewArrivalsPage />} />
+                    <Route path="/" element={<Category />}/>
+                    <Route path="/New Arrivals" element={<NewArrivalsPage />} />
                     <Route path="/Classics" element={<ClassicsPage />} />
                     <Route path="/Sales" element={<SalesPage />}/>
-                    <Route path="/BestSellers" element={<BestSellersPage />} />
-                    <Route path="/BackCatalogue" element={<BackCataloguePage />} />
+                    <Route path="/Best Sellers" element={<BestSellersPage />} />
+                    <Route path="/Back to Catalogue" element={<BackCataloguePage />} />
                 </Routes>
                 <BackButton />
             </BrowserRouter>

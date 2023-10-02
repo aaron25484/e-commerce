@@ -1,18 +1,35 @@
-import { useCategorizedData, Product } from '../../utils/categorizer';
+import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { getProducts, Product } from '../../utils/API';
 
 const ClassicsPage: React.FC = () => {
-  const { categorizedData } = useCategorizedData();
+  const [products, setProducts] = useState<Product[]>([]);
 
-  const classics = categorizedData['Classics'];
+  useEffect(() => {
+    const fetchProductsData = async () => {
+      const data = await getProducts();
+      setProducts(data);
+    };
 
-  const renderClassics = (products: Product[]) => {
+    fetchProductsData();
+  }, []);
+
+  const renderClassics = () => {
+    const classics = products.filter((product) => product.category === 'Classics');
+
     return (
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Classics</h2>
         <div className="flex flex-wrap justify-center">
-          {products.map((product) => (
+          {classics.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
-              <img src={product.image} alt={product.name} className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center" />
+              <Link to={`/${product.category}`}>
+                <img
+                  src={product.image}
+                  alt={product.name}
+                  className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center"
+                />
+              </Link>
               <p className="mt-2 text-center text-yellow-500">{product.name}</p>
               <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
               <p className="mt-1 text-center text-yellow-600">${product.price}</p>
@@ -23,11 +40,7 @@ const ClassicsPage: React.FC = () => {
     );
   };
 
-  return (
-    <div className="py-4">
-      {renderClassics(classics)}
-    </div>
-  );
+  return <div className="py-4">{renderClassics()}</div>;
 };
 
 export default ClassicsPage;

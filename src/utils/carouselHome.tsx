@@ -1,19 +1,31 @@
-import { useCategorizedData, Product } from './categorizer';
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { getProducts, Product } from './API';
 
-const RandomCategory: React.FC = () => {
-  const { categorizedData } = useCategorizedData();
+const Category: React.FC = () => {
+  const [products, setProducts] = useState<Product[]>([]);
 
-  const renderCarousel = (products: Product[], category: string) => {
-    const limitedProducts = products.slice(0, 5);
+  useEffect(() => {
+    const fetchProductsData = async () => {
+      const data = await getProducts();
+      setProducts(data);
+    };
+
+    fetchProductsData();
+  }, []);
+
+  const renderCarousel = (category: string) => {
+    const categoryProducts = products.filter((product) => product.category === category);
+    const limitedProducts = categoryProducts.slice(0, 5);
+    console.log(limitedProducts)
     return (
       <div className="flex space-x-4 overflow-x-scroll">
         {limitedProducts.map((product) => (
           <div key={product.id}>
-          <Link to={`/${category}`}>
+            <Link to={`/${category}`}>
               <img src={product.image} alt={product.name} className="w-32 h-32 object-cover" />
             </Link>
-        </div>
+          </div>
         ))}
       </div>
     );
@@ -24,39 +36,39 @@ const RandomCategory: React.FC = () => {
       <div className="mb-4">
         <h2 className="text-2xl font-bold text-yellow-500">New Arrivals</h2>
         <div className="flex space-x-4 justify-center">
-          {renderCarousel(categorizedData['New Arrivals'], 'NewArrivals')}
+          {renderCarousel('New Arrivals')}
         </div>
       </div>
 
       <div className="mb-4">
         <h2 className="text-2xl font-bold text-yellow-500">Classics</h2>
         <div className="flex space-x-4 justify-center">
-          {renderCarousel(categorizedData['Classics'], 'Classics')}
+          {renderCarousel('Classics')}
         </div>
       </div>
 
       <div className="mb-4">
         <h2 className="text-2xl font-bold text-yellow-500">Sales</h2>
         <div className="flex space-x-4 justify-center">
-          {renderCarousel(categorizedData['Sales'], 'Sales')}
+          {renderCarousel('Sales')}
         </div>
       </div>
 
       <div className="mb-4">
         <h2 className="text-2xl font-bold text-yellow-500">Best Sellers</h2>
         <div className="flex space-x-4 justify-center">
-          {renderCarousel(categorizedData['Best Sellers'], 'BestSellers')}
+          {renderCarousel('Best Sellers')}
         </div>
       </div>
 
       <div>
-        <h2 className="text-2xl font-bold text-yellow-500">Back in Catalogue</h2>
+        <h2 className="text-2xl font-bold text-yellow-500">Back to Catalogue</h2>
         <div className="flex space-x-4 justify-center">
-          {renderCarousel(categorizedData['Back in Catalogue'], 'BackCatalogue')}
+          {renderCarousel('Back to Catalogue')}
         </div>
       </div>
     </div>
   );
 };
 
-export default RandomCategory;
+export default Category;

@@ -4,3245 +4,3911 @@
     "name": "Deftones",
     "image": "https://i.scdn.co/image/ab67616d00001e02c09a38cf054085b18eeb88ae",
     "artist": "Deftones",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "7o4UsmV37Sg5It2Eb7vHzu",
     "name": "Around the Fur",
     "image": "https://i.scdn.co/image/ab67616d00001e020b1129853982ea17845d4eb6",
     "artist": "Deftones",
-    "price": "12.99"
-  },
-  {
-    "id": "30YN03R4Bjl8Qwz8wPRoXG",
-    "name": "Adrenaline",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e0aa988082afc4ea586ab8dc",
-    "artist": "Deftones",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5LEXck3kfixFaA3CqVE7bC",
     "name": "White Pony",
     "image": "https://i.scdn.co/image/ab67616d00001e025c53799f473fa3e1a48c00ed",
     "artist": "Deftones",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
-    "id": "4ilqDlqD37nilewk9x8tyZ",
-    "name": "Saturday Night Wrist",
-    "image": "https://i.scdn.co/image/ab67616d00001e02c869fa3b4e0ce4dd9818a40e",
+    "id": "30YN03R4Bjl8Qwz8wPRoXG",
+    "name": "Adrenaline",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e0aa988082afc4ea586ab8dc",
     "artist": "Deftones",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1GjjBpY2iDwSQs5bykQI5e",
     "name": "Diamond Eyes",
     "image": "https://i.scdn.co/image/ab67616d00001e0272c2145d48f68917a7361b15",
     "artist": "Deftones",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "4PIVdqvL1Rc7T7Vfsr8n8Q",
-    "name": "Koi No Yokan",
-    "image": "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
+    "id": "4ilqDlqD37nilewk9x8tyZ",
+    "name": "Saturday Night Wrist",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c869fa3b4e0ce4dd9818a40e",
     "artist": "Deftones",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "7rLUzHOq0d0mRGGEIqKfli",
     "name": "Covers",
     "image": "https://i.scdn.co/image/ab67616d00001e0258df6181041c38412db1b253",
     "artist": "Deftones",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Sales"
+  },
+  {
+    "id": "4PIVdqvL1Rc7T7Vfsr8n8Q",
+    "name": "Koi No Yokan",
+    "image": "https://i.scdn.co/image/ab67616d00001e0273652b7a0dc388dd1d044b69",
+    "artist": "Deftones",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "0VEFy5MsBiq0u2lWL0OwOd",
     "name": "Ohms",
     "image": "https://i.scdn.co/image/ab67616d00001e0266c9f5d6f13bfc9abedc1056",
     "artist": "Deftones",
-    "price": "15.99"
-  },
-  {
-    "id": "75YWnu6p1XBiKVKBjfsUq8",
-    "name": "The Studio Album Collection",
-    "image": "https://i.scdn.co/image/ab67616d00001e020341fb1c9f7a6f63accf2044",
-    "artist": "Deftones",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "0UArfu79AC2LrQ6lsvohp5",
     "name": "B-Sides & Rarities",
     "image": "https://i.scdn.co/image/ab67616d00001e029bb36ec0850f21845af83b2d",
     "artist": "Deftones",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
-    "id": "4o1KnoVpzXZceJxyjELEQB",
-    "name": "Saturday Night Wrist",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fdf04b824d53ee302180b5e5",
+    "id": "75YWnu6p1XBiKVKBjfsUq8",
+    "name": "The Studio Album Collection",
+    "image": "https://i.scdn.co/image/ab67616d00001e020341fb1c9f7a6f63accf2044",
     "artist": "Deftones",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
-  
   {
-    "id": "4RQnFSkkZlA65Xxchhnaha",
-    "name": "Diamond Eyes (Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0205dcb69c7d4b76293c77411e",
-    "artist": "Deftones",
-    "price": "17.99"
+    "id": "4qRuLWxwVsl4pqeAKrgjiC",
+    "name": "Deftones",
+    "image": "https://i.scdn.co/image/ab67616d00001e0251f9f55e399a33b552338ad8",
+    "artist": "h1deki",
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "5zhPj35uEtJyY2t9dcutsq",
+    "name": "Deftones",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b22e5de2f8b1f44f87408489",
+    "artist": "Jok",
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3tsXyEbUQehXPaRFCS8K1n",
     "name": "Gore",
     "image": "https://i.scdn.co/image/ab67616d00001e02a1de34b79834eddf96f803ff",
     "artist": "Deftones",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
-
+  {
+    "id": "65NdNKXNxJb73je6beszKe",
+    "name": "Deftones",
+    "image": "https://i.scdn.co/image/ab67616d00001e027f6bc1ccb4eb82a78e1feb98",
+    "artist": "Daoutlet",
+    "price": "17.99",
+    "category": "Sales"
+  },
+  {
+    "id": "3uwQkbzpMxDs3In7XbgS7y",
+    "name": "Deftones",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c72880e98a7164a6346851c5",
+    "artist": "Deseosippin",
+    "price": "19.99",
+    "category": "New Arrivals"
+  },
   {
     "id": "57KFwKnC0ZjaIQGnhE7ops",
     "name": "White Pony (20th Anniversary Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e0203e3921ebbf0437d8893507a",
     "artist": "Deftones",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "1sd7d5jds8tBcaqSfqBYi3",
+    "name": "Deftones",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c5cfd2ca94a4b76bb336f8d4",
+    "artist": "Monday Westwood",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5B4PYA7wNN4WdEXdIJu58a",
     "name": "Ten",
     "image": "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
     "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "3BSOiAas8BpJOii3kCPyjV",
     "name": "Vs.",
     "image": "https://i.scdn.co/image/ab67616d00001e02777344aba9d5b5785b4593a5",
     "artist": "Pearl Jam",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1ghzhhlGuTLCD790oXWJwX",
     "name": "MTV Unplugged",
     "image": "https://i.scdn.co/image/ab67616d00001e02add2474f5952482c05611f6c",
     "artist": "Pearl Jam",
-    "price": "12.99"
-  },
-  {
-    "id": "5PY2mZGCOMezmWH7hiCwFH",
-    "name": "Pearl Jam",
-    "image": "https://i.scdn.co/image/ab67616d00001e02abd6980a0f2f2c9cc13581e0",
-    "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "5pd9B3KQWKshHw4lnsSLNy",
     "name": "Vitalogy",
     "image": "https://i.scdn.co/image/ab67616d00001e02f0f6b8bc425633e6ed6369c4",
     "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "1WJ3UbOi2QYGuRgXCc9FIV",
     "name": "Jeremy",
     "image": "https://i.scdn.co/image/ab67616d00001e028df1fdc14be33eb2c991d60f",
     "artist": "Pearl Jam",
-    "price": "15.99"
-  },
-  {
-    "id": "11BDZR6NRHwPiPy1WQr4Jf",
-    "name": "Last Kiss",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d7db5abcbc899f3994c66fc6",
-    "artist": "Pearl Jam",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1G1R5dY01DSyti3NaWnOp3",
     "name": "rearviewmirror (greatest hits 1991-2003)",
     "image": "https://i.scdn.co/image/ab67616d00001e0226606c9bba49a83567fb1d9e",
     "artist": "Pearl Jam",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
-    "id": "55VNnWRkzLOLPcY28WxyUl",
-    "name": "Lost Dogs",
-    "image": "https://i.scdn.co/image/ab67616d00001e028c99d49a6e445be6638828bc",
+    "id": "11BDZR6NRHwPiPy1WQr4Jf",
+    "name": "Last Kiss",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d7db5abcbc899f3994c66fc6",
     "artist": "Pearl Jam",
-    "price": "19.99"
-  },
-  {
-    "id": "5zsDtoSrXK4usJ4MB1tCh2",
-    "name": "Yield",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a53f06a45b489abe8f577134",
-    "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4DCwNXpnKEBYbls0T4LQzN",
     "name": "Backspacer",
     "image": "https://i.scdn.co/image/ab67616d00001e02cd1c5e0054c122d9aa3f829a",
     "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "5zsDtoSrXK4usJ4MB1tCh2",
+    "name": "Yield",
+    "image": "https://i.scdn.co/image/ab67616d00001e02a53f06a45b489abe8f577134",
+    "artist": "Pearl Jam",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "0kTWX7n8tSSJ8TBVx5vQWQ",
     "name": "Black (Live in St Paul , 8/31/2023)",
     "image": "https://i.scdn.co/image/ab67616d00001e021c27fbd4ccb97e4ee32217c9",
     "artist": "Pearl Jam",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "1qNUOYnypIl6sC2K7fcAmb",
+    "name": "2003.04.19 - Atlanta, Georgia (Live)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0294f5b9d885aeda932a50e99c",
+    "artist": "Pearl Jam",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "5bTixyz2GHx1YUqNUdzfut",
     "name": "Gigaton",
     "image": "https://i.scdn.co/image/ab67616d00001e029be7966e92574b4641a82c17",
     "artist": "Pearl Jam",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1z6iuIsvWR3AjWhMY2xFOk",
     "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
     "image": "https://i.scdn.co/image/ab67616d00001e029ed6d44c0f918e686b691bce",
     "artist": "Pearl Jam",
-    "price": "15.99"
-  },
-  {
-    "id": "3FKhxgSZdtJBIjdHsjbxI0",
-    "name": "No Code",
-    "image": "https://i.scdn.co/image/ab67616d00001e024c29f49b11488856e468719c",
-    "artist": "Pearl Jam",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1cJEPzLBLME22ZUra16HT2",
     "name": "Pearl Jam (2017 Mix)",
     "image": "https://i.scdn.co/image/ab67616d00001e02f374adccc44c849e2633eadf",
     "artist": "Pearl Jam",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "01WEcEzoa9mfh8fIDhvV1M",
-    "name": "Lightning Bolt",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fa475954245b93ca3167469e",
+    "id": "3FKhxgSZdtJBIjdHsjbxI0",
+    "name": "No Code",
+    "image": "https://i.scdn.co/image/ab67616d00001e024c29f49b11488856e468719c",
     "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3j7nicLAWXM0Fb08q9XGyf",
     "name": "Pearl (Legacy Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e026f8c26346723dd0531696bed",
     "artist": "Janis Joplin",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "01WEcEzoa9mfh8fIDhvV1M",
+    "name": "Lightning Bolt",
+    "image": "https://i.scdn.co/image/ab67616d00001e02fa475954245b93ca3167469e",
+    "artist": "Pearl Jam",
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "7AOWw68DEPnDmTpquZw8bG",
     "name": "Riot Act",
     "image": "https://i.scdn.co/image/ab67616d00001e02a20dd7a979699da6dce878ae",
     "artist": "Pearl Jam",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "5UlOy7UXUGwiX2HskHBQDm",
+    "name": "Live On Two Legs",
+    "image": "https://i.scdn.co/image/ab67616d00001e0259c4252d242c5c495f566e41",
+    "artist": "Pearl Jam",
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "29sTacnS0qA9xri6YS8xLA",
     "name": "Superunknown (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02ae6d8e36136353d550b2587d",
     "artist": "Soundgarden",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "4K8bxkPDa5HENw0TK7WxJh",
     "name": "Superunknown (20th Anniversary)",
     "image": "https://i.scdn.co/image/ab67616d00001e025124ed45a94033830b320500",
     "artist": "Soundgarden",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2W6MaUiInBkna5DfBES4E3",
     "name": "Badmotorfinger (25th Anniversary Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e0286ea45263405a29c7f433d3d",
     "artist": "Soundgarden",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1IVa98im1RfxYp6qeOIg2B",
     "name": "Down On The Upside",
     "image": "https://i.scdn.co/image/ab67616d00001e026d70b73bcb327515e9fa8fac",
     "artist": "Soundgarden",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4Q1HXCFg84PfQRZlPCA4SH",
     "name": "Louder Than Love",
     "image": "https://i.scdn.co/image/ab67616d00001e024afd3baacb2653eff44f640a",
     "artist": "Soundgarden",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "1BLVdtavgYFMQvzvX3oHpe",
     "name": "Chris Cornell (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02384765aca7a4341b9652d29e",
     "artist": "Chris Cornell",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "3dCw2ZuqxrownGc7jHu034",
     "name": "Telephantasm",
     "image": "https://i.scdn.co/image/ab67616d00001e022bdb3294bd1f8fc9b36c0ac5",
     "artist": "Soundgarden",
-    "price": "15.99"
-  },
-  {
-    "id": "00LS6GJwb5ZPTKS8NMAT8x",
-    "name": "Ultramega OK (Expanded Reissue)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02bf2bfcbb44d19e0ac0bc8025",
-    "artist": "Soundgarden",
-    "price": "19.99"
-  },
-  {
-    "id": "5o2p8FZAyEOSH7arjJLCJp",
-    "name": "Badmotorfinger",
-    "image": "https://i.scdn.co/image/ab67616d00001e021015292f80ce7ae79c79ea20",
-    "artist": "Soundgarden",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1SdZkHsfhkH5yiIzabc0xK",
     "name": "Superunknown (Super Deluxe)",
     "image": "https://i.scdn.co/image/ab67616d00001e0248dc4aa5baa2ccb3bc7ac65c",
     "artist": "Soundgarden",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "5o2p8FZAyEOSH7arjJLCJp",
+    "name": "Badmotorfinger",
+    "image": "https://i.scdn.co/image/ab67616d00001e021015292f80ce7ae79c79ea20",
+    "artist": "Soundgarden",
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "7DLOpcJFCloOZ9jaaHPFWg",
+    "name": "Best of Soundgarden (Redux)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ac1d8fc52e1387f4a97d98c8",
+    "artist": "Various Artists",
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "7H1360Hm13rF0nEzs1FS8v",
     "name": "Telephantasm (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02c4c0d832ff11db551d141e6b",
     "artist": "Soundgarden",
-    "price": "19.99"
-  },
-  {
-    "id": "0WPxPzpdh9Df1YIoqcyunS",
-    "name": "A-Sides",
-    "image": "https://i.scdn.co/image/ab67616d00001e021056c0e5a471b61dbf011d4e",
-    "artist": "Soundgarden",
-    "price": "12.99"
-  },
-
-  {
-    "id": "0Cpmgfv2YLtBN368ZbBxGY",
-    "name": "Echo Of Miles: Scattered Tracks Across The Path",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ef7ed5ca2c6b53a450f028b8",
-    "artist": "Soundgarden",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5wStnX0uKJRKlWX4rifrSb",
     "name": "Screaming Life/Fopp",
     "image": "https://i.scdn.co/image/ab67616d00001e02ba8e43c3c1723f5930717cfb",
     "artist": "Soundgarden",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "00LS6GJwb5ZPTKS8NMAT8x",
+    "name": "Ultramega OK (Expanded Reissue)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02bf2bfcbb44d19e0ac0bc8025",
+    "artist": "Soundgarden",
+    "price": "15.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "0Cpmgfv2YLtBN368ZbBxGY",
+    "name": "Echo Of Miles: Scattered Tracks Across The Path",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ef7ed5ca2c6b53a450f028b8",
+    "artist": "Soundgarden",
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "55jET4vDioHHd7ztX7OX3h",
+    "name": "Blind Melon",
+    "image": "https://i.scdn.co/image/ab67616d00001e027ed1df1690df31d094d7c2bc",
+    "artist": "Blind Melon",
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6ZVrKUajkz9SWAW6bneBqZ",
     "name": "Live On I-5",
     "image": "https://i.scdn.co/image/ab67616d00001e02f61271c6b2fa3d5c39126066",
     "artist": "Soundgarden",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "7iJBw0RiM0JUnbIAaIZYfL",
     "name": "King Animal (Deluxe Version)",
     "image": "https://i.scdn.co/image/ab67616d00001e0253e6380c4354c7404ef4f297",
     "artist": "Soundgarden",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "65XXZG2pFzK99xeOuVLHP2",
     "name": "King Animal",
     "image": "https://i.scdn.co/image/ab67616d00001e029b52e58a8aa46bd0df442a3b",
     "artist": "Soundgarden",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "3Ug7tuZrDlT3pTTD3hUhPA",
     "name": "Live From The Artists Den",
     "image": "https://i.scdn.co/image/ab67616d00001e023dfbf5d9c933c07cb866a8d7",
     "artist": "Soundgarden",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
-
+  {
+    "id": "01ylpNorWq5UkR5Vd0XBqw",
+    "name": "Sound G.",
+    "image": "https://i.scdn.co/image/ab67616d00001e02dd1819c6c74b6775205e8c67",
+    "artist": "Brown Eyed Girls",
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
   {
     "id": "2NU3mpjBFtZPUYjjT9pJoq",
     "name": "Welcome to Sky Valley",
     "image": "https://i.scdn.co/image/ab67616d00001e023ee0cb43203040fe0cad47ef",
     "artist": "Kyuss",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "7wXj8GxTkGAUU99DXR7n2f",
     "name": "Blues for the Red Sun",
     "image": "https://i.scdn.co/image/ab67616d00001e028f7519cd69450a1f8b6a4fa3",
     "artist": "Kyuss",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6O5lhr0v3ci9fMEIK5g5a9",
     "name": "...And the Circus Leaves Town",
     "image": "https://i.scdn.co/image/ab67616d00001e022514cc5440791ec9f69a7b1a",
     "artist": "Kyuss",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1Mozf4qsfZx8WIsPyUmwO6",
     "name": "Wretch",
     "image": "https://i.scdn.co/image/ab67616d00001e02e820f51ba77390711ef7ea65",
     "artist": "Kyuss",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4DCUTChxmh7AHPWXAKTZUZ",
     "name": "Muchas Gracias: The Best of Kyuss",
     "image": "https://i.scdn.co/image/ab67616d00001e023ad0645ddbdd56690c380bbb",
     "artist": "Kyuss",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "3WnjEBtJCOmR08RYhQGOc3",
     "name": "Green Machine",
     "image": "https://i.scdn.co/image/ab67616d00001e029c8d768c9a6565b559e21eb6",
     "artist": "Kyuss",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3l5yuQJ50SdvUrAK5ecnIx",
     "name": "(SONS OF KYUSS)",
     "image": "https://i.scdn.co/image/ab67616d00001e0282a82e3149512628d351a4a9",
     "artist": "HERO",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
-
+  {
+    "id": "3MLCCPUYSWYVU00ea38M5r",
+    "name": "Intuition",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d4b0d6b477710eb64495bd5f",
+    "artist": "KYUSSA KROSS",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "5VPjZyxvISy1PzAnRkmnVd",
+    "name": "Flowers",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ce2b778a13d8db616623636d",
+    "artist": "KYUSSA KROSS",
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "1viBBi2plqpYgWRDuugvDX",
+    "name": "KOMOA",
+    "image": "https://i.scdn.co/image/ab67616d00001e0254893e74da77f9570ad82b84",
+    "artist": "KYUSSA KROSS",
+    "price": "12.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "1qA2V72q6yDDa7W61ankCK",
+    "name": "Once Upon a Time",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f4abaa15314e7bf45c3e0e46",
+    "artist": "KYUSSA KROSS",
+    "price": "12.99",
+    "category": "Classics"
+  },
   {
     "id": "6qRwzOgtQSwRibGFn6de7V",
     "name": "Ndoto",
     "image": "https://i.scdn.co/image/ab67616d00001e02468faf71b22ab91fb7cd994e",
     "artist": "Kyussa",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "0PSTqZ8cInMb1Wr68Uqdwp",
     "name": "Queens of the Stone Age",
     "image": "https://i.scdn.co/image/ab67616d00001e029092d41ad0fc7ed16068efe2",
     "artist": "Queens of the Stone Age",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2ZTDmH94OLjeNaOvT7Ngwk",
     "name": "In Times New Roman...",
     "image": "https://i.scdn.co/image/ab67616d00001e02df1999f84b4c1981ba570d17",
     "artist": "Queens of the Stone Age",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "58HZZpS0wxJKwGjoerg0mk",
     "name": "Songs For The Deaf",
     "image": "https://i.scdn.co/image/ab67616d00001e029b62c36a1f8ac00d60f460cc",
     "artist": "Queens of the Stone Age",
-    "price": "12.99"
-  },
-  {
-    "id": "2OMdsA2I4RxrHCyogwKGvF",
-    "name": "Lullabies To Paralyze",
-    "image": "https://i.scdn.co/image/ab67616d00001e029fbc395aa3944da173e69fda",
-    "artist": "Queens of the Stone Age",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5T5NM01392dvvd4EhGrCnj",
     "name": "...Like Clockwork",
     "image": "https://i.scdn.co/image/ab67616d00001e02a705b56a83b703453d8ddd04",
     "artist": "Queens of the Stone Age",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "7vuIN24G18PAUAvjnICyA6",
     "name": "Villains",
     "image": "https://i.scdn.co/image/ab67616d00001e0289401ba9a9c231e2add35ae8",
     "artist": "Queens of the Stone Age",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "2OMdsA2I4RxrHCyogwKGvF",
+    "name": "Lullabies To Paralyze",
+    "image": "https://i.scdn.co/image/ab67616d00001e029fbc395aa3944da173e69fda",
+    "artist": "Queens of the Stone Age",
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "64SL0QEXxulD2QgwJmJbUL",
     "name": "Era Vulgaris",
     "image": "https://i.scdn.co/image/ab67616d00001e02170bbe9daed62431944dbbb7",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "05tJhGl52X4zGe0ySlcBk6",
     "name": "Rated R",
     "image": "https://i.scdn.co/image/ab67616d00001e029c4d9db5d6895352b6eea6fc",
     "artist": "Queens of the Stone Age",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "54gexkFvg7FE3JcbntQViI",
     "name": "Queens of the Stone Age (1998 Version)",
     "image": "https://i.scdn.co/image/ab67616d00001e02ee562e3936c096835ea122eb",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "10UBEkRjqtl0iT2BRAwcto",
     "name": "Rated R - Deluxe Edition",
     "image": "https://i.scdn.co/image/ab67616d00001e020fa7b83a64a2501b6de8db39",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "3dTSDhT6cUg4YxQTMRgf6S",
     "name": "Emotion Sickness",
     "image": "https://i.scdn.co/image/ab67616d00001e02b60d2e2e459d09aea6205ecf",
     "artist": "Queens of the Stone Age",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2ec7VED8zxmb93zpjdFYBM",
     "name": "Paper Machete",
     "image": "https://i.scdn.co/image/ab67616d00001e02df3b0e54d98071aa775b7f17",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2UB1sEIK8wEhikbkcsIcIn",
     "name": "Carnavoyeur",
     "image": "https://i.scdn.co/image/ab67616d00001e02ac65fae0afe49658e9f83a44",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
-  },
-  {
-    "id": "4emoC6C9fCDkWPdTuxN9an",
-    "name": "...Like Cologne (Spotify Exclusive)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fb58d9e83e7475252d9d4a90",
-    "artist": "Queens of the Stone Age",
-    "price": "19.99"
-  },
-  {
-    "id": "7twfmpN1hLIELM96TBe3P2",
-    "name": "Songs For The Deaf",
-    "image": "https://i.scdn.co/image/ab67616d00001e02682d58aa64593d0c9d5aabb4",
-    "artist": "Queens of the Stone Age",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2vQTLy1EZ9JPaUU68lUMgR",
     "name": "Over The Years And Through The Woods (Live At Brixton Academy / 2005)",
     "image": "https://i.scdn.co/image/ab67616d00001e02214612618a7148d52bf1913a",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "7twfmpN1hLIELM96TBe3P2",
+    "name": "Songs For The Deaf",
+    "image": "https://i.scdn.co/image/ab67616d00001e02682d58aa64593d0c9d5aabb4",
+    "artist": "Queens of the Stone Age",
+    "price": "17.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "4emoC6C9fCDkWPdTuxN9an",
+    "name": "...Like Cologne (Spotify Exclusive)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02fb58d9e83e7475252d9d4a90",
+    "artist": "Queens of the Stone Age",
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1d5yG0k9RUnfrFBsv5Vwpp",
     "name": "Make It Wit Chu",
     "image": "https://i.scdn.co/image/ab67616d00001e0284cffe177f2507a7c29adbe4",
     "artist": "Queens of the Stone Age",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "6LxrrQY0k6g4RRQIsMWkTZ",
     "name": "Rated R - Deluxe Edition",
     "image": "https://i.scdn.co/image/ab67616d00001e025e092ec84ec74ae8c77b9c2e",
     "artist": "Queens of the Stone Age",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "460EWtezo0HqvJ70ASJe3M",
     "name": "Lullabies To Paralyze",
     "image": "https://i.scdn.co/image/ab67616d00001e02c9d9216dbca3eafb2e200a89",
     "artist": "Queens of the Stone Age",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
-
+  {
+    "id": "7bErJxIgfTzYRhRrl2RZYH",
+    "name": "Queens of the Breakers",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c325d1770d48cc34a1bddc07",
+    "artist": "The Barr Brothers",
+    "price": "19.99",
+    "category": "Sales"
+  },
   {
     "id": "3nJnyDV8fwFpffo0EyHQto",
     "name": "The Downward Spiral",
     "image": "https://i.scdn.co/image/ab67616d00001e02f69bd9abbfeb819840993207",
     "artist": "Nine Inch Nails",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "56Us3Q6UIM4jKJZlWhqddL",
     "name": "With Teeth",
     "image": "https://i.scdn.co/image/ab67616d00001e02f489b4582e496de8f71e88da",
     "artist": "Nine Inch Nails",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "3umFHeEpc4yLXtrRcv9gLN",
     "name": "Pretty Hate Machine",
     "image": "https://i.scdn.co/image/ab67616d00001e029764c0993e45db213f0e359f",
     "artist": "Nine Inch Nails",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "4jyWDa1yM9ul7zgUdR80hw",
     "name": "Broken",
     "image": "https://i.scdn.co/image/ab67616d00001e02f1234cfed5f06fd58e76b06f",
     "artist": "Nine Inch Nails",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4uiVwLbTzE6VMkXpaDAwB8",
     "name": "The Fragile",
     "image": "https://i.scdn.co/image/ab67616d00001e0278b860d90b266bfcd7e4c0be",
     "artist": "Nine Inch Nails",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5I7lLu8xXJfGRdFUqHaLQU",
     "name": "The Downward Spiral (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e024078c255069c0e7a2553fa4a",
     "artist": "Nine Inch Nails",
-    "price": "15.99"
-  },
-  {
-    "id": "4j7sUB8rth2ef8WyF40YQp",
-    "name": "March Of The Pigs",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fd7d8abef9d6e87820996f2d",
-    "artist": "Nine Inch Nails",
-    "price": "17.99"
-  },
-  {
-    "id": "6Et26zmZ0Gu4ocrxyU3dSp",
-    "name": "The Slip",
-    "image": "https://i.scdn.co/image/ab67616d00001e020df268957f5abaa2a92bf673",
-    "artist": "Nine Inch Nails",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "0hdOzMPrGJiGjX3epBP8NN",
     "name": "Year Zero",
     "image": "https://i.scdn.co/image/ab67616d00001e020a04f1b1ec2f2f7f74107342",
     "artist": "Nine Inch Nails",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0lOn8nKk4dzzRfnCCCRbwp",
     "name": "Ghosts I-IV",
     "image": "https://i.scdn.co/image/ab67616d00001e02411b0a44c93304c49848fb15",
     "artist": "Nine Inch Nails",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "6Et26zmZ0Gu4ocrxyU3dSp",
+    "name": "The Slip",
+    "image": "https://i.scdn.co/image/ab67616d00001e020df268957f5abaa2a92bf673",
+    "artist": "Nine Inch Nails",
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "7GwKmNXAFgODzJOwaEVyji",
     "name": "Hesitation Marks (Deluxe Version)",
     "image": "https://i.scdn.co/image/ab67616d00001e0253dd5b984276573393fa795c",
     "artist": "Nine Inch Nails",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6IwZ3rIE9F6j1R1LyBrVXu",
     "name": "Pretty Hate Machine (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e023203ddc3ee157d9963a88b59",
     "artist": "Nine Inch Nails",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "28DJ00Yr5oOhH0uOUgTQwc",
     "name": "Add Violence",
     "image": "https://i.scdn.co/image/ab67616d00001e024622f5c0001d64e82f01abf0",
     "artist": "Nine Inch Nails",
-    "price": "19.99"
-  },
-  {
-    "id": "15lT31vL53ez4CQ41t26aK",
-    "name": "Still",
-    "image": "https://i.scdn.co/image/ab67616d00001e0243940eb0524a266566af0de0",
-    "artist": "Nine Inch Nails",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4WlypbV5XBJInhwH0TjZYz",
     "name": "Music Inspired By Nine Inch Nails - For Film & TV",
     "image": "https://i.scdn.co/image/ab67616d00001e0231524b288d3506bd29d60933",
     "artist": "Various Artists",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "296zqVG4gI7mDSUD0CytXM",
     "name": "Ghosts V: Together",
     "image": "https://i.scdn.co/image/ab67616d00001e0227c5a582320e08258ec13d0a",
     "artist": "Nine Inch Nails",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
-    "id": "0mYPpvDOlAxY4LJfoccz8m",
-    "name": "Live: And All That Could Have Been",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fd0e45ea46d2693b1c39c9fb",
+    "id": "15lT31vL53ez4CQ41t26aK",
+    "name": "Still",
+    "image": "https://i.scdn.co/image/ab67616d00001e0243940eb0524a266566af0de0",
     "artist": "Nine Inch Nails",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2F38fcxlLkkZ1Ldj1TURBh",
     "name": "Y34RZ3r0r3mix3d",
     "image": "https://i.scdn.co/image/ab67616d00001e023269f4d4dd85a577ff40fdb1",
     "artist": "Nine Inch Nails",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "7a7arAXDE0BiaMgHLhdjGF",
     "name": "The Downward Spiral",
     "image": "https://i.scdn.co/image/ab67616d00001e02786dc008f4d6fcf34ca8fd7e",
     "artist": "Nine Inch Nails",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Sales"
+  },
+  {
+    "id": "0mYPpvDOlAxY4LJfoccz8m",
+    "name": "Live: And All That Could Have Been",
+    "image": "https://i.scdn.co/image/ab67616d00001e02fd0e45ea46d2693b1c39c9fb",
+    "artist": "Nine Inch Nails",
+    "price": "15.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "63W4cQKfF2HTjgRYZcQ0tU",
+    "name": "Quake",
+    "image": "https://i.scdn.co/image/ab67616d00001e0211d58d58f0a65834f392038c",
+    "artist": "Nine Inch Nails",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "0Q2o6ioxIOlKPvRdG1K5da",
     "name": "Bad Witch",
     "image": "https://i.scdn.co/image/ab67616d00001e026c6ed30d116acf0e0f241599",
     "artist": "Nine Inch Nails",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "5zBPRXCAc801vyHWoRurNZ",
     "name": "Nirvana",
     "image": "https://i.scdn.co/image/ab67616d00001e0256072fea6785a3ad2d24237c",
     "artist": "Nirvana",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1To7kv722A8SpZF789MZy7",
     "name": "MTV Unplugged In New York",
     "image": "https://i.scdn.co/image/ab67616d00001e0236c5417732e53e23cb219246",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2guirTSEqLizK7j9i1MTTZ",
     "name": "Nevermind (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02e175a19e530c898d167d39bf",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "6ohX7moZZnF1FwYrli1OJ6",
     "name": "In Utero (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02aca059cebc1841277db22d1c",
     "artist": "Nirvana",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "7wOOA7l306K8HfBKfPoafr",
     "name": "In Utero",
     "image": "https://i.scdn.co/image/ab67616d00001e02c4f52ef8782f0e8ede4c1aaf",
     "artist": "Nirvana",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
-    "id": "6ICrBzsbHVluGHP8wGK4Y3",
-    "name": "Incesticide",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e1f5fcef5fb5f70aa0a717fc",
+    "id": "251D5futdABXD1SHrd47lb",
+    "name": "In Utero 30th Live",
+    "image": "https://i.scdn.co/image/ab67616d00001e024b44eb9a15b5790c60ff1193",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1KVGLuPtrMrLlyy4Je6df7",
     "name": "Bleach",
     "image": "https://i.scdn.co/image/ab67616d00001e0297507fd22fb690cb9085a864",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
+  },
+  {
+    "id": "6ICrBzsbHVluGHP8wGK4Y3",
+    "name": "Incesticide",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e1f5fcef5fb5f70aa0a717fc",
+    "artist": "Nirvana",
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6yaiubHHJy8N8QcHy3julo",
     "name": "Nevermind",
     "image": "https://i.scdn.co/image/ab67616d00001e02d27b5404a8aa5b94856e24cc",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1rWxuG2FzaRzbujqBTHJYu",
     "name": "Nirvana",
     "image": "https://i.scdn.co/image/ab67616d00001e02fc68f9bf55f7269c479c1305",
     "artist": "Bktherula",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1tsNAUQqofHrnlezRK8D5R",
     "name": "MTV Unplugged In New York (25th Anniversary)",
     "image": "https://i.scdn.co/image/ab67616d00001e028ae2c8a304cfb62d0e029fb5",
     "artist": "Nirvana",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "4v62Eu3WGIFCBMy9WlD7hY",
     "name": "Nirvana",
     "image": "https://i.scdn.co/image/ab67616d00001e02d8c6a5f61c10ad6e9f250246",
     "artist": "Sam Smith",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "01Z1nufhjxJVXVDuMRmNEM",
     "name": "Live at Reading",
     "image": "https://i.scdn.co/image/ab67616d00001e0240c5b0a60c587bd0cee5ee0c",
     "artist": "Nirvana",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "3FFGbUutKWN1c4f0CJR4Uh",
     "name": "Nevermind (Super Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02fb2d4c1ac0a601826986c785",
     "artist": "Nirvana",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4YakhJKIpxIx7HGD8WI4oz",
     "name": "Nirvana",
     "image": "https://i.scdn.co/image/ab67616d00001e020f13cc44736ac7685b1ba45a",
     "artist": "Hazy",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5A7qhg1w3J1GVoPPTChYCF",
     "name": "Live At The Paramount",
     "image": "https://i.scdn.co/image/ab67616d00001e020f4a6f69950d2469e896226f",
     "artist": "Nirvana",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5eA0qtE7Yu29XiMlwoby2G",
     "name": "Nevermind (30th Anniversary Super Deluxe)",
     "image": "https://i.scdn.co/image/ab67616d00001e029aa37e5baca62ca6cc98d056",
     "artist": "Nirvana",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
- 
+  {
+    "id": "3qjVDg0hjqQnTg3lGzEvgK",
+    "name": "Nirvana",
+    "image": "https://i.scdn.co/image/ab67616d00001e0282f420b7598a58f86c545e38",
+    "artist": "Reza Pishro",
+    "price": "19.99",
+    "category": "Sales"
+  },
   {
     "id": "784v2vgKR7tIuycQVzWMOg",
     "name": "With The Lights Out - Box Set",
     "image": "https://i.scdn.co/image/ab67616d00001e023a95d96086fa3571727707d1",
     "artist": "Nirvana",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
-    "id": "26paS1Rzj1L0d3Zr1WBTIj",
-    "name": "From The Muddy Banks Of The Wishkah (Live)",
-    "image": "https://i.scdn.co/image/ab67616d00001e023adeb53f00664f7d0623768f",
+    "id": "4Sdfp3NL90GZoYYwLmhk0H",
+    "name": "Live And Loud",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b74f766214d58b11d076c447",
     "artist": "Nirvana",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
-    "id": "14VVqBoDw1SxoNLW3Cj3mN",
-    "name": "In Utero (Super Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0216265821c125a5c5c601dfb1",
-    "artist": "Nirvana",
-    "price": "19.99"
+    "id": "3XGWDXVG95ME1YsmKn4ZQ8",
+    "name": "Tundra Boy Season One",
+    "image": "https://i.scdn.co/image/ab67616d00001e026ecd5c869036bddf7a59d59a",
+    "artist": "Xavier Wulf",
+    "price": "12.99",
+    "category": "New Arrivals"
   },
-  
+  {
+    "id": "37CDWIRco9c6uNX49ORNCn",
+    "name": "Toundra",
+    "image": "https://i.scdn.co/image/ab67616d00001e02df6f3ebab71561fdf39acf6e",
+    "artist": "Créance De Son",
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "24cFjGJmo7OciWrlk8liLr",
+    "name": "Tundra",
+    "image": "https://i.scdn.co/image/ab67616d00001e0240fe000ed0035636bf7eb1cd",
+    "artist": "Yeur",
+    "price": "12.99",
+    "category": "Best Sellers"
+  },
   {
     "id": "0K92R1amWKXlWHNBCbsKfB",
     "name": "Toundra (Live)",
     "image": "https://i.scdn.co/image/ab67616d00001e02825b82b193585941f486caff",
     "artist": "Anne Paceo",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "54LcH6rOpnX8afrvtGvL1h",
     "name": "(II)",
     "image": "https://i.scdn.co/image/ab67616d00001e0259d3d03c5202050815422771",
     "artist": "Toundra",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1H3Ps2PV4sNgbpTzZvuinS",
     "name": "El Odio. Parte I",
     "image": "https://i.scdn.co/image/ab67616d00001e0201a8e2c2feb876d95048ef17",
     "artist": "Toundra",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
- 
+  {
+    "id": "3Gxidj78GCUIbVrZ5wQ0ec",
+    "name": "Toundra",
+    "image": "https://i.scdn.co/image/ab67616d00001e02227e90e4f38d682f23f5188b",
+    "artist": "Maneur",
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
   {
     "id": "6Ued283OOMYn1KTaheTflx",
     "name": "(III)",
     "image": "https://i.scdn.co/image/ab67616d00001e024b65dfc8fe646b9a4a031d14",
     "artist": "Toundra",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "7e4RWwosLj39xy3TF1ziBG",
     "name": "Tundra Boy Season 2",
     "image": "https://i.scdn.co/image/ab67616d00001e02d2dff5cc52a62981681f0df6",
     "artist": "Xavier Wulf",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "0BZ6vnrROx7OJMLGNFuEtW",
     "name": "Vortex",
     "image": "https://i.scdn.co/image/ab67616d00001e0257d003b07e274956118c66cf",
     "artist": "Toundra",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "13NnZjrIhPo1L9W4flldxv",
     "name": "Hex",
     "image": "https://i.scdn.co/image/ab67616d00001e02d4739f307b4ff602c6751133",
     "artist": "Toundra",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "04mv69RGnXzwbw0L2xKoyb",
     "name": "(I)",
     "image": "https://i.scdn.co/image/ab67616d00001e02c7c1a051c40b162db339840a",
     "artist": "Toundra",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3sWUR0TPpLRbBI88boj5R2",
     "name": "IV",
     "image": "https://i.scdn.co/image/ab67616d00001e029d071bd82e40e46ec6dae4f2",
     "artist": "Toundra",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
-
+  {
+    "id": "52ZvMtN75FSakuTF1LCl6O",
+    "name": "Forget To Remember",
+    "image": "https://i.scdn.co/image/ab67616d00001e02678a49c2b0b2fa240abc3901",
+    "artist": "Tindra Rosenlind",
+    "price": "12.99",
+    "category": "Sales"
+  },
+  {
+    "id": "33GWLK55CiW0IsUrvt9E79",
+    "name": "Tundra",
+    "image": "https://i.scdn.co/image/ab67616d00001e028a25f7ce28b550c6c7b1275d",
+    "artist": "The Abigails",
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
   {
     "id": "08y4jMFcpVaS7MlANeI4Bp",
     "name": "Das Cabinet des Dr. Caligari",
     "image": "https://i.scdn.co/image/ab67616d00001e022e4bf0d6ba699d96d5b56071",
     "artist": "Toundra",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "5rHBl1BPlHZsc9BB7DWO0o",
+    "name": "Let me love you",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c24b99b29a63176216322110",
+    "artist": "Tindra Rosenlind",
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "46ue1PmfWHfvNsZ6il6ost",
+    "name": "Tundra Blizzard",
+    "image": "https://i.scdn.co/image/ab67616d00001e02231a829ab4c395587039c5e7",
+    "artist": "hushly",
+    "price": "19.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "1dm5SLCwQrayFimsTayPqn",
+    "name": "Russie Sibérie. Musique De La Toundra Et De La Taiga. Russia Sibéria. Music Of The Tundra & The Taiga.",
+    "image": "https://i.scdn.co/image/ab67616d00001e028f279e660833ae683ac0d618",
+    "artist": "Various Artists",
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "6OYln6Glup79VfHrP38Clp",
     "name": "Spotlight",
     "image": "https://i.scdn.co/image/ab67616d00001e02f61acf031c170ef054aa668f",
     "artist": "Tundra",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
-  
   {
     "id": "6teekrqj0fRPceftGFToBR",
     "name": "The Mars Volta",
     "image": "https://i.scdn.co/image/ab67616d00001e02af04b06a0307494da262a10e",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "0CA2EVHhRPR5VPV78KZw89",
     "name": "Deloused in the Comatorium",
     "image": "https://i.scdn.co/image/ab67616d00001e02f32a4535c09f7cae822bd695",
     "artist": "The Mars Volta",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "30iqYID1JMBXLVFfErwTSd",
     "name": "Frances the Mute",
     "image": "https://i.scdn.co/image/ab67616d00001e02a6fb6a5868d334326c641fa4",
     "artist": "The Mars Volta",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "62t7avflSxMRfEoJEhFikS",
     "name": "The Bedlam in Goliath",
     "image": "https://i.scdn.co/image/ab67616d00001e02272fceec10c12dbda980c10e",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "5OISte8J6DV61Vad0W0Cv9",
     "name": "Amputechture",
     "image": "https://i.scdn.co/image/ab67616d00001e026ea9fd7d0fbe989b56e9dc7f",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "63XTF7poLIFIP9YA8XVnET",
     "name": "Octahedron",
     "image": "https://i.scdn.co/image/ab67616d00001e02e5f4f4b6a799243b59fe7728",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2fggWjiMH2tQth1CwO2vKl",
     "name": "Que Dios Te Maldiga Mi Corazon",
     "image": "https://i.scdn.co/image/ab67616d00001e02c0527e3699ef34d2f288f797",
     "artist": "The Mars Volta",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5GyGFzu6xezfUvT3eImX1G",
     "name": "Noctourniquet",
     "image": "https://i.scdn.co/image/ab67616d00001e022410289d01455c2038c30ed1",
     "artist": "The Mars Volta",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1pQKYMBJfYfDFtBwptQGqB",
     "name": "The Widow",
     "image": "https://i.scdn.co/image/ab67616d00001e021a283c5b9725a592f2151b8a",
     "artist": "The Mars Volta",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "7zxr1hloCsLjKt8UPsfU1T",
     "name": "Blacklight Shine",
     "image": "https://i.scdn.co/image/ab67616d00001e02af3daaec32d43786e4a2c4d2",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0hB42ZAD897hziy7Jfe6Si",
     "name": "Tremulant",
     "image": "https://i.scdn.co/image/ab67616d00001e020a11ead9f48a5c147ebc4ac3",
     "artist": "The Mars Volta",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "3X3xy01oWmdpRSJIttm4NT",
     "name": "Landscape Tantrums (Unfinished Original Recordings Of De-Loused In The Comatorium)",
     "image": "https://i.scdn.co/image/ab67616d00001e0238b1814e94019da8675b70c8",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "3rAFmQ9YoXuwRq519I0tJH",
     "name": "L'Via L'Viaquez",
     "image": "https://i.scdn.co/image/ab67616d00001e02376c6b5429a49732628de98c",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "4qJQkaxMu8o2tsj01Kvc8y",
     "name": "Frances The Mute",
     "image": "https://i.scdn.co/image/ab67616d00001e0263a08b0179a073eea367156a",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "02vvZsSjHWwJ6FDOTNb6NN",
     "name": "Graveyard Love",
     "image": "https://i.scdn.co/image/ab67616d00001e026d3daf108ebd1ad16fdfe429",
     "artist": "The Mars Volta",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "5y1eOXlhAxRMDTy2OhbSP6",
     "name": "Vigil",
     "image": "https://i.scdn.co/image/ab67616d00001e02d3e4738282fb940987432b3a",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "1vE8wPCZOOtCoQ2awhPx9m",
     "name": "Blank Condolences (acoustic)",
     "image": "https://i.scdn.co/image/ab67616d00001e0281e99fa48bf67c80950a3e5e",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0F0PXMrEdVm7MewugBu9Hi",
     "name": "Palm Full Of Crux (acoustic)",
     "image": "https://i.scdn.co/image/ab67616d00001e0206eaaef1ccbc48b6eab1f7c1",
     "artist": "The Mars Volta",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "2J7JDMP8oXkimTew6EquSh",
     "name": "Viscera Eyes",
     "image": "https://i.scdn.co/image/ab67616d00001e028ddd11be6befa3ebc8b7cf2a",
     "artist": "The Mars Volta",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
   },
- 
+  {
+    "id": "2OXEeoxKNe2ZpjH5vDh0KK",
+    "name": "Inertiatic ESP (Unfinished Original Recordings Of De-Loused In The Comatorium)",
+    "image": "https://i.scdn.co/image/ab67616d00001e024972d65d1b5463548a334b61",
+    "artist": "The Mars Volta",
+    "price": "15.99",
+    "category": "Back to Catalogue"
+  },
   {
     "id": "1klALx0u4AavZNEvC4LrTL",
     "name": "The Beatles (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2",
     "artist": "The Beatles",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0ETFjACtuP2ADo6LFhL6HN",
     "name": "Abbey Road (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25",
     "artist": "The Beatles",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "7vEJAtP3KgKSpOHVgwm3Eh",
     "name": "1 (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02582d56ce20fe0146ffa0e5cf",
     "artist": "The Beatles",
-    "price": "12.99"
-  },
-  {
-    "id": "1cTeNkeINtXiaMLlashAKs",
-    "name": "The Beatles 1967 - 1970 (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e026e3d3c964df32136fb1cd594",
-    "artist": "The Beatles",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6126O4XLYAfzU3961ziahP",
     "name": "The Beatles 1962 - 1966 (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e025ef4660298ae29ee18799fc2",
     "artist": "The Beatles",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
-    "id": "1WMVvswNzB9i2UMh9svso5",
-    "name": "The Beatles",
-    "image": "https://i.scdn.co/image/ab67616d00001e029daf50d073fd6e7ad9bc0076",
+    "id": "1cTeNkeINtXiaMLlashAKs",
+    "name": "The Beatles 1967 - 1970 (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e026e3d3c964df32136fb1cd594",
     "artist": "The Beatles",
-    "price": "17.99"
-  },
-  {
-    "id": "50o7kf2wLwVmOTVYJOTplm",
-    "name": "Rubber Soul (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
-    "artist": "The Beatles",
-    "price": "12.99"
-  },
-  {
-    "id": "0jTGHV5xqHPvEcwL8f6YU5",
-    "name": "Let It Be (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
-    "artist": "The Beatles",
-    "price": "15.99"
-  },
-  {
-    "id": "6QaVfG1pHYl1z15ZxkvVDW",
-    "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a",
-    "artist": "The Beatles",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "0PT5m6hwPRrpBwIHVnvbFX",
     "name": "Help! (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
     "artist": "The Beatles",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "1WMVvswNzB9i2UMh9svso5",
+    "name": "The Beatles",
+    "image": "https://i.scdn.co/image/ab67616d00001e029daf50d073fd6e7ad9bc0076",
+    "artist": "The Beatles",
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "50o7kf2wLwVmOTVYJOTplm",
+    "name": "Rubber Soul (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4",
+    "artist": "The Beatles",
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3PRoXYsngSwjEQWR5PsHWR",
     "name": "Revolver (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a",
     "artist": "The Beatles",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
-    "id": "7C221PnWhYGv8Tc0xSbfdc",
-    "name": "Revolver (Super Deluxe)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0233b139ea459f9d93c7b8fb30",
+    "id": "6QaVfG1pHYl1z15ZxkvVDW",
+    "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a",
     "artist": "The Beatles",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3KzAvEXcqJKBF97HrXwlgf",
     "name": "Please Please Me (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02dbeec63ad914c973e75c24df",
     "artist": "The Beatles",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "2BtE7qm1qzM80p9vLSiXkj",
-    "name": "Magical Mystery Tour (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1",
+    "id": "0jTGHV5xqHPvEcwL8f6YU5",
+    "name": "Let It Be (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
     "artist": "The Beatles",
-    "price": "15.99"
-  },
-  {
-    "id": "6wCttLq0ADzkPgtRnUihLV",
-    "name": "A Hard Day's Night (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd",
-    "artist": "The Beatles",
-    "price": "15.99"
-  },
-  {
-    "id": "1vANZV20H5B4Fk6yf7Ot9a",
-    "name": "Beatles For Sale (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0255612ece447bec5d62c68375",
-    "artist": "The Beatles",
-    "price": "17.99"
-  },
-  {
-    "id": "5iT3F2EhjVQVrO4PKhsP8c",
-    "name": "Abbey Road (Super Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02c94603dcb78ec39322cebb5b",
-    "artist": "The Beatles",
-    "price": "15.99"
-  },
-  {
-    "id": "1Ye7yrA7vAlQnoooj8yDXb",
-    "name": "Love",
-    "image": "https://i.scdn.co/image/ab67616d00001e0230503dbc30e621c96913379b",
-    "artist": "The Beatles",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "1aYdiJk6XKeHWGO3FzHHTr",
     "name": "With The Beatles (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02608a63ad5b18e99da94a3f73",
     "artist": "The Beatles",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "7C221PnWhYGv8Tc0xSbfdc",
+    "name": "Revolver (Super Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0233b139ea459f9d93c7b8fb30",
+    "artist": "The Beatles",
+    "price": "15.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "6wCttLq0ADzkPgtRnUihLV",
+    "name": "A Hard Day's Night (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd",
+    "artist": "The Beatles",
+    "price": "19.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "2BtE7qm1qzM80p9vLSiXkj",
+    "name": "Magical Mystery Tour (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1",
+    "artist": "The Beatles",
+    "price": "19.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "1vANZV20H5B4Fk6yf7Ot9a",
+    "name": "Beatles For Sale (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0255612ece447bec5d62c68375",
+    "artist": "The Beatles",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "5iT3F2EhjVQVrO4PKhsP8c",
+    "name": "Abbey Road (Super Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c94603dcb78ec39322cebb5b",
+    "artist": "The Beatles",
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0XRZpF083HqgygM0v1hQyE",
     "name": "Yellow Submarine Songtrack",
     "image": "https://i.scdn.co/image/ab67616d00001e02d807dd713cdfbeed142881e2",
     "artist": "The Beatles",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "1Ye7yrA7vAlQnoooj8yDXb",
+    "name": "Love",
+    "image": "https://i.scdn.co/image/ab67616d00001e0230503dbc30e621c96913379b",
+    "artist": "The Beatles",
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1jWmEhn3ggaL6isoyLfwBn",
     "name": "The Doors",
     "image": "https://i.scdn.co/image/ab67616d00001e025b96a8c5d61be8878452f8f1",
     "artist": "The Doors",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1YZiR5FINFOlZPGKSVplIY",
     "name": "The Very Best of the Doors",
     "image": "https://i.scdn.co/image/ab67616d00001e02bf21ee0ee183384e7ca3f4f4",
     "artist": "The Doors",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "5gO2acKSOaJnP0Mcy8IpU6",
     "name": "The Better Life",
     "image": "https://i.scdn.co/image/ab67616d00001e022868c4713a3912fd476b42f1",
     "artist": "3 Doors Down",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "7IKUTIc9UWuVngyGPtqNHS",
     "name": "L.A. Woman",
     "image": "https://i.scdn.co/image/ab67616d00001e0220783882533e669760741df2",
     "artist": "The Doors",
-    "price": "12.99"
-  },
-  {
-    "id": "3zVyMAtWiXugudXuCRiUjL",
-    "name": "The Doors (50th Anniversary Deluxe Edition)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0244c8a4246a8dc28cc18bc0f5",
-    "artist": "The Doors",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6AFLOkpJjFF652jevcSOZX",
     "name": "Morrison Hotel",
     "image": "https://i.scdn.co/image/ab67616d00001e02f12a8a7e0b2cbe16d2bef4dc",
     "artist": "The Doors",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3zVyMAtWiXugudXuCRiUjL",
+    "name": "The Doors (50th Anniversary Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0244c8a4246a8dc28cc18bc0f5",
+    "artist": "The Doors",
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6v5IVMmY1IvWtbfnQoiFSf",
     "name": "Strange Days",
     "image": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5",
     "artist": "The Doors",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "75bLu4Ung5QbMdJYxx7wTI",
     "name": "The Soft Parade",
     "image": "https://i.scdn.co/image/ab67616d00001e02a0c993789a4875837cf7cf71",
     "artist": "The Doors",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "44rCgxcyCycEQybZn793dz",
     "name": "Morrison Hotel (50th Anniversary Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02266120a95c622f23a7855621",
     "artist": "The Doors",
-    "price": "17.99"
-  },
-  {
-    "id": "0qZTwrunzX3LG45PvRghmh",
-    "name": "Waiting for the Sun",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d848096c6318e3317771721d",
-    "artist": "The Doors",
-    "price": "17.99"
-  },
-  {
-    "id": "6bGa4Ox4GI6WAdsLbrR0bw",
-    "name": "Strange Days (50th Anniversary Expanded Edition) [2017 Remaster]",
-    "image": "https://i.scdn.co/image/ab67616d00001e0204521a139cc9b956a83dace6",
-    "artist": "The Doors",
-    "price": "12.99"
-  },
-  {
-    "id": "4wsbOwqXuuYw8c32ZGvGj5",
-    "name": "Behind Closed Doors - The Rarities",
-    "image": "https://i.scdn.co/image/ab67616d00001e02010fcba4390d24907099507a",
-    "artist": "The Doors",
-    "price": "17.99"
-  },
-  {
-    "id": "3OIjlStgBVQfGjkiftDAZp",
-    "name": "The Future Starts Here: The Essential Doors Hits",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d929a107229ef274c8b62e1e",
-    "artist": "The Doors",
-    "price": "17.99"
-  },
-  {
-    "id": "7qj6lZyChZxDGAqzTArHHQ",
-    "name": "An American Prayer",
-    "image": "https://i.scdn.co/image/ab67616d00001e02661df6aa776da029b6802c0e",
-    "artist": "The Doors",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0I4qWmnLr665zzPdIhRIB5",
     "name": "The Complete Studio Albums",
     "image": "https://i.scdn.co/image/ab67616d00001e02b22bbf5ada4099cfd4cc5a73",
     "artist": "The Doors",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "0BgWlAKJAn8VQKRKIdx9ul",
-    "name": "Absolutely Live",
-    "image": "https://i.scdn.co/image/ab67616d00001e0243e9f3df89097ed3969cfdec",
+    "id": "0qZTwrunzX3LG45PvRghmh",
+    "name": "Waiting for the Sun",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d848096c6318e3317771721d",
     "artist": "The Doors",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3OIjlStgBVQfGjkiftDAZp",
+    "name": "The Future Starts Here: The Essential Doors Hits",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d929a107229ef274c8b62e1e",
+    "artist": "The Doors",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "7qj6lZyChZxDGAqzTArHHQ",
+    "name": "An American Prayer",
+    "image": "https://i.scdn.co/image/ab67616d00001e02661df6aa776da029b6802c0e",
+    "artist": "The Doors",
+    "price": "12.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "4aBBqqm2bpitJw1R3mUwk8",
+    "name": "The Doors",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f6459b119e163109586cb3ce",
+    "artist": "Young Orange",
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "27DiJLrgQmrf28DO4cdwY3",
     "name": "The Doors (Original Soundtrack Recording)",
     "image": "https://i.scdn.co/image/ab67616d00001e02e928ce7e644f9a0fec804f33",
     "artist": "The Doors",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "0HbKCzvQw2hqXDDNXKNJfL",
     "name": "The Doors of Perception",
     "image": "https://i.scdn.co/image/ab67616d00001e020d29fba97997fffddf50943b",
     "artist": "Madcat",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "6Gtzr5X87Gpw21ncYWV3Gd",
+    "name": "The Doors",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b68b1fd667449ffa02894055",
+    "artist": "Francesco Fernandez",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "5zJ5Hz4a5OACoowuL3x86m",
     "name": "L.A. Woman (50th Anniversary Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02bf14f5f357caf85f221dbbe7",
     "artist": "The Doors",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "3rBRGtdezUheco2RYFjrc6",
     "name": "The Doors Are Locked, the Blinds Are Closed, I Am Not Home",
     "image": "https://i.scdn.co/image/ab67616d00001e0267fbb215b5550466a457e6ac",
     "artist": "Whale Bones",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "05bAin8lspkNPYU0hhKxHZ",
+    "name": "The Doors",
+    "image": "https://i.scdn.co/image/ab67616d00001e02496e1288287f3b8d1af14e29",
+    "artist": "Henry Riversong",
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5Dbax7G8SWrP9xyzkOvy2F",
     "name": "The Wall",
     "image": "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
     "artist": "Pink Floyd",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4LH4d3cOWNNsVw41Gqt2kv",
     "name": "The Dark Side of the Moon",
     "image": "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
     "artist": "Pink Floyd",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0bCAjiUamIFqKJsekOYuRw",
     "name": "Wish You Were Here",
     "image": "https://i.scdn.co/image/ab67616d00001e021a84d71391df7469c5ab8539",
     "artist": "Pink Floyd",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "3b4E89rxzZQ9zkhgKpj8N4",
     "name": "Animals",
     "image": "https://i.scdn.co/image/ab67616d00001e02810168d54f85d48f07389237",
     "artist": "Pink Floyd",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5F0IQXuHfTV7SBvZVnXERl",
     "name": "The Division Bell",
     "image": "https://i.scdn.co/image/ab67616d00001e028431fb4cb38f8ee96d3434c0",
     "artist": "Pink Floyd",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "468ZwCchVtzEbt9BHmXopb",
     "name": "Meddle",
     "image": "https://i.scdn.co/image/ab67616d00001e029449d3adaa0f6e26af288c0d",
     "artist": "Pink Floyd",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4xODvcpjOOgu4oKWL0sCte",
     "name": "A Momentary Lapse of Reason",
     "image": "https://i.scdn.co/image/ab67616d00001e0261f734a2370207feda78d018",
     "artist": "Pink Floyd",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1uSpngQgBBgwRFYS5sOdqI",
     "name": "Pulse (Live)",
     "image": "https://i.scdn.co/image/ab67616d00001e02eabc2b563fc0b274fec964e9",
     "artist": "Pink Floyd",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "5f8waK1Ls0c6g8QXKz6ZHc",
     "name": "Pink Floyd",
     "image": "https://i.scdn.co/image/ab67616d00001e025bb73640fbc92b93d1dd0380",
     "artist": "Josh Stone",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6A3OZcFfaYhUINlQU7McWU",
     "name": "Hey Hey Rise Up (feat. Andriy Khlyvnyuk of Boombox)",
     "image": "https://i.scdn.co/image/ab67616d00001e021697bc97a6b733ff37c8a64e",
     "artist": "Pink Floyd",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6nTL8pbGXCU3r98GK4T9R3",
     "name": "PINK FLOYD",
     "image": "https://i.scdn.co/image/ab67616d00001e022b4e0ad04b0aa3b36fca575f",
     "artist": "JADY'S BIRTHDAY",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2xGMvroBbxek49QWF0hzpI",
     "name": "The Dark Side Of The Moon (50th Anniversary) [2023 Remaster]",
     "image": "https://i.scdn.co/image/ab67616d00001e02df8498a6ffec2ba9510d66b2",
     "artist": "Pink Floyd",
-    "price": "19.99"
-  },
-  {
-    "id": "1yMenUMOx7BpfTDuVQs99y",
-    "name": "The Final Cut",
-    "image": "https://i.scdn.co/image/ab67616d00001e0247df2a740389393d35cb33ca",
-    "artist": "Pink Floyd",
-    "price": "19.99"
-  },
-  {
-    "id": "6SDPwUC74HcxwB84kPs4pM",
-    "name": "The Dark Side Of The Moon (Live at Wembley 1974) [2023 Master]",
-    "image": "https://i.scdn.co/image/ab67616d00001e0294731b7663cb4ba416da64a2",
-    "artist": "Pink Floyd",
-    "price": "15.99"
-  },
-  {
-    "id": "4fLDPTMutLCNWb7WoyCF86",
-    "name": "Echoes: The Best of Pink Floyd",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a7f385020b236836c3ed5d91",
-    "artist": "Pink Floyd",
-    "price": "15.99"
-  },
-  {
-    "id": "00BBpx0gG4KfQtxSJBPKUZ",
-    "name": "Obscured by Clouds",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e806fae51cd0fc57e59d52a3",
-    "artist": "Pink Floyd",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3IPhWIXHOAhS2npnq6FiCG",
     "name": "Ummagumma",
     "image": "https://i.scdn.co/image/ab67616d00001e022375d29d34154433cddc10e0",
     "artist": "Pink Floyd",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "6SDPwUC74HcxwB84kPs4pM",
+    "name": "The Dark Side Of The Moon (Live at Wembley 1974) [2023 Master]",
+    "image": "https://i.scdn.co/image/ab67616d00001e0294731b7663cb4ba416da64a2",
+    "artist": "Pink Floyd",
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "1yMenUMOx7BpfTDuVQs99y",
+    "name": "The Final Cut",
+    "image": "https://i.scdn.co/image/ab67616d00001e0247df2a740389393d35cb33ca",
+    "artist": "Pink Floyd",
+    "price": "12.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "0Unhg884FzoZhVWyrMvtAG",
+    "name": "Animals (2018 Remix)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0233850875cf4e59221aaea5ff",
+    "artist": "Pink Floyd",
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "00BBpx0gG4KfQtxSJBPKUZ",
+    "name": "Obscured by Clouds",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e806fae51cd0fc57e59d52a3",
+    "artist": "Pink Floyd",
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "4fLDPTMutLCNWb7WoyCF86",
+    "name": "Echoes: The Best of Pink Floyd",
+    "image": "https://i.scdn.co/image/ab67616d00001e02a7f385020b236836c3ed5d91",
+    "artist": "Pink Floyd",
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2Se4ZylF9NkFGD92yv1aZC",
     "name": "The Piper at the Gates of Dawn",
     "image": "https://i.scdn.co/image/ab67616d00001e02474c7525fbca0d59554ca424",
     "artist": "Pink Floyd",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
-    "id": "4Iy1JP7YE0d256eCwn3VJA",
-    "name": "Delicate Sound of Thunder (Live)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02807780eda29bee39afdc99d9",
+    "id": "2cUpAOlQjV5uSjkWj5bEQY",
+    "name": "Atom Heart Mother",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c32e12829fb960100a3257c6",
     "artist": "Pink Floyd",
-    "price": "12.99"
-  },
-  {
-    "id": "0yU7VItpGPmPcvKmwLg0JT",
-    "name": "The Endless River",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d68e1b64095e02dc6818c1f9",
-    "artist": "Pink Floyd",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "1k2uLH7mwB72zbepvM8rR4",
     "name": "Happy Songs for Happy People",
     "image": "https://i.scdn.co/image/ab67616d00001e020f65da27c1b96335e297c08b",
     "artist": "Mogwai",
-    "price": "12.99"
-  },
-  {
-    "id": "2y0JSQ5K8A8Wp74fcecnov",
-    "name": "Mogwai",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f7956a785ae780df95bb6692",
-    "artist": "RA MAJOR",
-    "price": "19.99"
-  },
-  {
-    "id": "12lwDzvs23w1e8EKa5zQoC",
-    "name": "Mr. Beast",
-    "image": "https://i.scdn.co/image/ab67616d00001e025df11c39821795f5fe971627",
-    "artist": "Mogwai",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0o1eroqWu7BZDlai3xd4CM",
     "name": "Mogwai",
     "image": "https://i.scdn.co/image/ab67616d00001e027e2c64514e1b405c98ad7c39",
     "artist": "Leontharchitect",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "12lwDzvs23w1e8EKa5zQoC",
+    "name": "Mr. Beast",
+    "image": "https://i.scdn.co/image/ab67616d00001e025df11c39821795f5fe971627",
+    "artist": "Mogwai",
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "2y0JSQ5K8A8Wp74fcecnov",
+    "name": "Mogwai",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f7956a785ae780df95bb6692",
+    "artist": "RA MAJOR",
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "34DvEbkQlFz3bxgaSpNhn9",
     "name": "Rock Action",
     "image": "https://i.scdn.co/image/ab67616d00001e0290170d2f23d44b359a595226",
     "artist": "Mogwai",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "5xh09Zo8xqGjjAs7hRB0lk",
     "name": "Mogwai Young Team (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02796699d44fa14aed8e809219",
     "artist": "Mogwai",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "3mTdbKLIhuudIasYD3sfvI",
     "name": "Mogwai",
     "image": "https://i.scdn.co/image/ab67616d00001e02764b2b15b2a0688d31d60517",
     "artist": "ElectricDream",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "1CiB7A4KR28RKLT2R3nany",
     "name": "Ten Rapid",
     "image": "https://i.scdn.co/image/ab67616d00001e022e890f54321dc98e5c3955e2",
     "artist": "Mogwai",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "5dzAssvO8WMCy3fvxYIu64",
     "name": "Mogwai",
     "image": "https://i.scdn.co/image/ab67616d00001e024bba5a5ca153c3af01934b26",
     "artist": "Rituraj",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "4LjNbxlMmWNn5Yky9bfxRm",
     "name": "As The Love Continues",
     "image": "https://i.scdn.co/image/ab67616d00001e0240fb81823dda9635f91404b7",
     "artist": "Mogwai",
-    "price": "17.99"
-  },
-  {
-    "id": "6GpxR2AL4cD0eESCDxrYvm",
-    "name": "Mogwai",
-    "image": "https://i.scdn.co/image/ab67616d00001e02807d4b6fd61b5516b6b89b3f",
-    "artist": "Gonza Rodriguez",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0GsPelnzGRCwyzpzlnVrHw",
     "name": "Les Revenants",
     "image": "https://i.scdn.co/image/ab67616d00001e02a5d7929faf98ac57fb3adc35",
     "artist": "Mogwai",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "6GpxR2AL4cD0eESCDxrYvm",
+    "name": "Mogwai",
+    "image": "https://i.scdn.co/image/ab67616d00001e02807d4b6fd61b5516b6b89b3f",
+    "artist": "Gonza Rodriguez",
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "5Bg8OY8CS4ylEL5vLM69XW",
     "name": "Mogwai",
     "image": "https://i.scdn.co/image/ab67616d00001e028a8ecdab87aa541b1985bbd7",
     "artist": "Bartu Hançer",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6XfWE0VdiRbH9QWfyLibxW",
     "name": "The Hawk Is Howling",
     "image": "https://i.scdn.co/image/ab67616d00001e0240f5a3ded8b25ed1dd7d5d14",
     "artist": "Mogwai",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2R3MFgSzJ42sfMKk5LqtC5",
     "name": "ZEROZEROZERO",
     "image": "https://i.scdn.co/image/ab67616d00001e025408da0f76e97c6136f64134",
     "artist": "Mogwai",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6ed7O9Lp9MIk6VqWn2ulF3",
     "name": "Mogwai",
     "image": "https://i.scdn.co/image/ab67616d00001e02b3dcd46759095094066e686d",
     "artist": "Nikkdbubble",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "27SFWD5ME13mJJWjgP71e4",
     "name": "Rave Tapes",
     "image": "https://i.scdn.co/image/ab67616d00001e023fcc022ad4f0ea58337cbc20",
     "artist": "Mogwai",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "105THU3X2NMCCc2CKERe88",
     "name": "EP+6",
     "image": "https://i.scdn.co/image/ab67616d00001e025a7a6f131ecbf3085ceab2b4",
     "artist": "Mogwai",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "5ti3kMHpKAF98D6PWPFFyn",
     "name": "Young Team",
     "image": "https://i.scdn.co/image/ab67616d00001e02d96290f5b01015c32a712b14",
     "artist": "Mogwai",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "1hI40KWoMfK9BWwAXjhguy",
     "name": "Come On Die Young",
     "image": "https://i.scdn.co/image/ab67616d00001e02069b494c84a75195ac022c60",
     "artist": "Mogwai",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "1LoyJQVHPLHE3fCCS8Juek",
     "name": "Rammstein",
     "image": "https://i.scdn.co/image/ab67616d00001e0202add2c77fb6999e311a3248",
     "artist": "Rammstein",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0C9p8YMtbdOkcXPPlEmZvY",
     "name": "Sehnsucht",
     "image": "https://i.scdn.co/image/ab67616d00001e0297ea8cd106d06260c2c76cd6",
     "artist": "Rammstein",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "7ikuEzL6xeAgu6yT6YVLy7",
     "name": "Mutter",
     "image": "https://i.scdn.co/image/ab67616d00001e0225d8b7c6feee0c8d6593d606",
     "artist": "Rammstein",
-    "price": "19.99"
-  },
-  {
-    "id": "09qHS2BgOLqi3SMkbauxdJ",
-    "name": "Reise, Reise",
-    "image": "https://i.scdn.co/image/ab67616d00001e02136f94926d47c4986e50c877",
-    "artist": "Rammstein",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6hh5ax5BomINXGoi4q7FDP",
     "name": "Sehnsucht (Anniversary Edition - Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
     "artist": "Rammstein",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "09qHS2BgOLqi3SMkbauxdJ",
+    "name": "Reise, Reise",
+    "image": "https://i.scdn.co/image/ab67616d00001e02136f94926d47c4986e50c877",
+    "artist": "Rammstein",
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0o0QM3HLgDRQQslL2ott2a",
     "name": "Raritäten (1994 - 2012)",
     "image": "https://i.scdn.co/image/ab67616d00001e0219e289286920bf38b0b05a78",
     "artist": "Rammstein",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "75OE7M0wduJyffbffehHuR",
     "name": "Zeit",
     "image": "https://i.scdn.co/image/ab67616d00001e021108fef87966d83948b6a037",
     "artist": "Rammstein",
-    "price": "19.99"
-  },
-  {
-    "id": "3R7mUm3SZhV3BIIY7FMrU1",
-    "name": "Deutschland",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d3bf489c4d50a40fbe8f77e7",
-    "artist": "Rammstein",
-    "price": "19.99"
-  },
-  {
-    "id": "6HlDm9fzYxk4vkkr3YEvSv",
-    "name": "Herzeleid (XXV Anniversary Edition – Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
-    "artist": "Rammstein",
-    "price": "12.99"
-  },
-  {
-    "id": "5pCA8SReb0Slsify6rsb7h",
-    "name": "Live aus Berlin",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fc875da1fb03c233d7e5d8c5",
-    "artist": "Rammstein",
-    "price": "15.99"
-  },
-  {
-    "id": "3pksjSyo1w4vAPOenAzM4Z",
-    "name": "Liebe ist für alle da",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f35b533187d748e0e6f71f09",
-    "artist": "Rammstein",
-    "price": "15.99"
-  },
-  {
-    "id": "3ujsh5jQMOFqIbP7sWruEt",
-    "name": "Rosenrot",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f57450066e72260794540c5d",
-    "artist": "Rammstein",
-    "price": "12.99"
-  },
-  {
-    "id": "3RXOlb5vqnmlvmWaryivXX",
-    "name": "Rammstein en Español, Vol. 1",
-    "image": "https://i.scdn.co/image/ab67616d00001e02dfdf6c3bd855b636cb4881f6",
-    "artist": "Autumn's Midnight",
-    "price": "17.99"
-  },
-  {
-    "id": "1fvjGXSNoSPsT7Wtl6BESO",
-    "name": "Made In Germany 1995 - 2011 (Special Edition)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02b03ff8c30497b9d6fff5e324",
-    "artist": "Rammstein",
-    "price": "12.99"
-  },
-  {
-    "id": "75kG9OU9FwAd4HQOLylOB1",
-    "name": "Paris (Live)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0241037c24d49908b70e4ae856",
-    "artist": "Rammstein",
-    "price": "12.99"
-  },
-  {
-    "id": "2OU5J8bKJ9rS0xsdSUVtFC",
-    "name": "Rammstein",
-    "image": "https://i.scdn.co/image/ab67616d00001e023c266a2a3119d560a4836463",
-    "artist": "Witherfang",
-    "price": "12.99"
-  },
-  {
-    "id": "0gErdnTYdzkeFUU72KrbFV",
-    "name": "Remixes",
-    "image": "https://i.scdn.co/image/ab67616d00001e026bdf96b3eb47f3b0e46e4b82",
-    "artist": "Rammstein",
-    "price": "17.99"
-  },
-  {
-    "id": "5wwwQsvQIwfeKjsML2xval",
-    "name": "Rammstein",
-    "image": "https://i.scdn.co/image/ab67616d00001e02b02714268e48d44b829edb36",
-    "artist": "LEROXEY",
-    "price": "17.99"
-  },
-  {
-    "id": "2ia8z3nYgj0KwuRJofD9MH",
-    "name": "Rammstein",
-    "image": "https://i.scdn.co/image/ab67616d00001e0205d9103918f2a965e446c193",
-    "artist": "LeekBoy",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2rK1E8ZYaYkKjSMkrbM690",
     "name": "Du hast / Spiel mit mir (2023 Mix)",
     "image": "https://i.scdn.co/image/ab67616d00001e0248dd7c93d1db0085b112c650",
     "artist": "Rammstein",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "6HlDm9fzYxk4vkkr3YEvSv",
+    "name": "Herzeleid (XXV Anniversary Edition – Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02dcdfc25819de77e79c2edf49",
+    "artist": "Rammstein",
+    "price": "15.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "3YbtoaNL8tajjxELkUZorU",
+    "name": "Rammstein - Du Hast (English Version) (Reproduction)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b6be99a4183d773505bbfc69",
+    "artist": "Done Again",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "3pksjSyo1w4vAPOenAzM4Z",
+    "name": "Liebe ist für alle da",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f35b533187d748e0e6f71f09",
+    "artist": "Rammstein",
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3R7mUm3SZhV3BIIY7FMrU1",
+    "name": "Deutschland",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d3bf489c4d50a40fbe8f77e7",
+    "artist": "Rammstein",
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3ujsh5jQMOFqIbP7sWruEt",
+    "name": "Rosenrot",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f57450066e72260794540c5d",
+    "artist": "Rammstein",
+    "price": "19.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "1fvjGXSNoSPsT7Wtl6BESO",
+    "name": "Made In Germany 1995 - 2011 (Special Edition)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b03ff8c30497b9d6fff5e324",
+    "artist": "Rammstein",
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "5pCA8SReb0Slsify6rsb7h",
+    "name": "Live aus Berlin",
+    "image": "https://i.scdn.co/image/ab67616d00001e02fc875da1fb03c233d7e5d8c5",
+    "artist": "Rammstein",
+    "price": "12.99",
+    "category": "Sales"
+  },
+  {
+    "id": "3RXOlb5vqnmlvmWaryivXX",
+    "name": "Rammstein en Español, Vol. 1",
+    "image": "https://i.scdn.co/image/ab67616d00001e02dfdf6c3bd855b636cb4881f6",
+    "artist": "Autumn's Midnight",
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "0gErdnTYdzkeFUU72KrbFV",
+    "name": "Remixes",
+    "image": "https://i.scdn.co/image/ab67616d00001e026bdf96b3eb47f3b0e46e4b82",
+    "artist": "Rammstein",
+    "price": "12.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "2OU5J8bKJ9rS0xsdSUVtFC",
+    "name": "Rammstein",
+    "image": "https://i.scdn.co/image/ab67616d00001e023c266a2a3119d560a4836463",
+    "artist": "Witherfang",
+    "price": "12.99",
+    "category": "Sales"
+  },
+  {
+    "id": "5wwwQsvQIwfeKjsML2xval",
+    "name": "Rammstein",
+    "image": "https://i.scdn.co/image/ab67616d00001e02b02714268e48d44b829edb36",
+    "artist": "LEROXEY",
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "75kG9OU9FwAd4HQOLylOB1",
+    "name": "Paris (Live)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0241037c24d49908b70e4ae856",
+    "artist": "Rammstein",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "51CvLH7MxsLuFgTwVvzApx",
     "name": "Rain Dogs (2023 Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e02d4d4cd6954bd161fd3a8b4a5",
     "artist": "Tom Waits",
-    "price": "19.99"
-  },
-  {
-    "id": "67F2ya9fonXH0jVVgLa7sb",
-    "name": "Closing Time (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
-    "artist": "Tom Waits",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "2fnWxy7UoIazBiewjgchvm",
     "name": "The Heart Of Saturday Night (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02d958b6ad9e9723eafba36f72",
     "artist": "Tom Waits",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "67F2ya9fonXH0jVVgLa7sb",
+    "name": "Closing Time (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
+    "artist": "Tom Waits",
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "0hSKsAfvBPfJupYNmzRfHt",
     "name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e0259237cc9e74983afdbdde78e",
     "artist": "Tom Waits",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "7cAcex6xw4fP67ltgn1gm3",
     "name": "Mule Variations (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02ddbc5baae5ad5f0b4de990b6",
     "artist": "Tom Waits",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "6kvSCK1lNgZokyIK4Sk73B",
     "name": "Swordfishtrombones (2023 Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e02272cf734ced7b36102ad8068",
     "artist": "Tom Waits",
-    "price": "17.99"
-  },
-  {
-    "id": "5ejL5NoRtasMA1e3znuIlQ",
-    "name": "Nighthawks At The Diner (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02c3e4cae5cb0eb44e62478ab7",
-    "artist": "Tom Waits",
-    "price": "12.99"
-  },
-  {
-    "id": "52aOMxukBcqxxhzPszgKkJ",
-    "name": "The Early Years Vol. 1",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a300a305caf99265223ea488",
-    "artist": "Tom Waits",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "6GjMcck9c4i6cQo194xKl6",
     "name": "Small Change (Remastered)",
     "image": "https://i.scdn.co/image/ab67616d00001e02a943ff962bc2b7f355e104be",
     "artist": "Tom Waits",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Classics"
+  },
+  {
+    "id": "5ejL5NoRtasMA1e3znuIlQ",
+    "name": "Nighthawks At The Diner (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c3e4cae5cb0eb44e62478ab7",
+    "artist": "Tom Waits",
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "4VNqy9FUAFCvwE6XqrtlOn",
     "name": "Bone Machine (2023 Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e026c1c88bd7c960fdc5cf9efbd",
     "artist": "Tom Waits",
-    "price": "19.99"
-  },
-  {
-    "id": "53fzZMZ3ENBY0BpLFOMy9p",
-    "name": "The Early Years Vol. 2",
-    "image": "https://i.scdn.co/image/ab67616d00001e02bc263d2c85f2d1640e8ebaea",
-    "artist": "Tom Waits",
-    "price": "15.99"
-  },
-  {
-    "id": "6F17MbloTeRoXs7JI3lTHy",
-    "name": "Real Gone (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02c11e9584279b388fa9db4633",
-    "artist": "Tom Waits",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0855HSFOAI7iki6Wudnb5k",
     "name": "Tom Waits",
     "image": "https://i.scdn.co/image/ab67616d00001e02cd20305cb6869175846f93f3",
     "artist": "Attila",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
-    "id": "7lCEnPYYkUuvnkrCbA6RCa",
-    "name": "Heartattack And Vine (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0262c6579558e64de02203d442",
+    "id": "6F17MbloTeRoXs7JI3lTHy",
+    "name": "Real Gone (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c11e9584279b388fa9db4633",
     "artist": "Tom Waits",
-    "price": "12.99"
-  },
-  {
-    "id": "22mcOt74IVtCeR5hoIfveO",
-    "name": "Frank’s Wild Years (2023 Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0244b8c7ea01b901cc650ecaee",
-    "artist": "Tom Waits",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "7vB8IszJhJ2qNTgIpmRA2G",
     "name": "Tom Waits",
     "image": "https://i.scdn.co/image/ab67616d00001e0250feb07ac0395bc136894165",
     "artist": "Alexandra",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
-    "id": "5kngzyNwERbKiQDvVwsgMt",
-    "name": "Bad As Me (Deluxe Edition Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02343cdcc47cfcbc43a4c66ae5",
+    "id": "7lCEnPYYkUuvnkrCbA6RCa",
+    "name": "Heartattack And Vine (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0262c6579558e64de02203d442",
     "artist": "Tom Waits",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "22mcOt74IVtCeR5hoIfveO",
+    "name": "Frank’s Wild Years (2023 Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d00001e0244b8c7ea01b901cc650ecaee",
+    "artist": "Tom Waits",
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5rIY0qRwqyZkG9DRzbhixG",
     "name": "Tom Waits",
     "image": "https://i.scdn.co/image/ab67616d00001e0242e1073b5c0252858bf1ca79",
     "artist": "The Jepptunes",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "53fzZMZ3ENBY0BpLFOMy9p",
+    "name": "The Early Years Vol. 2",
+    "image": "https://i.scdn.co/image/ab67616d00001e02bc263d2c85f2d1640e8ebaea",
+    "artist": "Tom Waits",
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "5kngzyNwERbKiQDvVwsgMt",
+    "name": "Bad As Me (Deluxe Edition Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02343cdcc47cfcbc43a4c66ae5",
+    "artist": "Tom Waits",
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6U5r1H1lXI0hT8mDJRhJhK",
     "name": "Tom Waits",
     "image": "https://i.scdn.co/image/ab67616d00001e0252af925d410fd965fc43a5b9",
     "artist": "2 Lost Souls",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5HhUBCaSCQme90DN0qqm5l",
     "name": "Tom Waits",
     "image": "https://i.scdn.co/image/ab67616d00001e02df4c380260763cbbe636668d",
     "artist": "Droga",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
+  },
+  {
+    "id": "2fgQN85UzwZMRIBTs06FjX",
+    "name": "Blue Valentine (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e029456e6961c9a705617b709ca",
+    "artist": "Tom Waits",
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6yWMN087PgSimbcVmHLEwG",
     "name": "Ænima",
     "image": "https://i.scdn.co/image/ab67616d00001e02dce45359981d62e087a29e6f",
     "artist": "TOOL",
-    "price": "17.99"
-  },
-  {
-    "id": "7acEciVtnuTzmwKptkjth5",
-    "name": "Fear Inoculum",
-    "image": "https://i.scdn.co/image/ab67616d00001e0226e6b6f666ef40b6b8365e3e",
-    "artist": "TOOL",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5l5m1hnH4punS1GQXgEi3T",
     "name": "Lateralus",
     "image": "https://i.scdn.co/image/ab67616d00001e02ca41a947c13b78749c4953b1",
     "artist": "TOOL",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "7acEciVtnuTzmwKptkjth5",
+    "name": "Fear Inoculum",
+    "image": "https://i.scdn.co/image/ab67616d00001e0226e6b6f666ef40b6b8365e3e",
+    "artist": "TOOL",
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "1fvWYcbjuycyHpzNPH1Vfk",
     "name": "10,000 Days",
     "image": "https://i.scdn.co/image/ab67616d00001e02781369aabc39c792cc55604f",
     "artist": "TOOL",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "0hnk0FclQcfKpAbKc9Qsxv",
     "name": "TOOLIE BEAM",
     "image": "https://i.scdn.co/image/ab67616d00001e0201e9eeda36a239081e199bc7",
     "artist": "1nonly",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "3Esn6LoXuWtLZNYq8FCzr0",
     "name": "Undertow",
     "image": "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
     "artist": "TOOL",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6ZuGioRryrgXjmhdW14jel",
     "name": "Opiate",
     "image": "https://i.scdn.co/image/ab67616d00001e02ac74c9c72ab2e3be3d53225f",
     "artist": "TOOL",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "13sWe0tYKenwLd2t25bHIi",
-    "name": "Opiate²",
-    "image": "https://i.scdn.co/image/ab67616d00001e023efcce24b1026d6bc191eb26",
-    "artist": "TOOL",
-    "price": "19.99"
+    "id": "5ib3D88l9wCLtpkFjH4fDG",
+    "name": "Lullaby Versions of Tool (Deluxe Edition)",
+    "image": "https://i.scdn.co/image/ab67616d00001e027c5b495ff88ef4ad7713ef18",
+    "artist": "Twinkle Twinkle Little Rock Star",
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "3LEZOsHY4Faq54GYR6NMAl",
     "name": "Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e02905e71e3ad06360ef4886cb6",
     "artist": "Derivakat",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "13sWe0tYKenwLd2t25bHIi",
+    "name": "Opiate²",
+    "image": "https://i.scdn.co/image/ab67616d00001e023efcce24b1026d6bc191eb26",
+    "artist": "TOOL",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "4NR94Yk8uGIpp2HkCkid9u",
     "name": "Tool Box",
     "image": "https://i.scdn.co/image/ab67616d00001e022fe32a5d8f97d9cb750791d0",
     "artist": "Aaron Tippin",
-    "price": "12.99"
-  },
-  {
-    "id": "6QRoTDUXf0Viif9peSxafl",
-    "name": "Tool",
-    "image": "https://i.scdn.co/image/ab67616d00001e0225621dafe64b0229e608d2e1",
-    "artist": "Freddie Dredd",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2guFtogfAF35ttcb0Fp7UJ",
     "name": "Toolatenow",
     "image": "https://i.scdn.co/image/ab67616d00001e021efe1deb32b22eed92470019",
     "artist": "GOTOU寄生獣",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
-    "id": "1exP58tn6Nc4S9RvcXOdob",
+    "id": "6QRoTDUXf0Viif9peSxafl",
     "name": "Tool",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ba3dc9609b9c9c13352ce533",
-    "artist": "Marksman",
-    "price": "19.99"
+    "image": "https://i.scdn.co/image/ab67616d00001e0225621dafe64b0229e608d2e1",
+    "artist": "Freddie Dredd",
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "61mI7fP0m6Kos09L1nAMWR",
     "name": "Toolroom Radio EP703 - Presented by Mark Knight",
     "image": "https://i.scdn.co/image/ab67616d00001e02ccc4a31c792f943e9f800015",
     "artist": "Mark Knight",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "1exP58tn6Nc4S9RvcXOdob",
+    "name": "Tool",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ba3dc9609b9c9c13352ce533",
+    "artist": "Marksman",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "6971YccV3jhBh7DS4u9mdA",
+    "name": "Toolroom Radio EP704 - Presented by Mark Knight",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e5dae85aec76115249b20883",
+    "artist": "Mark Knight",
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1Ev1G9QhrTAILBDUutkFna",
     "name": "Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e026ac17b49e6fb09abe972a820",
     "artist": "DANYANTE",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3ikkmlZKMLbi0JCPzRysJN",
     "name": "Toolie",
     "image": "https://i.scdn.co/image/ab67616d00001e028e5f927e33a31a2011e36223",
     "artist": "Key Glock",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4uER44gQvYOYXL41OcUT84",
     "name": "Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e029202b491f54a00e298d10848",
     "artist": "Jojomber",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "24nfL3YJHOsaKXnuJr4L4D",
     "name": "Shhh Baby Sleep Settling Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e02f4dc23542ca943e089b228db",
     "artist": "Dream Supplier",
-    "price": "19.99"
-  },
-  {
-    "id": "0Gq9bMCseBKlAA9zgH8j4T",
-    "name": "Tool",
-    "image": "https://i.scdn.co/image/ab67616d00001e02567efb8e31d032fdecc47a38",
-    "artist": "Wenzdaze",
-    "price": "15.99"
-  },
-  {
-    "id": "3Ekg0eygWWx8eY6HcJuCl5",
-    "name": "Tool Up",
-    "image": "https://i.scdn.co/image/ab67616d00001e02505bb5ea2837da3dcc1389f0",
-    "artist": "Blueboy",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "0GeWd0yUKXHbCXVag1mJvO",
     "name": "Mer De Noms",
     "image": "https://i.scdn.co/image/ab67616d00001e022d73b494efcb99356f8c7b28",
     "artist": "A Perfect Circle",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "49K6hYDEr5M3GxIBBxlPf9",
     "name": "Thirteenth Step",
     "image": "https://i.scdn.co/image/ab67616d00001e029fce7baa218063d99799ce52",
     "artist": "A Perfect Circle",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "2UAin9VEGxiZRfe9Q7SKg4",
     "name": "eMOTIVe",
     "image": "https://i.scdn.co/image/ab67616d00001e02b899c5d781cdb8bd0788b27f",
     "artist": "A Perfect Circle",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3Jr1RhAyndBxtyi8rJs3Op",
     "name": "Eat The Elephant",
     "image": "https://i.scdn.co/image/ab67616d00001e02a81808a306009c2f1dba3258",
     "artist": "A Perfect Circle",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "3jRG3qOfsSSW3SBdeBiIfC",
     "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02c4576f635253db511bb43789",
     "artist": "Paloma Faith",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "05ghFLMEOZqBJdS76hws7F",
     "name": "Stone and Echo: Live at Red Rocks",
     "image": "https://i.scdn.co/image/ab67616d00001e023d6808868a01627bd840cc07",
     "artist": "A Perfect Circle",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4GmQxktbk1GJxpRqSUe26q",
     "name": "aMOTION",
     "image": "https://i.scdn.co/image/ab67616d00001e02e9ce14632c393a8ddffd82f2",
     "artist": "A Perfect Circle",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "0AddFW17f8gMJw7odPN3xI",
     "name": "Mer De Noms - Live",
     "image": "https://i.scdn.co/image/ab67616d00001e025cfe14b798da8451ca54b29d",
     "artist": "A Perfect Circle",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "7cIHlpvmrl3i3ZmXgbL6iR",
     "name": "Thirteenth Step - Live",
     "image": "https://i.scdn.co/image/ab67616d00001e02e6907efedd5b3abbeba141f4",
     "artist": "A Perfect Circle",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "0IOTRhN3vY3JwU1g8qSTMO",
     "name": "Three Sixty (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e0268b46756c0b80c077b7db9fb",
     "artist": "A Perfect Circle",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "39xNQ5XkyFb6XUyoDnj0ZE",
     "name": "Mer De Noms",
     "image": "https://i.scdn.co/image/ab67616d00001e02127fdd6ec266e53a5b6883d0",
     "artist": "A Perfect Circle",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4jVvXUTK5UWEJRZg6GMaiK",
     "name": "Three Sixty",
     "image": "https://i.scdn.co/image/ab67616d00001e028d58ab09660a379be9516262",
     "artist": "A Perfect Circle",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1OXL7TivPXoa2zF8aCnsUj",
     "name": "Three Sixty (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02ba6a7650ce5d7e66991b5e4e",
     "artist": "A Perfect Circle",
-    "price": "19.99"
-  },
-  {
-    "id": "07rljSKn3TIDYEgV51WQl5",
-    "name": "3 Libras PT 1",
-    "image": "https://i.scdn.co/image/ab67616d00001e0250bc509922122a739fb62766",
-    "artist": "A Perfect Circle",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4ba6cPsUaLgRxBPWexgokT",
     "name": "Deep Cuts",
     "image": "https://i.scdn.co/image/ab67616d00001e0275b39fdaf4f1eba33e12e482",
     "artist": "A Perfect Circle",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "07rljSKn3TIDYEgV51WQl5",
+    "name": "3 Libras PT 1",
+    "image": "https://i.scdn.co/image/ab67616d00001e0250bc509922122a739fb62766",
+    "artist": "A Perfect Circle",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "2aXPcf785Q6Ep7jZHHKJTx",
     "name": "Three Sixty Commentary (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02127881ef42b76342e1282b0f",
     "artist": "A Perfect Circle",
-    "price": "17.99"
-  },
-  {
-    "id": "1Qvmb0rITJaMa9jjW4C6cc",
-    "name": "Blue (Remix)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02d0837328f2722eb32f4fda37",
-    "artist": "A Perfect Circle",
-    "price": "17.99"
-  },
-  {
-    "id": "3ZJ14xDvYx604elVWCipDz",
-    "name": "A Perfect Planet (Soundtrack from the BBC Series)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ad6b6491b271650da6f8df6a",
-    "artist": "Ilan Eshkeri",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5LbxRSSCdiyFmu8YvC0423",
     "name": "Three Sixty",
     "image": "https://i.scdn.co/image/ab67616d00001e02ecc0c45b60fb769260c16b2e",
     "artist": "A Perfect Circle",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3ZJ14xDvYx604elVWCipDz",
+    "name": "A Perfect Planet (Soundtrack from the BBC Series)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ad6b6491b271650da6f8df6a",
+    "artist": "Ilan Eshkeri",
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "1Qvmb0rITJaMa9jjW4C6cc",
+    "name": "Blue (Remix)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d0837328f2722eb32f4fda37",
+    "artist": "A Perfect Circle",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "3ExWK2bB6zxOlyiiu6HEBQ",
     "name": "VSQ Performs A Perfect Circle",
     "image": "https://i.scdn.co/image/ab67616d00001e02b3aa4bb6ef1ccfe58ac9454a",
     "artist": "Vitamin String Quartet",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "78bpIziExqiI9qztvNFlQu",
     "name": "AM",
     "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
     "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "6rsQnwaoJHxXJRCDBPkBRw",
     "name": "Favourite Worst Nightmare (Standard Version)",
     "image": "https://i.scdn.co/image/ab67616d00001e020c8ac83035e9588e8ad34b90",
     "artist": "Arctic Monkeys",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1jeMiSeSnNS0Oys375qegp",
     "name": "Tranquility Base Hotel & Casino",
     "image": "https://i.scdn.co/image/ab67616d00001e0229d0706875760373af2812f1",
     "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "50Zz8CkIhATKUlQMbHO3k1",
     "name": "Whatever People Say I Am, That's What I'm Not",
     "image": "https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf",
     "artist": "Arctic Monkeys",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "0GrKYRlFm3vI2YOZZ9mHNs",
+    "name": "Do I Wanna Know?",
+    "image": "https://i.scdn.co/image/ab67616d00001e027ba54b0fa3fe1c986a318446",
+    "artist": "Arctic Monkeys",
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5IEoiwkThhRmSMBANhpxl2",
     "name": "Humbug",
     "image": "https://i.scdn.co/image/ab67616d00001e02f65d720a5d70dbb93e96d528",
     "artist": "Arctic Monkeys",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "2GROf0WKoP5Er2M9RXVNNs",
     "name": "The Car",
     "image": "https://i.scdn.co/image/ab67616d00001e0207823ee6237208c835802663",
     "artist": "Arctic Monkeys",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "0ZUmodAwUq8cQJFvyibKwT",
+    "name": "There’d Better Be A Mirrorball",
+    "image": "https://i.scdn.co/image/ab67616d00001e0222ad6386462b75d7371aefae",
+    "artist": "Arctic Monkeys",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "2ym2jcqckXqWeTDoxz3Kst",
     "name": "Suck It and See",
     "image": "https://i.scdn.co/image/ab67616d00001e02cb44038b22f3d8a5e4e62d5a",
     "artist": "Arctic Monkeys",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "7fs84A1nvT19DGHdd4mGT8",
+    "name": "Fluorescent Adolescent",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ae5f1a07fe350cdd97153876",
+    "artist": "Arctic Monkeys",
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "219r3vm32Uzj5Ef7lu9aKw",
     "name": "Leave Before The Lights Come On",
     "image": "https://i.scdn.co/image/ab67616d00001e02fc5f23d71de7ad824565f94c",
     "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "0SlR6pLgIqWFUkuUfbNbm0",
     "name": "Why'd You Only Call Me When You're High?",
     "image": "https://i.scdn.co/image/ab67616d00001e0217997aeea63f3135e3c07e09",
     "artist": "Arctic Monkeys",
-    "price": "12.99"
-  },
-  {
-    "id": "3tEGBDGnejHf4mx1YSqKnb",
-    "name": "Who The F*** Are Arctic Monkeys?",
-    "image": "https://i.scdn.co/image/ab67616d00001e024fe0b5be5a42d53d5bc645f7",
-    "artist": "Arctic Monkeys",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5SkPWtT5QFPsV2ix1J5Lnm",
     "name": "Fluorescent Adolescent",
     "image": "https://i.scdn.co/image/ab67616d00001e02efc855fc2b898212fdd7ef11",
     "artist": "Arctic Monkeys",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "3tEGBDGnejHf4mx1YSqKnb",
+    "name": "Who The F*** Are Arctic Monkeys?",
+    "image": "https://i.scdn.co/image/ab67616d00001e024fe0b5be5a42d53d5bc645f7",
+    "artist": "Arctic Monkeys",
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "7Heaa0B4KOxdWhSICTR2wE",
     "name": "Live at the Royal Albert Hall",
     "image": "https://i.scdn.co/image/ab67616d00001e02753ff61c73b2861911ce590d",
     "artist": "Arctic Monkeys",
-    "price": "17.99"
-  },
-  {
-    "id": "0AtlEQ56o0yKOd9qM1EBp0",
-    "name": "Body Paint",
-    "image": "https://i.scdn.co/image/ab67616d00001e028187cf1b141898d7c7d04d1a",
-    "artist": "Arctic Monkeys",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "2Kq71zM5PE6IB5X5zOwo6d",
     "name": "Cornerstone",
     "image": "https://i.scdn.co/image/ab67616d00001e022ca8ef8a01b48f0a3b560956",
     "artist": "Arctic Monkeys",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
-    "id": "7FwV5ibe9JVQZvnR9brOz2",
-    "name": "One For The Road",
-    "image": "https://i.scdn.co/image/ab67616d00001e022c384839c0db88884f0b8037",
+    "id": "0AtlEQ56o0yKOd9qM1EBp0",
+    "name": "Body Paint",
+    "image": "https://i.scdn.co/image/ab67616d00001e028187cf1b141898d7c7d04d1a",
     "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1iXbmA1guiEgh69kIcr0On",
     "name": "I Ain't Quite Where I Think I Am",
     "image": "https://i.scdn.co/image/ab67616d00001e023337c088fe6b1540ab13fe11",
     "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "7FwV5ibe9JVQZvnR9brOz2",
+    "name": "One For The Road",
+    "image": "https://i.scdn.co/image/ab67616d00001e022c384839c0db88884f0b8037",
+    "artist": "Arctic Monkeys",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "56YFH1uK60gdeVgxOxPHLl",
     "name": "R U Mine? / Electricity",
     "image": "https://i.scdn.co/image/ab67616d00001e02b47993a314c504506062cfb3",
     "artist": "Arctic Monkeys",
-    "price": "12.99"
-  },
-  {
-    "id": "2rkuPRtC7rZlcsOCwTmdpF",
-    "name": "I Bet You Look Good On The Dancefloor",
-    "image": "https://i.scdn.co/image/ab67616d00001e0266081408a44e4176f20bad86",
-    "artist": "Arctic Monkeys",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "205UoabL8LIgfrjHi0uvUw",
     "name": "Low Expectations",
     "image": "https://i.scdn.co/image/ab67616d00001e021c347e1944635fc3c2452f9f",
     "artist": "Atlus",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0LF0P5o4DternFuuPUGqNP",
     "name": "Lowlife",
     "image": "https://i.scdn.co/image/ab67616d00001e025aa6ddd45dd1b79db699414b",
     "artist": "YUNGBLUD",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "2ZYIby6irhfnCE3uQDBCi0",
     "name": "Lowlife Princess: Noir",
     "image": "https://i.scdn.co/image/ab67616d00001e027bc2c6af7c58992239920313",
     "artist": "BIBI",
-    "price": "12.99"
-  },
-  {
-    "id": "2de6LD7eOW8zrlorbS28na",
-    "name": "Low (2017 Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d00001e025ef4c0001dc9628f08bbf277",
-    "artist": "David Bowie",
-    "price": "15.99"
-  },
-  {
-    "id": "3duCww2adwRWRR8811ErjL",
-    "name": "Low Slow Noise",
-    "image": "https://i.scdn.co/image/ab67616d00001e0253777bd20ed0797f08b7a055",
-    "artist": "Soundstars",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "750shYsIKtXr6QxdSdrKgH",
     "name": "LowKey",
     "image": "https://i.scdn.co/image/ab67616d00001e02b30dcb63a02a4db5f581bd08",
     "artist": "Bryant Myers",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "3duCww2adwRWRR8811ErjL",
+    "name": "Low Slow Noise",
+    "image": "https://i.scdn.co/image/ab67616d00001e0253777bd20ed0797f08b7a055",
+    "artist": "Soundstars",
+    "price": "15.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "2de6LD7eOW8zrlorbS28na",
+    "name": "Low (2017 Remaster)",
+    "image": "https://i.scdn.co/image/ab67616d00001e025ef4c0001dc9628f08bbf277",
+    "artist": "David Bowie",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "6a1p03zluxNwXTVdm9IStw",
     "name": "lowkey",
     "image": "https://i.scdn.co/image/ab67616d00001e02135a78be90223c126a4e2c36",
     "artist": "NIKI",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
-    "id": "7jVRaNxSNh9oGTUUZd2Q5z",
-    "name": "Lowkey",
-    "image": "https://i.scdn.co/image/ab67616d00001e026f67c47a5bd610dba9c86ef3",
-    "artist": "Lovely Peaches",
-    "price": "17.99"
+    "id": "6S2U5Eij3jlBfxKAwwh9uP",
+    "name": "Low",
+    "image": "https://i.scdn.co/image/ab67616d00001e029a69ccdba2d9aa706b10e640",
+    "artist": "Brxn",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "2EvTMiJyF3H4BoxNCL4HLh",
     "name": "low kii savage",
     "image": "https://i.scdn.co/image/ab67616d00001e02b050cb7204a635068a051913",
     "artist": "Kiiara",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
-    "id": "1aBuYA8OYPyRf043P6P74W",
-    "name": "Lowrider Magazine Soundtrack Vol. 2",
-    "image": "https://i.scdn.co/image/ab67616d00001e02bd4441fe860f3a593dd3b140",
-    "artist": "Various Artists",
-    "price": "15.99"
+    "id": "7jVRaNxSNh9oGTUUZd2Q5z",
+    "name": "Lowkey",
+    "image": "https://i.scdn.co/image/ab67616d00001e026f67c47a5bd610dba9c86ef3",
+    "artist": "Lovely Peaches",
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1ns3CtSmx6z1p7pNIUbNxv",
     "name": "Lowest In Me",
     "image": "https://i.scdn.co/image/ab67616d00001e02db9031a4a4e86bb6242bedfb",
     "artist": "Staind",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
-    "id": "7G9lckdmZ2tPiYhipabkrP",
-    "name": "Low (feat. T-Pain)",
-    "image": "https://i.scdn.co/image/ab67616d00001e026f77650be7a9e3510c0a2ea1",
-    "artist": "Flo Rida",
-    "price": "19.99"
+    "id": "6oBg7nZXpNusWCIh2fndHh",
+    "name": "Lowkey (Sped Up)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e53f43b6ad8c2c6dd54acf0e",
+    "artist": "Rochelle Jordan",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "7efHx0rcNNUEqHbZFVe4yM",
     "name": "Low Tides",
     "image": "https://i.scdn.co/image/ab67616d00001e022116bae115425bdf56b172c9",
     "artist": "Acito",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0igSzREsPxNFQJrFhhsl0j",
     "name": "Low",
     "image": "https://i.scdn.co/image/ab67616d00001e0276ba6c7f1e04e9a2662a1565",
     "artist": "Lund",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "1p12OAWwudgMqfMzjMvl2a",
     "name": "The Low End Theory",
     "image": "https://i.scdn.co/image/ab67616d00001e02f38c6b37a21334e22005b1f7",
     "artist": "A Tribe Called Quest",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "0ZDlbRhsIMedIxxmqOXU0H",
     "name": "Low (LUNAX Remix)",
     "image": "https://i.scdn.co/image/ab67616d00001e02b97347c7a3a27aa66b6a48a7",
     "artist": "71 Digits",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "56aYNth1A4q02fd3cUn3QQ",
     "name": "Low",
     "image": "https://i.scdn.co/image/ab67616d00001e027d8a16bb2845150bf2fd8aef",
     "artist": "71 Digits",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "4MwosQ9tTm95DAaHdoNs5E",
     "name": "Lowlife",
     "image": "https://i.scdn.co/image/ab67616d00001e02df5bd10ce6f6fc2723f892b4",
     "artist": "YUNGBLUD",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3XZux8CL117KU7TVPSFZSm",
     "name": "Low",
     "image": "https://i.scdn.co/image/ab67616d00001e0278e4f6e273986b234837bbe8",
     "artist": "Boinas",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
-    "id": "4r8c1dnHiTKnZSgzx9ae9L",
-    "name": "LOWERCASE TAPE.",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e11a1eb72dd5ae51d16d08f9",
-    "artist": "nobigdyl.",
-    "price": "19.99"
+    "id": "7LFYknpolISd3ObShh7nSe",
+    "name": "Low Season",
+    "image": "https://i.scdn.co/image/ab67616d00001e02cdb04581841c668f5451dde5",
+    "artist": "Poolside",
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "0PhjFcIDPt9cBRfYSJou3v",
     "name": "ÁTTA",
     "image": "https://i.scdn.co/image/ab67616d00001e0274a5ed27045be72c484074a2",
     "artist": "Sigur Rós",
-    "price": "15.99"
-  },
-  {
-    "id": "7AUW3zs7IECZjVVks1tfb2",
-    "name": "Greatest Hits",
-    "image": "https://i.scdn.co/image/ab67616d00001e02db61a1ab53b52cd323c569f8",
-    "artist": "Björk",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5PaswxzYNOAdQtfjXMcyjc",
     "name": "Sigur Rós Presents Liminal Sleep",
     "image": "https://i.scdn.co/image/ab67616d00001e02d7d3f0459258168466fb17c9",
     "artist": "Sigur Rós",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "3FR8CV7OSyZDnxneavnh8t",
     "name": "( )",
     "image": "https://i.scdn.co/image/ab67616d00001e02b86f9276199af632c42a90cc",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1DMMv1Kmoli3Y9fVEZDUVC",
     "name": "Ágætis byrjun",
     "image": "https://i.scdn.co/image/ab67616d00001e0297d4015428c1ae8409236f69",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "12tw1A9HmwE3MHvPfHhdoP",
     "name": "Takk...",
     "image": "https://i.scdn.co/image/ab67616d00001e02ac13d37ce26e1a16e7d9cd24",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "5lTDQh05XStGCWjbEuKW45",
     "name": "Sigur Rós: Fljótavík",
     "image": "https://i.scdn.co/image/ab67616d00001e02188e5e1cc0c4eefe2a4c42fa",
     "artist": "Georg Holm",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "6KAkUwTB7LLZSmR21yLDtQ",
     "name": "Hlemmur",
     "image": "https://i.scdn.co/image/ab67616d00001e0266183ddc6eb4e35679df6a7f",
     "artist": "Sigur Rós",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "0ZHkshyLAi9f8DXdj3Z5ph",
     "name": "Valtari",
     "image": "https://i.scdn.co/image/ab67616d00001e02552b8bc7ed7bd464d69342e0",
     "artist": "Sigur Rós",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5CtxgcqieOcYKyQjGKI0nY",
     "name": "Með suð í eyrum við spilum endalaust",
     "image": "https://i.scdn.co/image/ab67616d00001e026ba7aa49af16a0efe9c51c35",
     "artist": "Sigur Rós",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "7MwLBcJxdS3LjwX9y2H3jq",
     "name": "( ) [2022 Remaster]",
     "image": "https://i.scdn.co/image/ab67616d00001e028c034d73834026d2040124e5",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1rRNqn4MTZfh393GzGvBtY",
     "name": "Kveikur",
     "image": "https://i.scdn.co/image/ab67616d00001e02d2388c226e1ab495973435ab",
     "artist": "Sigur Rós",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "2YxnnC5GW5BEWI5xPbGAeY",
     "name": "The Art of Meditation",
     "image": "https://i.scdn.co/image/ab67616d00001e0274da95f963c04fcc310ab096",
     "artist": "Sigur Rós",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4mHiqJPWemWNHwNCwynf39",
     "name": "Hvarf / Heim",
     "image": "https://i.scdn.co/image/ab67616d00001e02a14738012fb7cdf0c532d2ce",
     "artist": "Sigur Rós",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "35aAMMFurDWUvb6DAxFttv",
     "name": "(Untitled)",
     "image": "https://i.scdn.co/image/ab67616d00001e02a44fd0ce10024f0db246c696",
     "artist": "Sigur Rós",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6JrBotEj7yzL8proTXaSZT",
     "name": "Black Mirror: Hang the DJ (Music from the Original TV Series)",
     "image": "https://i.scdn.co/image/ab67616d00001e0227c241711bca23be510e96ed",
     "artist": "Alex Somers",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "6BXoPmD0Kz44HDYSLtRI9q",
     "name": "Inni (Live)",
     "image": "https://i.scdn.co/image/ab67616d00001e024b34a331e9474c59ae26c222",
     "artist": "Sigur Rós",
-    "price": "15.99"
-  },
-  {
-    "id": "49G8dSrH5JouKcZD74TULu",
-    "name": "Blóðberg",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e5b945c25398fceba29aa8ce",
-    "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "1hsdmKm56vQXN8PBrvUSLr",
     "name": "Ágætis byrjun - A Good Beginning (20th Anniversary Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e020de635f5915e81dd1d7ef472",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "5cpKYQ6H4dPM4RNArtaR0l",
+    "name": "Sigur",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c2f85c9a5d1979ad6473f5af",
+    "artist": "Rufus Odobata",
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "1Eaq9sameAA3etJDxMEJJ6",
     "name": "Odin's Raven Magic (with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir)",
     "image": "https://i.scdn.co/image/ab67616d00001e02673392e3e3a56388ef534196",
     "artist": "Sigur Rós",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "49G8dSrH5JouKcZD74TULu",
+    "name": "Blóðberg",
+    "image": "https://i.scdn.co/image/ab67616d00001e02e5b945c25398fceba29aa8ce",
+    "artist": "Sigur Rós",
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2vBa3poU0e82yfPtxcn9lg",
     "name": "Joy as an Act of Resistance.",
     "image": "https://i.scdn.co/image/ab67616d00001e02a0bf2b80a3028354338077d4",
     "artist": "IDLES",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "5OjtRIKdfQTlnUpkjLENeZ",
     "name": "Idles",
     "image": "https://i.scdn.co/image/ab67616d00001e02010c571dbf5a13731ade7cc4",
     "artist": "Diegita",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "27ygqCfb4dXQ3jyXnC58FU",
     "name": "CRAWLER",
     "image": "https://i.scdn.co/image/ab67616d00001e021dd8bc5295964d298b3ba206",
     "artist": "IDLES",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "4lF3DwWuQwEpCDua6W8j3Z",
     "name": "Idles",
     "image": "https://i.scdn.co/image/ab67616d00001e0221dca63e1c879e97c782ff97",
     "artist": "Bendeq Bendeq",
-    "price": "19.99"
-  },
-  {
-    "id": "1K9yhJFW4FR8Rc1VURWA5T",
-    "name": "Idlewild South (Deluxe Edition Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d00001e024e4ad725fbfb99d854e1aa25",
-    "artist": "Allman Brothers Band",
-    "price": "17.99"
-  },
-  {
-    "id": "1T0nUhUZKXBsgog7qe5u1F",
-    "name": "Damaged Goods",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a169e746f73c68e69b4f2024",
-    "artist": "IDLES",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "20O6GKv8VfyvL4Gy0TAJs7",
     "name": "Ultra Mono",
     "image": "https://i.scdn.co/image/ab67616d00001e025433f0b107d152ca5fc6a0c6",
     "artist": "IDLES",
-    "price": "15.99"
-  },
-  {
-    "id": "0h5baiovPeDhGDeDXPsOzX",
-    "name": "Welcome",
-    "image": "https://i.scdn.co/image/ab67616d00001e02cf129d4c8d0636b9d6724f30",
-    "artist": "IDLES",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "5qag6esZLv5ySuCpzh7CE6",
     "name": "Brutalism",
     "image": "https://i.scdn.co/image/ab67616d00001e022504ba6a48981ca8b0ced940",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "1K9yhJFW4FR8Rc1VURWA5T",
+    "name": "Idlewild South (Deluxe Edition Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d00001e024e4ad725fbfb99d854e1aa25",
+    "artist": "Allman Brothers Band",
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "1T0nUhUZKXBsgog7qe5u1F",
+    "name": "Damaged Goods",
+    "image": "https://i.scdn.co/image/ab67616d00001e02a169e746f73c68e69b4f2024",
+    "artist": "IDLES",
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "0h5baiovPeDhGDeDXPsOzX",
+    "name": "Welcome",
+    "image": "https://i.scdn.co/image/ab67616d00001e02cf129d4c8d0636b9d6724f30",
+    "artist": "IDLES",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "23HDA0wwaMk0nB3we3sF8q",
     "name": "Meat",
     "image": "https://i.scdn.co/image/ab67616d00001e025e699b9663b318e51e5a8ef5",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "77EcAn5H4pGamI8JiwvP4T",
     "name": "idle",
     "image": "https://i.scdn.co/image/ab67616d00001e020f20c9ef562f0048a2fc0059",
     "artist": "Jeremy Zucker",
-    "price": "15.99"
-  },
-  {
-    "id": "2Gcppu1zVf0W5KvcjJxVQB",
-    "name": "Heaven Is Here (IDLES Remix)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ae533cbf999a75f782d53c57",
-    "artist": "Florence + The Machine",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4lrtSpC4lDgHGmqJ7qC9Zo",
     "name": "Grounds",
     "image": "https://i.scdn.co/image/ab67616d00001e02ac0b8cdbc230ada4653073ea",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "2Gcppu1zVf0W5KvcjJxVQB",
+    "name": "Heaven Is Here (IDLES Remix)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ae533cbf999a75f782d53c57",
+    "artist": "Florence + The Machine",
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "64ykGE4p3OlMOTMzyAbs3E",
     "name": "Model Village",
     "image": "https://i.scdn.co/image/ab67616d00001e029818322dd09c26b64a8dcf3c",
     "artist": "IDLES",
-    "price": "19.99"
-  },
-  {
-    "id": "2N5OAV10wnJNZ0QBGMhY4p",
-    "name": "The Beachland Ballroom",
-    "image": "https://i.scdn.co/image/ab67616d00001e021903d00046158da548aeeea1",
-    "artist": "IDLES",
-    "price": "19.99"
-  },
-  {
-    "id": "0EdtTRCl3J22AnWrNpH1w9",
-    "name": "Isles",
-    "image": "https://i.scdn.co/image/ab67616d00001e027002b491db4917f96f10283a",
-    "artist": "Bicep",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3EkzlCmBddi537aJAjbSJB",
     "name": "Five Years of Brutalism",
     "image": "https://i.scdn.co/image/ab67616d00001e026b53cfcd0f14273b588062ae",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "2N5OAV10wnJNZ0QBGMhY4p",
+    "name": "The Beachland Ballroom",
+    "image": "https://i.scdn.co/image/ab67616d00001e021903d00046158da548aeeea1",
+    "artist": "IDLES",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "7I5ymLXidPuoTJ7UDvjGaP",
     "name": "Mercedes Marxist",
     "image": "https://i.scdn.co/image/ab67616d00001e02635009e6908151a6b0d2da3f",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "0EdtTRCl3J22AnWrNpH1w9",
+    "name": "Isles",
+    "image": "https://i.scdn.co/image/ab67616d00001e027002b491db4917f96f10283a",
+    "artist": "Bicep",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "3L6JBfRxhzGzhhRDlTEdBz",
     "name": "Idlewild",
     "image": "https://i.scdn.co/image/ab67616d00001e023a6e47b30d9af72db1dba2da",
     "artist": "Outkast",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "33oM16jRGfm4QzDalm6kFi",
     "name": "Peace Signs",
     "image": "https://i.scdn.co/image/ab67616d00001e023e71ebf370bb308ada1da022",
     "artist": "IDLES",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6tVg2Wl9hVKMpHYcAl2V2M",
     "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
     "image": "https://i.scdn.co/image/ab67616d00001e0246d124df5651c307aee255fd",
     "artist": "King Crimson",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "4dgsjsPIogKXhFlPZSYjvT",
     "name": "In The Wake Of Poseidon",
     "image": "https://i.scdn.co/image/ab67616d00001e02e76e3b1e100a5a5a054a3130",
     "artist": "King Crimson",
-    "price": "12.99"
-  },
-  {
-    "id": "4VKzYj7REUxkP1VXTdvSoV",
-    "name": "Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02a3580595cf9ef6ef46ba1566",
-    "artist": "King Crimson",
-    "price": "17.99"
-  },
-  {
-    "id": "7KxUQCCvE0edGiqBS6ywEd",
-    "name": "Discipline",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ea405d135941490220bcfe3d",
-    "artist": "King Crimson",
-    "price": "12.99"
-  },
-  {
-    "id": "13dGZzRzFoejmyVXAbTPAH",
-    "name": "Red (Expanded & Remastered Original Album Mix)",
-    "image": "https://i.scdn.co/image/ab67616d00001e020960f0681fc6e31fdc55cc43",
-    "artist": "King Crimson",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "0lsSMm3rM4AQ3m9W9E8zU5",
     "name": "Three of a Perfect Pair",
     "image": "https://i.scdn.co/image/ab67616d00001e0293f06a68893068838f7f9007",
     "artist": "King Crimson",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "7KxUQCCvE0edGiqBS6ywEd",
+    "name": "Discipline",
+    "image": "https://i.scdn.co/image/ab67616d00001e02ea405d135941490220bcfe3d",
+    "artist": "King Crimson",
+    "price": "17.99",
+    "category": "Classics"
+  },
+  {
+    "id": "13dGZzRzFoejmyVXAbTPAH",
+    "name": "Red (Expanded & Remastered Original Album Mix)",
+    "image": "https://i.scdn.co/image/ab67616d00001e020960f0681fc6e31fdc55cc43",
+    "artist": "King Crimson",
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "2Eaep5bQ8I6ygLtzVJ2CWz",
     "name": "Starless And Bible Black",
     "image": "https://i.scdn.co/image/ab67616d00001e02fe02f6f7491e86036f2c246c",
     "artist": "King Crimson",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Sales"
+  },
+  {
+    "id": "4VKzYj7REUxkP1VXTdvSoV",
+    "name": "Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02a3580595cf9ef6ef46ba1566",
+    "artist": "King Crimson",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "3qgsEHi1mqPubkwk8UA33Q",
     "name": "THRAK",
     "image": "https://i.scdn.co/image/ab67616d00001e02932bf9ad4073f492ef7295c8",
     "artist": "King Crimson",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "70UWdLBwzIDEu1o30kWGjG",
     "name": "Beat",
     "image": "https://i.scdn.co/image/ab67616d00001e025be941c94813772986119b16",
     "artist": "King Crimson",
-    "price": "15.99"
-  },
-  {
-    "id": "7hdMmwpZmRf8efyh7G2pOl",
-    "name": "King Creole",
-    "image": "https://i.scdn.co/image/ab67616d00001e02bcaf1f8c19da67c919589434",
-    "artist": "Elvis Presley",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "5IjHbREQk3P0XtVfAywac9",
     "name": "Radical Action To Unseat the Hold of Monkey Mind (Live)",
     "image": "https://i.scdn.co/image/ab67616d00001e026982f3da8785526862653d78",
     "artist": "King Crimson",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4jfFma9AGLuMb8rrBzD54z",
     "name": "The Condensed 21st Century Guide To King Crimson (1969 - 2003)",
     "image": "https://i.scdn.co/image/ab67616d00001e02aae1bc5d960437c6d3280589",
     "artist": "King Crimson",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "7b8t2K8fvaZseDqeo19eGJ",
     "name": "Lizard",
     "image": "https://i.scdn.co/image/ab67616d00001e02ad5ef97dff124ecb34ae823d",
     "artist": "King Crimson",
-    "price": "15.99"
-  },
-  {
-    "id": "5SHta5TtyI85Vb9pUBMYuG",
-    "name": "Islands",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fa67309d422c49cff8b5e335",
-    "artist": "King Crimson",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5pIlrozY8PGhN3DOTwPUqO",
     "name": "21st Century Schizoid Man (KC50, Vol. 1)",
     "image": "https://i.scdn.co/image/ab67616d00001e025135eefbab1f77862acde050",
     "artist": "King Crimson",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "5SHta5TtyI85Vb9pUBMYuG",
+    "name": "Islands",
+    "image": "https://i.scdn.co/image/ab67616d00001e02fa67309d422c49cff8b5e335",
+    "artist": "King Crimson",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "3JKdviD9XZr58o8vAHlO2G",
     "name": "The Power To Believe",
     "image": "https://i.scdn.co/image/ab67616d00001e023905e67dd14cbd930f39068c",
     "artist": "King Crimson",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "6MbZtDSaxGT4kf8NEsd8zm",
     "name": "Absent Lovers (Live in Montreal, 1984)",
     "image": "https://i.scdn.co/image/ab67616d00001e021102ccc05e87691585708e8e",
     "artist": "King Crimson",
-    "price": "12.99"
-  },
-  {
-    "id": "3mgF3kxMdHHQqRl6NMcctY",
-    "name": "I Talk To The Wind (KC50 Vol. 48)",
-    "image": "https://i.scdn.co/image/ab67616d00001e028b63cf3064bfa1b920f6a374",
-    "artist": "King Crimson",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0e08qyQvMoNqG3Vfe9httP",
     "name": "King Krule",
     "image": "https://i.scdn.co/image/ab67616d00001e023e02c0dcf729dc64ae7bece0",
     "artist": "King Krule",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "3mgF3kxMdHHQqRl6NMcctY",
+    "name": "I Talk To The Wind (KC50 Vol. 48)",
+    "image": "https://i.scdn.co/image/ab67616d00001e028b63cf3064bfa1b920f6a374",
+    "artist": "King Crimson",
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "11GubgranwP3axTL22uz8d",
     "name": "The ConstruKction of Light",
     "image": "https://i.scdn.co/image/ab67616d00001e021ef8c9d56355a99e2fe58b39",
     "artist": "King Crimson",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "4kNnXWAPlVekku543YWIEb",
+    "name": "USA",
+    "image": "https://i.scdn.co/image/ab67616d00001e0251f8af39217cc5b48f514c07",
+    "artist": "King Crimson",
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "4tK7Hlb92sbC6OEKQG7QiJ",
     "name": "Bubblegum",
     "image": "https://i.scdn.co/image/ab67616d00001e0205f3f40cb1ae63c65128aff4",
     "artist": "Mark Lanegan",
-    "price": "12.99"
-  },
-  {
-    "id": "44Jm2DmTw3G8UaCK6Fhmo7",
-    "name": "Blues Funeral",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f580ac476598d2144c8e9d8c",
-    "artist": "Mark Lanegan",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "4vPZUSwLbvknOOo9UJZQVs",
     "name": "Hawk",
     "image": "https://i.scdn.co/image/ab67616d00001e020ef11b71c93846655f7b0d31",
     "artist": "Isobel Campbell",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "44Jm2DmTw3G8UaCK6Fhmo7",
+    "name": "Blues Funeral",
+    "image": "https://i.scdn.co/image/ab67616d00001e02f580ac476598d2144c8e9d8c",
+    "artist": "Mark Lanegan",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "0NlNOxlL0jM5kKo0AJ7duq",
     "name": "I'll Take Care of You",
     "image": "https://i.scdn.co/image/ab67616d00001e0214937397a6bddf45cca94017",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "7nB7r0yBmVMDJfnADLdMie",
     "name": "The Winding Sheet",
     "image": "https://i.scdn.co/image/ab67616d00001e02b701ec85e76a3633c1947752",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5MscroQK1QhbVhUJs1gNXf",
     "name": "Straight Songs Of Sorrow",
     "image": "https://i.scdn.co/image/ab67616d00001e024391a886fb335e4617ef69c2",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "1uaQEWs4HAfSMxXnORJHhG",
     "name": "Whiskey For The Holy Ghost",
     "image": "https://i.scdn.co/image/ab67616d00001e02b814881433fed3a1385a5dc6",
     "artist": "Mark Lanegan",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "7cp4HPwRoCLIPCSo6YzxId",
     "name": "Imitations",
     "image": "https://i.scdn.co/image/ab67616d00001e021ddef9e075c4b5d6a993e882",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "6amYke3Bm1DSXsxszbFN2V",
     "name": "Field Songs",
     "image": "https://i.scdn.co/image/ab67616d00001e0284fb5a07d818360f04a0fa04",
     "artist": "Mark Lanegan",
-    "price": "12.99"
-  },
-  {
-    "id": "6nCviCRyD2aptKlHAN7lEj",
-    "name": "Gargoyle",
-    "image": "https://i.scdn.co/image/ab67616d00001e0251425316a390dc6316bcae4c",
-    "artist": "Mark Lanegan",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "1kNgkiXyn2Xr0YuAemcrlE",
     "name": "Ballad of the Broken Seas",
     "image": "https://i.scdn.co/image/ab67616d00001e02afa3d5f43ddca31892b4330d",
     "artist": "Isobel Campbell",
-    "price": "12.99"
-  },
-  {
-    "id": "724LIR6vd2sW4VyxyhP3de",
-    "name": "Sunday at Devil Dirt",
-    "image": "https://i.scdn.co/image/ab67616d00001e0286397d5407371fb4499c4a60",
-    "artist": "Isobel Campbell",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5PScNRZhTqj6M92hyOmdfS",
     "name": "Houston Publishing Demos 2002",
     "image": "https://i.scdn.co/image/ab67616d00001e02dd9181cd2614145c0e52aeca",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "724LIR6vd2sW4VyxyhP3de",
+    "name": "Sunday at Devil Dirt",
+    "image": "https://i.scdn.co/image/ab67616d00001e0286397d5407371fb4499c4a60",
+    "artist": "Isobel Campbell",
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "6nCviCRyD2aptKlHAN7lEj",
+    "name": "Gargoyle",
+    "image": "https://i.scdn.co/image/ab67616d00001e0251425316a390dc6316bcae4c",
+    "artist": "Mark Lanegan",
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "45ZZlVIqxmILJDkhn9g31Q",
     "name": "Scraps at Midnight",
     "image": "https://i.scdn.co/image/ab67616d00001e023afa9d324a7dedcd5e27867d",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6GNDETALEF5gZUoMwOqL5Y",
     "name": "Phantom Radio",
     "image": "https://i.scdn.co/image/10e581dc8403a10d9636337d2392180a0cd4f00d",
     "artist": "Mark Lanegan",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "6udwWMjAd1Q5zyNzjxJu4g",
     "name": "Somebody's Knocking",
     "image": "https://i.scdn.co/image/ab67616d00001e02b059eb5780b5aebcc1ad6274",
     "artist": "Mark Lanegan",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "5b96Ll0OtET4iAwABtbS2H",
     "name": "Bloodline",
     "image": "https://i.scdn.co/image/ab67616d00001e0257653e84f7cddb6162045c7e",
     "artist": "Mark Lanegan",
-    "price": "15.99"
-  },
-  {
-    "id": "6tFLaFzsYAWNv0VctKguZk",
-    "name": "The Lonely Night (Reprise Version)",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f54ce2fd70e439abad9518d3",
-    "artist": "Moby",
-    "price": "19.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "4X4QDTg9KAvDBwdrHvntus",
     "name": "Hawk",
     "image": "https://i.scdn.co/image/ab67616d00001e02031e4147a04e8362f50e3cd3",
     "artist": "Isobel Campbell",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Best Sellers"
+  },
+  {
+    "id": "22sfsfd4a9Qtqb1E0TDUgl",
+    "name": "No Part of Nothin'",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d63154e7e5f7540bc652caa3",
+    "artist": "Mark Lavengood",
+    "price": "12.99",
+    "category": "Classics"
+  },
+  {
+    "id": "1PASMmYogYFUXbySmu5y3S",
+    "name": "Here Comes That Weird Chill (Methamphetamine Blues, Extras and Oddities)",
+    "image": "https://i.scdn.co/image/ab67616d00001e02628288b94db1d222eac1da53",
+    "artist": "Mark Lanegan",
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "71b2Yqz7DCWPuS6YXoMLFa",
     "name": "The Revolt Against Tired Noises",
     "image": "https://i.scdn.co/image/ab67616d00001e026ac4f66ea434744239cb3fa9",
     "artist": "Yawning Man",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   },
   {
     "id": "6xRg36iFjedT4LuH8gfk2n",
     "name": "Macedonian Lines",
     "image": "https://i.scdn.co/image/ab67616d00001e0285da9c791364e4ccb92d5084",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "55gshR9rVckcY6TrDW5n8d",
     "name": "Rock Formations",
     "image": "https://i.scdn.co/image/ab67616d00001e02b5944f926d388c471a63a467",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Classics"
   },
   {
     "id": "4lXnqXiv0rrGdoBpIgPVle",
     "name": "Pot Head",
     "image": "https://i.scdn.co/image/ab67616d00001e02c0b2230810d7ddaa1d934087",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "63j1bHAkaHjUU6l6WyODiw",
     "name": "Vista Point",
     "image": "https://i.scdn.co/image/ab67616d00001e0243780ce6f9eb11e204ce33f9",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5sPHlsPWp0BArmzOwv7not",
     "name": "Long Walk of The Navajo",
     "image": "https://i.scdn.co/image/ab67616d00001e02a1de34c8c9e4c844b734f398",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Sales"
   },
   {
     "id": "6ms8IXNl6dXiPkQ8vq0VaT",
     "name": "Young Man",
     "image": "https://i.scdn.co/image/ab67616d00001e0295a0d5929035dbb6b6284783",
     "artist": "Skrizzly Adams",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "450AYOLCd8AltvLRDBMle4",
     "name": "Historical Graffiti",
     "image": "https://i.scdn.co/image/ab67616d00001e02c49021d65e90e17434da807c",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5OO9l6hQA0gPv3cD9rnbHx",
     "name": "Live At Giant Rock",
     "image": "https://i.scdn.co/image/ab67616d00001e02e761dadea6113fed1a03464d",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Sales"
   },
   {
     "id": "7rFYFM4Wt5qWmJjR56AYny",
     "name": "Live At Maximum Festival [(Live) [Remastered]]",
     "image": "https://i.scdn.co/image/ab67616d00001e02edf3e92cc27680ab7b9ee9cd",
     "artist": "Yawning Man",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3gx4l3nb8YOPcYfsv0ullz",
     "name": "Pot Head",
     "image": "https://i.scdn.co/image/ab67616d00001e023b4d81eed23fe948e7de2524",
     "artist": "Yawning Man",
-    "price": "12.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5xUXTsAmp50Z2G6jdC90dE",
     "name": "Heart & Earth",
     "image": "https://i.scdn.co/image/ab67616d00001e020a9cea4ff6614196ace66e56",
     "artist": "Yawning Portal",
-    "price": "15.99"
-  },
-  {
-    "id": "5YUWiBns0Dnz97iLI10jqy",
-    "name": "Tumbleweeds In The Snow (Live)",
-    "image": "https://i.scdn.co/image/ab67616d00001e022e5232eec0d0f9ae93ca916b",
-    "artist": "Yawning Man",
-    "price": "19.99"
-  },
-  {
-    "id": "1fITwBCOzemc5yrxxg5rfc",
-    "name": "The Last Summer Eye (Live)",
-    "image": "https://i.scdn.co/image/ab67616d00001e020a52cd858ff521ef30d07636",
-    "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2mIQDKpekmf15hyhB6eW53",
     "name": "Blood Sand",
     "image": "https://i.scdn.co/image/ab67616d00001e024f9b44b1df5832b7103f02e1",
     "artist": "Yawning Man",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "Sales"
+  },
+  {
+    "id": "1fITwBCOzemc5yrxxg5rfc",
+    "name": "The Last Summer Eye (Live)",
+    "image": "https://i.scdn.co/image/ab67616d00001e020a52cd858ff521ef30d07636",
+    "artist": "Yawning Man",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "5YUWiBns0Dnz97iLI10jqy",
+    "name": "Tumbleweeds In The Snow (Live)",
+    "image": "https://i.scdn.co/image/ab67616d00001e022e5232eec0d0f9ae93ca916b",
+    "artist": "Yawning Man",
+    "price": "15.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3jZ1OMY3nm0f8EvarANLZJ",
     "name": "Respiratory Pause",
     "image": "https://i.scdn.co/image/ab67616d00001e02c1a7f1c6ce73d0cc37b57177",
     "artist": "Yawning Man",
-    "price": "15.99"
+    "price": "15.99",
+    "category": "Best Sellers"
   },
   {
     "id": "0BIlyur9z51v6GU5pQ6hDd",
     "name": "Live at Maximum Festival",
     "image": "https://i.scdn.co/image/ab67616d00001e0282fd4bea6d861519cd9d5ae7",
     "artist": "Yawning Man",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Back to Catalogue"
+  },
+  {
+    "id": "2SqPb8xARcWkNJbAE4GRkx",
+    "name": "Liquor Art",
+    "image": "https://i.scdn.co/image/ab67616d00001e02c7b94c4e76cb30286033d372",
+    "artist": "Yawning",
+    "price": "19.99",
+    "category": "New Arrivals"
+  },
+  {
+    "id": "1TLIJAbgcbOX27xgLXPsFR",
+    "name": "Mindfulness Exercises – Music for Meditation and Meditation Exercises: Practices of Gratitude, Yawning and Stretching, Careful Breathing, Loving Kindness Meditation and Many Others",
+    "image": "https://i.scdn.co/image/ab67616d00001e0238b725f79118d0bd492482b7",
+    "artist": "Mindfulness Meditation Universe",
+    "price": "19.99",
+    "category": "Sales"
+  },
+  {
+    "id": "6zpWMyIlpCOWjSmN33rhBt",
+    "name": "Walking On Water",
+    "image": "https://i.scdn.co/image/ab67616d00001e02d199ab59d83100381919be1d",
+    "artist": "Yawning Portal",
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "0Z1Y5L90NjqUD351YUQWdA",
     "name": "The Stooges",
     "image": "https://i.scdn.co/image/ab67616d00001e02002d4aa00a80e1be587cef7e",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "3MANoCcmaHWeXSuWiO3iVo",
     "name": "The Stooges",
     "image": "https://i.scdn.co/image/ab67616d00001e02a7d2baa04a56c87de579db69",
     "artist": "The Stooges",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6mxbG8KrOTZIxlP4gzaliM",
     "name": "Raw Power (Iggy Mix - 2023 Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e024429b4094784314865fd09fd",
     "artist": "The Stooges",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5qhXaVIC5BdE4a5Kq1FMZG",
     "name": "Funhouse",
     "image": "https://i.scdn.co/image/ab67616d00001e022c7d41ae194ef7aaaba3fee3",
     "artist": "The Stooges",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Classics"
   },
   {
     "id": "6rD578ymApHN2XU7wvjeew",
     "name": "Raw Power (50th Anniversary Legacy Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02e104d8b88560f7c3c84eb129",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "3FTcomSFg2zWSqWLRgBYpv",
     "name": "Fun House (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e0213aa419336db598eb2674b1a",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "17.99",
+    "category": "Sales"
   },
   {
     "id": "5n9MNlvwkaVv6Q2ja52pE0",
     "name": "The Stooges (Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e02176781b3ea724c2f2193c365",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "2jIzYmu0kYyj2NeO9p5Sx5",
     "name": "Heavy Liquid 'The Album'",
     "image": "https://i.scdn.co/image/ab67616d00001e02c7b636d481ce3ce4dba51690",
     "artist": "The Stooges",
-    "price": "17.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
     "id": "5S38cTeAWT2aqlArzdWbuc",
     "name": "The Weirdness",
     "image": "https://i.scdn.co/image/ab67616d00001e02a1734be2bdf36e58b58df7b2",
     "artist": "The Stooges",
-    "price": "12.99"
+    "price": "19.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "4FZ7coZzAHNQBNh8rWn5M3",
     "name": "Born In A Trailer: The Session & Rehearsal Tapes '72-'73",
     "image": "https://i.scdn.co/image/ab67616d00001e02a6a110129cd429c979fa61de",
     "artist": "The Stooges",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "Classics"
   },
   {
     "id": "1AoiNcmFsAfTp0UiPne3JF",
     "name": "Louie Louie",
     "image": "https://i.scdn.co/image/ab67616d00001e027d7e4666f79ca6b137cd96cf",
     "artist": "Iggy Pop",
-    "price": "17.99"
+    "price": "19.99",
+    "category": "Classics"
   },
   {
     "id": "2lrhmzDdex1RWWkJj4MlqH",
     "name": "Ready to Die",
     "image": "https://i.scdn.co/image/ab67616d00001e02954552dea4904662f3f233ee",
     "artist": "The Stooges",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "6wLn5qXBJgZfAbM0bt5vov",
     "name": "Raw Power (Bowie Mix - 2023 Remaster)",
     "image": "https://i.scdn.co/image/ab67616d00001e02122e4cc12e335ca4123bb19f",
     "artist": "The Stooges",
-    "price": "15.99"
+    "price": "12.99",
+    "category": "New Arrivals"
   },
   {
     "id": "1WomagkBCHeJ0MIEqjh1Nv",
     "name": "Heavy Liquid",
     "image": "https://i.scdn.co/image/ab67616d00001e02ab194c5307281813940e38a2",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "12.99",
+    "category": "Back to Catalogue"
   },
   {
     "id": "5hBbiVCgSQ68JfWE3UAwf3",
     "name": "1970: The Complete Fun House Sessions",
     "image": "https://i.scdn.co/image/ab67616d00001e025a94b11de6197d5ea3a45921",
     "artist": "The Stooges",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "Best Sellers"
   },
   {
     "id": "74tZsMPQLE5yIcz4qcoCsO",
     "name": "A Fire Of Life",
     "image": "https://i.scdn.co/image/ab67616d00001e02134007091042b590c1da3797",
     "artist": "The Stooges",
-    "price": "19.99"
+    "price": "19.99",
+    "category": "Best Sellers"
   },
   {
     "id": "43bwT6QlodDrQt8EPM9D5Y",
     "name": "Jesus Loves The Stooges",
     "image": "https://i.scdn.co/image/ab67616d00001e0272c688035e59a01a984008f4",
     "artist": "The Stooges",
-    "price": "15.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5AsJvlEtb8XO7RfzCJd6B6",
     "name": "I'm Sick Of You",
     "image": "https://i.scdn.co/image/ab67616d00001e028ffa0d0a9b7d78ed22d056bd",
     "artist": "The Stooges",
-    "price": "17.99"
+    "price": "17.99",
+    "category": "New Arrivals"
   },
   {
     "id": "5wKvbbR07oTpchjzNLQEze",
     "name": "Live at Goose Lake: August 8th 1970",
     "image": "https://i.scdn.co/image/ab67616d00001e02e3a2249b2ba8800bf4beabe5",
     "artist": "The Stooges",
-    "price": "12.99"
+    "price": "15.99",
+    "category": "Sales"
   },
   {
-    "id": "1VhjbsDwgUWW5G3hLjnEoJ",
-    "name": "Highlights From the Funhouse Sessions",
-    "image": "https://i.scdn.co/image/ab67616d00001e025b035f0564a4abfb96d897ba",
+    "id": "0sZysU7lWI01Vjla0AZ7AV",
+    "name": "Playlist: The Best of the Stooges",
+    "image": "https://i.scdn.co/image/ab67616d00001e0294e7a49c63d3b95f2b9b3f85",
     "artist": "The Stooges",
-    "price": "17.99"
+    "price": "12.99",
+    "category": "Best Sellers"
   }
 ]
