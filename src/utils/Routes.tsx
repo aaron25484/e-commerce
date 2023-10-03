@@ -7,6 +7,7 @@ import ClassicsPage from "../components/Category/Classics";
 import BestSellersPage from "../components/Category/BestSellers";
 import BackCataloguePage from "../components/Category/BackCatalogue";
 import BackButton from "./BackButton";
+import { ProductsPage } from "../components/Products/Products";
 
 export const RouterPaths:FC<any> = () => {
     
@@ -19,7 +20,8 @@ export const RouterPaths:FC<any> = () => {
                     <Route path="/Classics" element={<ClassicsPage />} />
                     <Route path="/Sales" element={<SalesPage />}/>
                     <Route path="/Best Sellers" element={<BestSellersPage />} />
-                    <Route path="/Back to Catalogue" element={<BackCataloguePage />} />
+                    <Route path="/Back to Catalogue" element={<BackCataloguePage />} /> 
+                    <Route path="/:id" element={<ProductsPage/>} />
                 </Routes>
                 <BackButton />
             </BrowserRouter>

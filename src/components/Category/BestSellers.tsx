@@ -1,18 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { getProducts, Product } from '../../utils/API';
+import { ProductContext } from '../../utils/API';
 
 const BestSellersPage: React.FC = () => {
-  const [products, setProducts] = useState<Product[]>([]);
-
-  useEffect(() => {
-    const fetchProductsData = async () => {
-      const data = await getProducts();
-      setProducts(data);
-    };
-
-    fetchProductsData();
-  }, []);
+  const {products} = useContext(ProductContext)
 
   const renderBestSellers = () => {
     const bestSellers = products.filter((product) => product.category === 'Best Sellers');

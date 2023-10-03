@@ -1,18 +1,10 @@
-import { useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { getProducts, Product } from './API';
+import { ProductContext } from './API';
 
 const Category: React.FC = () => {
-  const [products, setProducts] = useState<Product[]>([]);
-  
-  useEffect(() => {
-    const fetchProductsData = async () => {
-      const data = await getProducts();
-      setProducts(data);
-    };
 
-    fetchProductsData();
-  }, []);
+  const {products} = useContext(ProductContext)
 
   const renderCarousel = (category: string) => {
     const categoryProducts = products.filter((product) => product.category === category);

@@ -1,18 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { getProducts, Product } from '../../utils/API';
+import { ProductContext } from '../../utils/API';
 
 const NewArrivalsPage: React.FC = () => {
-  const [products, setProducts] = useState<Product[]>([]);
-
-  useEffect(() => {
-    const fetchProductsData = async () => {
-      const data = await getProducts();
-      setProducts(data);
-    };
-
-    fetchProductsData();
-  }, []);
+  const {products} = useContext(ProductContext)
 
   const renderNewArrivals = () => {
     const newArrivals = products.filter((product) => product.category === 'New Arrivals');

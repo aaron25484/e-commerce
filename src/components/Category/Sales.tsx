@@ -1,28 +1,18 @@
-import React, { useEffect, useState } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { getProducts, Product } from '../../utils/API';
+import { ProductContext} from '../../utils/API';
 
 const SalesPage: React.FC = () => {
-  const [products, setProducts] = useState<Product[]>([]);
-
-  useEffect(() => {
-    const fetchProductsData = async () => {
-      const data = await getProducts();
-      setProducts(data);
-    };
-
-    fetchProductsData();
-  }, []);
+  const {products} = useContext(ProductContext)
 
   const renderSales = () => {
     const sales = products.filter((product) => product.category === 'Sales');
-    const limitedSales = sales.slice(0, 5);
 
     return (
       <div>
         <h2 className="text-2xl font-bold text-yellow-500">Sales</h2>
         <div className="flex flex-wrap justify-center">
-          {limitedSales && limitedSales.map((product) => (
+          {sales && sales.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
               <Link to={`/${product.category}`}>
                 <img
