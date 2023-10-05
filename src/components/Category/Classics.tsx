@@ -14,16 +14,16 @@ const ClassicsPage: React.FC = () => {
         <div className="flex flex-wrap justify-center">
           {classics && classics.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
-              <Link to={`/${product.category}`}>
+              <Link to={`/${product.id}`}>
                 <img
                   src={product.image}
                   alt={product.name}
                   className="w-32 h-32 object-cover mx-auto hover:scale-110 transition-transform duration-300 transform origin-center"
-                />
+                />             
+                <p className="mt-2 text-center text-yellow-500">{product.name}</p>
+                <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
+                <p className="mt-1 text-center text-yellow-600">${product.price}</p>
               </Link>
-              <p className="mt-2 text-center text-yellow-500">{product.name}</p>
-              <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
-              <p className="mt-1 text-center text-yellow-600">${product.price}</p>
             </div>
           ))}
         </div>
