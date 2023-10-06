@@ -1,15 +1,19 @@
 import { useState, useContext } from "react";
-import { ProductContext } from "../../utils/API";
+import { Product, ProductContext } from "../../utils/API";
 import { useParams } from "react-router-dom";
+import Cart from "../Cart/Cart";
+
+import { CartContext } from "../../utils/CartContext";
+
 
   export const ProductsPage: React.FC = () => {
   const [counter, setCounter] = useState<number>(0);
   const {products} = useContext(ProductContext)
   const  {id} = useParams()
+  const [isCartOpen, setIsCartOpen] = useState<boolean>(false);
+  const { addToCart } = useContext(CartContext);
   
   const product = products.find((product)=> product.id === id)
-
-  const [selectedProduct, setSelectedProduct] = useState(product);
 
   const handleIncrease = () => {
     setCounter((prevState) => prevState + 1);
@@ -19,6 +23,17 @@ import { useParams } from "react-router-dom";
     if (counter > 0) {
       setCounter((prevState) => prevState - 1);
     } ;
+  };
+
+  const handleAddToCart = () => {
+    if (product && counter > 0) {
+      addToCart({...product, quantity: counter})
+      setIsCartOpen(true); 
+    }
+  };
+
+  const handleCloseCart = () => {
+    setIsCartOpen(false); 
   };
 
   return (
@@ -37,12 +52,13 @@ import { useParams } from "react-router-dom";
                 <button onClick={handleIncrease}>+</button>
               </div>
               <div className="product-add-to-cart">
-                <button>Add to Cart</button>
+                <button onClick={handleAddToCart} disabled={counter <= 0}>Add to Cart</button>
               </div>
             </div>
           </div>
         </>
       )}
+      <Cart isOpen={isCartOpen} onClose={handleCloseCart} />
     </div>
   );
 };

@@ -1,6 +1,7 @@
 import { FC, PropsWithChildren, createContext, useEffect, useState } from "react";
 
 export interface Product {
+  quantity: number;
   id: string;
   name: string;
   image: string;

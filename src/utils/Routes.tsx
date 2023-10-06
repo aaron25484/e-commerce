@@ -8,6 +8,8 @@ import BestSellersPage from "../components/Category/BestSellers";
 import BackCataloguePage from "../components/Category/BackCatalogue";
 import BackButton from "./BackButton";
 import { ProductsPage } from "../components/Products/Products";
+import CartPage from "./CartPage";
+
 
 export const RouterPaths:FC<any> = () => {
     
@@ -16,12 +18,13 @@ export const RouterPaths:FC<any> = () => {
             <BrowserRouter>
                 <Routes>
                     <Route path="/" element={<Category />}/>
+                    <Route path="/:id" element={<ProductsPage />} />
                     <Route path="/New Arrivals" element={<NewArrivalsPage />} />
                     <Route path="/Classics" element={<ClassicsPage />} />
                     <Route path="/Sales" element={<SalesPage />}/>
                     <Route path="/Best Sellers" element={<BestSellersPage />} />
                     <Route path="/Back to Catalogue" element={<BackCataloguePage />} /> 
-                    <Route path="/:id" element={<ProductsPage/>} />
+                    <Route path="/Cart" element={<CartPage />} />                    
                 </Routes>
                 <BackButton />
             </BrowserRouter>
