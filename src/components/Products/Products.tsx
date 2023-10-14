@@ -1,5 +1,5 @@
 import { useState, useContext } from "react";
-import { Product, ProductContext } from "../../utils/API";
+import { ProductContext } from "../../utils/API";
 import { useParams } from "react-router-dom";
 import Cart from "../Cart/Cart";
 

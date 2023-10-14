@@ -1,5 +1,5 @@
-import { Product } from "../../utils/API";
 import { useContext } from "react";
+import { useNavigate } from "react-router-dom";
 
 import { CartContext } from "../../utils/CartContext";
 
@@ -10,7 +10,8 @@ export interface CartProps {
 
 const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
     const { cart, removeFromCart, updateCartItemQuantity } = useContext(CartContext);
-    console.log("Cart data in Cart component:", cart);
+    const navigate = useNavigate()  
+
 
     let totalQuantity = 0;
     let totalAmount = 0;
@@ -18,6 +19,20 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
     for (const item of cart) {
         totalQuantity += item.quantity;
         totalAmount += parseFloat(item.price) * item.quantity;
+      }
+
+      const handleCheckout = () => {
+        
+        const isLogged = localStorage.getItem('isLogged') === 'true';
+        
+        if (isLogged) {
+          navigate("/Checkout")
+          onClose()
+        } else {
+          navigate("/Login")
+          onClose()
+        }
+
       }
 
     return (
@@ -30,7 +45,7 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
             className="fixed inset-0 bg-black opacity-80"
             onClick={onClose}
         ></div>
-        <div className="bg-white w-80 h-screen p-4 absolute top-0 right-0 rounded-l shadow-lg">
+        <div className="bg-white w-80 h-screen p-4 absolute top-0 right-0 rounded-l shadow-lg overflow-auto">
             <h2 className="text-xl font-semibold mb-4">Cart</h2>
             {cart.map((product) => (
             <div className="flex" key={product.id}>
@@ -74,6 +89,13 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
             >
             x
             </button>
+            
+            <button
+            className="bg-yellow-600 text-black px-3 py-2 rounded"
+            onClick={handleCheckout}>
+              Checkout
+            </button>
+            
         </div>
         </div>
     );

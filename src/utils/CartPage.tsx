@@ -5,7 +5,6 @@ import { CartContext } from "./CartContext";
 const CartPage: React.FC = () => {
     const { cart } = useContext(CartContext);
   
-    // Calculate total quantity and total amount
     let totalQuantity = 0;
     let totalAmount = 0;
   

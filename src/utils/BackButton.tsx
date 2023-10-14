@@ -8,7 +8,7 @@ const BackButton = () => {
 
     return (
         backHome && (
-        <button onClick={() => navigate("/")} className="fixed bottom-3 left-3 bg-yellow-600 rounded-md px-3">Back</button>
+        <button onClick={() => navigate(-1)} className="fixed bottom-3 left-3 bg-yellow-600 rounded-md px-3">Back</button>
         )
     );
 };

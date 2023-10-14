@@ -10,7 +10,7 @@ function App() {
     <>
       <Navbar/>
       <RouterPaths />
-      <Footer/>
+      <Footer/> 
     </>
   )
 }

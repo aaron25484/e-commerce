@@ -6,6 +6,7 @@ interface CartContextType {
   addToCart: (product: Product) => void;
   removeFromCart: (productId: string) => void;
   updateCartItemQuantity: (productId: string, newQuantity: number) => void;
+
 }
 
 const initialCartContext: CartContextType = {
@@ -13,30 +14,31 @@ const initialCartContext: CartContextType = {
   addToCart: () => {},
   removeFromCart: () => {},
   updateCartItemQuantity: () => {},
+
 };
 
 export const CartContext = createContext(initialCartContext);
 
 export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => {
-  const [cart, setCart] = useState<Product[]>([]);
-
-  useEffect(() => {  //Carga lo guardado en carrito
-    
+  const [cart, setCart] = useState<Product[]>(() => {
     const savedCart = localStorage.getItem("cart");
-    if (savedCart) {
-      setCart(JSON.parse(savedCart));
-      console.log("Cart data loaded from localStorage:", JSON.parse(savedCart));
-    }
-  }, []);
+    return savedCart ? JSON.parse(savedCart) : [];
+  });
 
   useEffect(() => {  //Salva lo guardado en carrito
-    
     localStorage.setItem("cart", JSON.stringify(cart));
-    console.log("Cart data saved to localStorage:", cart);
   }, [cart]);
 
   const addToCart = (product: Product) => {
-    setCart([...cart, product]);
+    const addedProduct = cart.findIndex((item) => item.id === product.id);
+  
+    if (addedProduct !== -1) {
+      const updatedCart = [...cart];
+      updatedCart[addedProduct].quantity += product.quantity;
+      setCart(updatedCart);
+    } else {
+      setCart([...cart, product]);
+    }
   };
 
   const removeFromCart = (productId: string) => {
@@ -45,12 +47,13 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
   };
 
   const updateCartItemQuantity = (productId: string, newQuantity: number) => {
-    // Find the product in the cart
     const updatedCart = cart.map((item) =>
       item.id === productId ? { ...item, quantity: newQuantity } : item
     );
     setCart(updatedCart);
   };
+
+
 
   return (
     <CartContext.Provider value={{ cart, addToCart, removeFromCart, updateCartItemQuantity }}>

@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Category from "./carouselHome";
 import SalesPage from "../components/Category/Sales";
 import { FC } from "react";
@@ -8,11 +8,15 @@ import BestSellersPage from "../components/Category/BestSellers";
 import BackCataloguePage from "../components/Category/BackCatalogue";
 import BackButton from "./BackButton";
 import { ProductsPage } from "../components/Products/Products";
-import CartPage from "./CartPage";
+import Checkout from "../pages/CheckoutPage";
+import LoginPage from "./LoginPage";
+import { useAuth } from "./AuthContext";
 
 
 export const RouterPaths:FC<any> = () => {
     
+    const {state} = useAuth()
+
     return (
         <>
             <BrowserRouter>
@@ -24,7 +28,12 @@ export const RouterPaths:FC<any> = () => {
                     <Route path="/Sales" element={<SalesPage />}/>
                     <Route path="/Best Sellers" element={<BestSellersPage />} />
                     <Route path="/Back to Catalogue" element={<BackCataloguePage />} /> 
-                    <Route path="/Cart" element={<CartPage />} />                    
+                    <Route path="/Login" element={<LoginPage />} />
+                    {state.isLogged ? (
+                    <Route path="/Checkout" element={<Checkout />} />
+                    ) : (
+                    <Route path="/Checkout" element={<Navigate to="/Login" />} />
+                )}
                 </Routes>
                 <BackButton />
             </BrowserRouter>
