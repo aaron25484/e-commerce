@@ -45,60 +45,72 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
             className="fixed inset-0 bg-black opacity-80"
             onClick={onClose}
         ></div>
-        <div className="bg-white w-80 h-screen p-4 absolute top-0 right-0 rounded-l shadow-lg overflow-auto">
-            <h2 className="text-xl font-semibold mb-4">Cart</h2>
-            {cart.map((product) => (
-            <div className="flex" key={product.id}>
-                <div className="">
-                    <img src={product.image} alt={product.name} className="product-image w-28 h-28" />
+        <div className=" bg-gray-200 w-80 h-screen p-4 absolute top-0 right-0 rounded-l shadow-lg overflow-auto">
+            <button
+              className="bg-gray-200 text-gray-800 px-2 py-0 rounded"
+              onClick={onClose}
+              >
+              x
+              </button>
+            <h2 className="text-xl font-semibold text-black mb-4">Shopping Cart</h2>
+            {cart.length === 0 ? (
+              <p>Your shopping cart is empty</p>
+            ) : (
+              cart.map((product) => (
+                <div className="flex mb-5" key={product.id}>
+                  <div className="">
+                    <img src={product.image} alt={product.name} className="product-image w-22 h-22" />
+                  </div>
+                  <div className="flex flex-col justify-between ml-5">
+                    <div>
+                      <h5 className="text-md text-black font-semibold">{product.name}</h5>
+                      <p className="text-sm">{product.artist}</p>
+                      <p className="text-sm">{product.price}€</p>
+                    </div>
+                    <div className="flex items-center mt-2">
+                      <button
+                        className="bg-gray-200 text-gray-800 px-3 py-0 text-sm"
+                        onClick={() => removeFromCart(product.id)}
+                      >
+                        Remove
+                      </button>
+                      <div className="flex items-center">
+                        <button
+                          className="bg-gray-200 text-gray-800 px-3 py-0 text-sm"
+                          onClick={() => updateCartItemQuantity(product.id, product.quantity - 1)}
+                          disabled={product.quantity <= 1}
+                        >
+                          -
+                        </button>
+                        <p className="text-sm px-2">{product.quantity}</p>
+                        <button
+                          className="bg-gray-200 text-gray-800 px-3 py-0 text-sm"
+                          onClick={() => updateCartItemQuantity(product.id, product.quantity + 1)}
+                        >
+                          +
+                        </button>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-                <div className="justify-center">
-                    <h3 className="text-lg font-semibold">{product.name}</h3>
-                    <p className="text-sm">{product.artist}</p>
-                    <p className="text-sm">${product.price}</p>
-                    <p className="text-sm">Quantity: {product.quantity}</p>
-                    <button
-                        className="bg-gray-200 text-gray-800 px-3 py-2 rounded"
-                        onClick={() => removeFromCart(product.id)}>Remove
-                    </button>
-                    <div className="flex items-center ml-2">
-                  <button
-                    className="bg-gray-200 text-gray-800 px-2 py-1 rounded-l"
-                    onClick={() => updateCartItemQuantity(product.id, product.quantity - 1)}
-                    disabled={product.quantity <= 1}
-                  >
-                    -
-                  </button>
-                  <p className="px-2">{product.quantity}</p>
-                  <button
-                    className="bg-gray-200 text-gray-800 px-2 py-1 rounded-r"
-                    onClick={() => updateCartItemQuantity(product.id, product.quantity + 1)}
-                  >
-                    +
-                  </button>
-                </div>
-                </div>
-            </div>
-            ))}
+              ))
+            )}
 
-            <p>Total Quantity: {totalQuantity}</p>
-            <p>Total Amount: ${totalAmount.toFixed(2)}</p>
-            <button
-            className="bg-gray-200 text-gray-800 px-3 py-2 rounded"
-            onClick={onClose}
-            >
-            x
-            </button>
-            
-            <button
-            className="bg-yellow-600 text-black px-3 py-2 rounded"
-            onClick={handleCheckout}>
-              Checkout
-            </button>
-            
+          {cart.length > 0 && (
+            <>
+              <p className="text-sm mb-2">Total Items: {totalQuantity}</p>
+              <p>Total Price: {totalAmount.toFixed(2)}€</p>
+              
+              <button
+              className="bg-yellow-600 text-black px-3 py-2 rounded mt-4"
+              onClick={handleCheckout}>
+                Checkout
+              </button>
+            </>
+          )}            
         </div>
-        </div>
+      </div>
     );
-    };
+  };
 
     export default Cart;

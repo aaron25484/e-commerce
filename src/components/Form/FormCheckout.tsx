@@ -12,22 +12,22 @@ const CheckoutForm: React.FC = () => {
     return(
         <>
             <form onSubmit={handleSubmit(onSubmit)}>
-                <input {...register("firstName", {required: true})} placeholder="First Name" type="text" />
-                <input {...register("lastName")} placeholder="Last Name" type="text" />
-                <input {...register("streetAndNumber")} placeholder="Street and house number" type="text" />
+                <input {...register("firstName", {required: true})} placeholder="First Name" type="text" className="block mx-auto w-60 mt-3 mb-1"/>
+                <input {...register("lastName")} placeholder="Last Name" type="text" className="block w-60 mx-auto mb-1"/>
+                <input {...register("streetAndNumber")} placeholder="Street and house number" type="text" className="block w-60 mx-auto mb-1"/>
                 <input {...register("postalCode", {
                     required: true, 
                     minLength: {
                         value: 5, 
                         message: 'Minimum 5 numbers',
                         },
-                        })} placeholder="Postal Code" />
+                        })} placeholder="Postal Code" className="block w-60 mx-auto mb-1"/>
                 <p>{errors.postalCode && typeof errors.postalCode.message}</p>
-                <input {...register("email")} placeholder="Email" type="email" />
-                <input {...register("city")} placeholder="City" type="text" />
+                <input {...register("email")} placeholder="Email" type="email" className="block w-60 mx-auto mb-1"/>
+                <input {...register("city")} placeholder="City" type="text" className="block w-60 mx-auto mb-1"/>
                 <label htmlFor="">Country</label>
                 <select name="" id=""></select>
-                <input {...register("phone")} placeholder="Phone" type="text" />
+                <input {...register("phone")} placeholder="Phone" type="text" className="block w-60 mx-auto mb-1"/>
                 <button type="submit">SUBMIT</button>
                 </form>               
         </>

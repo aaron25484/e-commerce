@@ -10,8 +10,8 @@ const NewArrivalsPage: React.FC = () => {
 
     return (
       <div>
-        <h2 className="text-2xl font-bold text-yellow-500">New Arrivals</h2>
-        <div className="flex flex-wrap justify-center">
+        <h2 className="text-2xl font-slackey font-bold text-yellow-500">New Arrivals</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-5 gap-4">
           {newArrivals && newArrivals.map((product) => (
             <div key={product.id} className="flex-col items-center m-4">
               <Link to={`/${product.id}`}>
@@ -22,7 +22,7 @@ const NewArrivalsPage: React.FC = () => {
                 />            
                 <p className="mt-2 text-center text-yellow-500">{product.name}</p>
                 <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
-                <p className="mt-1 text-center text-yellow-600">${product.price}</p>
+                <p className="mt-1 text-center text-yellow-600">{product.price} €</p>
                 </Link>
             </div>
           ))}

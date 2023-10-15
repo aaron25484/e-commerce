@@ -40,19 +40,19 @@ import { CartContext } from "../../utils/CartContext";
     <div className="product text-gray-50">
       {product && (
         <>
-          <img src={product.image} alt={product.name} className="product-image justify-center" />
-          <div className="product-info">
+          <img src={product.image} alt={product.name} className="product-image inline mt-6" />
+          <div className="product-info mt-4 text-left">
             <h5 className="product-artist">{product.artist}</h5>
             <h1 className="product-title">{product.name}</h1>
-            <h5 className="product-price">${product.price}</h5>
+            <h5 className="product-price">{product.price}€</h5>
             <div className="product-handle flex">
-              <div className="product-plus-minus-counter">
+              <div className="product-plus-minus-counter flex  space-x-5 me-auto items-center">
                 <button onClick={handleDecrease} disabled={counter <= 0}>-</button>
-                <p className="product-counter">{counter}</p>
+                <p className="product-counter text-white">{counter}</p>
                 <button onClick={handleIncrease}>+</button>
               </div>
-              <div className="product-add-to-cart">
-                <button onClick={handleAddToCart} disabled={counter <= 0}>Add to Cart</button>
+              <div className="product-add-to-cart flex justify-items-center bg-yellow-500 text-black p-10 mb-2 py-2 cursor-pointer">
+                <button onClick={handleAddToCart} disabled={counter <= 0}>+ Add to Cart</button>
               </div>
             </div>
           </div>

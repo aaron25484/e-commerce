@@ -121,14 +121,6 @@
     "category": "Sales"
   },
   {
-    "id": "3uwQkbzpMxDs3In7XbgS7y",
-    "name": "Deftones",
-    "image": "https://i.scdn.co/image/ab67616d00001e02c72880e98a7164a6346851c5",
-    "artist": "Deseosippin",
-    "price": "19.99",
-    "category": "New Arrivals"
-  },
-  {
     "id": "57KFwKnC0ZjaIQGnhE7ops",
     "name": "White Pony (20th Anniversary Deluxe Edition)",
     "image": "https://i.scdn.co/image/ab67616d00001e0203e3921ebbf0437d8893507a",
@@ -945,14 +937,6 @@
     "category": "Back to Catalogue"
   },
   {
-    "id": "1rWxuG2FzaRzbujqBTHJYu",
-    "name": "Nirvana",
-    "image": "https://i.scdn.co/image/ab67616d00001e02fc68f9bf55f7269c479c1305",
-    "artist": "Bktherula",
-    "price": "19.99",
-    "category": "New Arrivals"
-  },
-  {
     "id": "1tsNAUQqofHrnlezRK8D5R",
     "name": "MTV Unplugged In New York (25th Anniversary)",
     "image": "https://i.scdn.co/image/ab67616d00001e028ae2c8a304cfb62d0e029fb5",
@@ -1032,14 +1016,7 @@
     "price": "15.99",
     "category": "Best Sellers"
   },
-  {
-    "id": "3XGWDXVG95ME1YsmKn4ZQ8",
-    "name": "Tundra Boy Season One",
-    "image": "https://i.scdn.co/image/ab67616d00001e026ecd5c869036bddf7a59d59a",
-    "artist": "Xavier Wulf",
-    "price": "12.99",
-    "category": "New Arrivals"
-  },
+
   {
     "id": "37CDWIRco9c6uNX49ORNCn",
     "name": "Toundra",
@@ -1145,14 +1122,6 @@
     "category": "Sales"
   },
   {
-    "id": "33GWLK55CiW0IsUrvt9E79",
-    "name": "Tundra",
-    "image": "https://i.scdn.co/image/ab67616d00001e028a25f7ce28b550c6c7b1275d",
-    "artist": "The Abigails",
-    "price": "15.99",
-    "category": "New Arrivals"
-  },
-  {
     "id": "08y4jMFcpVaS7MlANeI4Bp",
     "name": "Das Cabinet des Dr. Caligari",
     "image": "https://i.scdn.co/image/ab67616d00001e022e4bf0d6ba699d96d5b56071",
@@ -1175,22 +1144,6 @@
     "artist": "hushly",
     "price": "19.99",
     "category": "Back to Catalogue"
-  },
-  {
-    "id": "1dm5SLCwQrayFimsTayPqn",
-    "name": "Russie Sibérie. Musique De La Toundra Et De La Taiga. Russia Sibéria. Music Of The Tundra & The Taiga.",
-    "image": "https://i.scdn.co/image/ab67616d00001e028f279e660833ae683ac0d618",
-    "artist": "Various Artists",
-    "price": "15.99",
-    "category": "Classics"
-  },
-  {
-    "id": "6OYln6Glup79VfHrP38Clp",
-    "name": "Spotlight",
-    "image": "https://i.scdn.co/image/ab67616d00001e02f61acf031c170ef054aa668f",
-    "artist": "Tundra",
-    "price": "17.99",
-    "category": "Classics"
   },
   {
     "id": "6teekrqj0fRPceftGFToBR",
@@ -1279,14 +1232,6 @@
     "artist": "The Mars Volta",
     "price": "15.99",
     "category": "Sales"
-  },
-  {
-    "id": "3X3xy01oWmdpRSJIttm4NT",
-    "name": "Landscape Tantrums (Unfinished Original Recordings Of De-Loused In The Comatorium)",
-    "image": "https://i.scdn.co/image/ab67616d00001e0238b1814e94019da8675b70c8",
-    "artist": "The Mars Volta",
-    "price": "17.99",
-    "category": "New Arrivals"
   },
   {
     "id": "3rAFmQ9YoXuwRq519I0tJH",
@@ -2417,14 +2362,6 @@
     "category": "Classics"
   },
   {
-    "id": "61mI7fP0m6Kos09L1nAMWR",
-    "name": "Toolroom Radio EP703 - Presented by Mark Knight",
-    "image": "https://i.scdn.co/image/ab67616d00001e02ccc4a31c792f943e9f800015",
-    "artist": "Mark Knight",
-    "price": "19.99",
-    "category": "New Arrivals"
-  },
-  {
     "id": "1exP58tn6Nc4S9RvcXOdob",
     "name": "Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e02ba3dc9609b9c9c13352ce533",
@@ -2433,28 +2370,12 @@
     "category": "Sales"
   },
   {
-    "id": "6971YccV3jhBh7DS4u9mdA",
-    "name": "Toolroom Radio EP704 - Presented by Mark Knight",
-    "image": "https://i.scdn.co/image/ab67616d00001e02e5dae85aec76115249b20883",
-    "artist": "Mark Knight",
-    "price": "19.99",
-    "category": "Classics"
-  },
-  {
     "id": "1Ev1G9QhrTAILBDUutkFna",
     "name": "Tool",
     "image": "https://i.scdn.co/image/ab67616d00001e026ac17b49e6fb09abe972a820",
     "artist": "DANYANTE",
     "price": "12.99",
     "category": "Best Sellers"
-  },
-  {
-    "id": "3ikkmlZKMLbi0JCPzRysJN",
-    "name": "Toolie",
-    "image": "https://i.scdn.co/image/ab67616d00001e028e5f927e33a31a2011e36223",
-    "artist": "Key Glock",
-    "price": "15.99",
-    "category": "New Arrivals"
   },
   {
     "id": "4uER44gQvYOYXL41OcUT84",

@@ -6,6 +6,8 @@ interface CartContextType {
   addToCart: (product: Product) => void;
   removeFromCart: (productId: string) => void;
   updateCartItemQuantity: (productId: string, newQuantity: number) => void;
+  totalAmount: number;
+  setTotalAmount: (amount:number) => void,
 
 }
 
@@ -14,6 +16,8 @@ const initialCartContext: CartContextType = {
   addToCart: () => {},
   removeFromCart: () => {},
   updateCartItemQuantity: () => {},
+  totalAmount: 0,
+  setTotalAmount: () => {},
 
 };
 
@@ -24,6 +28,8 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
     const savedCart = localStorage.getItem("cart");
     return savedCart ? JSON.parse(savedCart) : [];
   });
+
+  const [totalAmount, setTotalAmount] = useState<number>(0)
 
   useEffect(() => {  //Salva lo guardado en carrito
     localStorage.setItem("cart", JSON.stringify(cart));
@@ -56,7 +62,7 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
 
 
   return (
-    <CartContext.Provider value={{ cart, addToCart, removeFromCart, updateCartItemQuantity }}>
+    <CartContext.Provider value={{ cart, addToCart, removeFromCart, updateCartItemQuantity, totalAmount, setTotalAmount }}>
       {children}
     </CartContext.Provider>
   );

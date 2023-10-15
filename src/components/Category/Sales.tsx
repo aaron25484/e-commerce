@@ -10,10 +10,10 @@ const SalesPage: React.FC = () => {
 
     return (
       <div>
-        <h2 className="text-2xl font-bold text-yellow-500">Sales</h2>
-        <div className="flex flex-wrap justify-center">
+        <h2 className="text-2xl font-slackey font-bold text-yellow-500">Sales</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-5 gap-4">
           {sales && sales.map((product) => (
-            <div key={product.id} className="flex-col items-center m-4">
+            <div key={product.id} className="flex-col fle items-center m-4">
               <Link to={`/${product.id}`}>
                 <img
                   src={product.image}
@@ -22,7 +22,7 @@ const SalesPage: React.FC = () => {
                 />              
                 <p className="mt-2 text-center text-yellow-500">{product.name}</p>
                 <p className="mt-1 text-center text-yellow-200">{product.artist}</p>
-                <p className="mt-1 text-center text-yellow-600">${product.price}</p>
+                <p className="mt-1 text-center text-yellow-600">{product.price} €</p>
               </Link>
             </div>
           ))}

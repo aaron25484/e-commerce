@@ -23,9 +23,9 @@ const Navbar = () => {
             <img className="h-12" src="src/assets/img/fuzz-records-low.png" alt="" />
             <i>W</i>
             {state.isLogged ? (
-                <div>
+                <div className="text-yellow-400">
                     Welcome
-                    <button onClick={handleLogout}>Logout</button>
+                    <button className="ml-3" onClick={handleLogout}>Logout</button>
                 </div>
             ) : (
                 <i>C</i>
