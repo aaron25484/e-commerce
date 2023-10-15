@@ -8,15 +8,19 @@ const Navbar = () => {
 
     const {cart, removeFromCart} = useContext(CartContext)
 
+
+
     const handleLogout = () => {
         dispatch({type: 'LOGOUT'})
         localStorage.removeItem('isLogged')
         localStorage.removeItem('username')
+        localStorage.removeItem('password')
 
         cart.forEach((product) => {
             removeFromCart(product.id);
         });
     }
+    
     return (
         <nav className="flex flex-row place-content-around w-full">
             <i>M</i>
@@ -28,9 +32,21 @@ const Navbar = () => {
                     <button className="ml-3" onClick={handleLogout}>Logout</button>
                 </div>
             ) : (
-                <i>C</i>
+                <i></i>
 
             )}
+
+            <img src="" alt="User" />
+            <div>
+                <img src="src/assets/img/carros.png" alt="Cart" />
+                <span className="bg-red-500 text-white rounded-full w-5 h-5 text-sm text-center absolute -mt-3 -mr-2">
+                    {cart.length}
+                </span>
+
+            </div>
+
+            
+            
         </nav>
     )
 }

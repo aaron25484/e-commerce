@@ -14,7 +14,7 @@ const Category: React.FC = () => {
     const categoryProducts = products.filter((product) => product.category === category);
     const limitedProducts = categoryProducts.slice(0, 5);
     return (
-      <Carousel showArrows={true} showThumbs={false} showStatus={false} preventMovementUntilSwipeScrollTolerance={true}	 autoPlay infiniteLoop interval={3000}>
+      <Carousel showArrows={true} showThumbs={false} showStatus={false} autoPlay={true} infiniteLoop interval={3000}>
         {limitedProducts.map((product) => (
           <div key={product.id}>
             <Link to={`/${category}`}>

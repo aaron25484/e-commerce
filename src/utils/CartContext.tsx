@@ -3,22 +3,20 @@ import { Product } from "./API";
 
 interface CartContextType {
   cart: Product[];
+  totalPrice: number;
+  totalQuantity: number;
   addToCart: (product: Product) => void;
   removeFromCart: (productId: string) => void;
   updateCartItemQuantity: (productId: string, newQuantity: number) => void;
-  totalAmount: number;
-  setTotalAmount: (amount:number) => void,
-
 }
 
 const initialCartContext: CartContextType = {
   cart: [],
+  totalPrice: 0,
+  totalQuantity: 0,
   addToCart: () => {},
   removeFromCart: () => {},
   updateCartItemQuantity: () => {},
-  totalAmount: 0,
-  setTotalAmount: () => {},
-
 };
 
 export const CartContext = createContext(initialCartContext);
@@ -29,15 +27,21 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
     return savedCart ? JSON.parse(savedCart) : [];
   });
 
-  const [totalAmount, setTotalAmount] = useState<number>(0)
+  const totalPrice = cart.reduce((total, product) => {
+    return total + parseFloat(product.price) * product.quantity;
+  }, 0);
 
-  useEffect(() => {  //Salva lo guardado en carrito
+  const totalQuantity = cart.reduce((total, product) => {
+    return total + product.quantity;
+  }, 0);
+
+  useEffect(() => {
     localStorage.setItem("cart", JSON.stringify(cart));
   }, [cart]);
 
   const addToCart = (product: Product) => {
     const addedProduct = cart.findIndex((item) => item.id === product.id);
-  
+
     if (addedProduct !== -1) {
       const updatedCart = [...cart];
       updatedCart[addedProduct].quantity += product.quantity;
@@ -59,10 +63,8 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
     setCart(updatedCart);
   };
 
-
-
   return (
-    <CartContext.Provider value={{ cart, addToCart, removeFromCart, updateCartItemQuantity, totalAmount, setTotalAmount }}>
+    <CartContext.Provider value={{ cart, totalPrice, totalQuantity, addToCart, removeFromCart, updateCartItemQuantity }}>
       {children}
     </CartContext.Provider>
   );

@@ -1,39 +1,27 @@
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
-
 import { CartContext } from "../../utils/CartContext";
 
 export interface CartProps {
-    isOpen: boolean;
-    onClose: () => void;
+  isOpen: boolean;
+  onClose: () => void;
 }
 
 const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
-    const { cart, removeFromCart, updateCartItemQuantity } = useContext(CartContext);
-    const navigate = useNavigate()  
+  const { cart, totalPrice, totalQuantity, removeFromCart, updateCartItemQuantity } = useContext(CartContext);
+  const navigate = useNavigate();
 
+  const handleCheckout = () => {
+    const isLogged = localStorage.getItem('isLogged') === 'true';
 
-    let totalQuantity = 0;
-    let totalAmount = 0;
-
-    for (const item of cart) {
-        totalQuantity += item.quantity;
-        totalAmount += parseFloat(item.price) * item.quantity;
-      }
-
-      const handleCheckout = () => {
-        
-        const isLogged = localStorage.getItem('isLogged') === 'true';
-        
-        if (isLogged) {
-          navigate("/Checkout")
-          onClose()
-        } else {
-          navigate("/Login")
-          onClose()
-        }
-
-      }
+    if (isLogged) {
+      navigate("/Checkout");
+      onClose();
+    } else {
+      navigate("/Login");
+      onClose();
+    }
+  }
 
     return (
         <div
@@ -99,7 +87,7 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
           {cart.length > 0 && (
             <>
               <p className="text-sm mb-2">Total Items: {totalQuantity}</p>
-              <p>Total Price: {totalAmount.toFixed(2)}€</p>
+              <p>Total Price: {totalPrice.toFixed(2)}€</p>
               
               <button
               className="bg-yellow-600 text-black px-3 py-2 rounded mt-4"
