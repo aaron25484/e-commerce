@@ -30,7 +30,7 @@ const Navbar = () => {
     <>   
         <nav className="flex flex-row place-content-around items-center w-full">
             <Link to="/">
-                <img className="h-10" src="src/assets/img/fuzz-records-low.png" alt="" />
+                <img className="h-12" src="src/assets/img/fuzz-records-low.png" alt="" />
             </Link>
                 {state.isLogged ? (
                     <div className="text-yellow-400 text-sm flex">
