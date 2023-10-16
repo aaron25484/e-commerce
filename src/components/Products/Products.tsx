@@ -1,12 +1,10 @@
 import { useState, useContext } from "react";
-import { ProductContext } from "../../utils/API";
+import { ProductContext } from "../../context/ProductContext";
 import { useParams } from "react-router-dom";
 import Cart from "../Cart/Cart";
+import { CartContext } from "../../context/CartContext";
 
-import { CartContext } from "../../utils/CartContext";
-
-
-  export const ProductsPage: React.FC = () => {
+export const ProductsPage: React.FC = () => {
   const [counter, setCounter] = useState<number>(0);
   const {products} = useContext(ProductContext)
   const  {id} = useParams()
@@ -40,15 +38,15 @@ import { CartContext } from "../../utils/CartContext";
     <div className="product text-gray-50">
       {product && (
         <>
-          <img src={product.image} alt={product.name} className="product-image inline mt-6" />
+          <img src={product.image} alt={product.name} className="product-image inline mt-6 w-full" />
           <div className="product-info mt-4 text-left">
-            <h5 className="product-artist">{product.artist}</h5>
-            <h1 className="product-title">{product.name}</h1>
-            <h5 className="product-price">{product.price}€</h5>
+            <p className="product-artist text-yellow-200 text-xl">{product.artist}</p>
+            <p className="product-title text-2xl text-yellow-500">{product.name}</p>
+            <p className="product-price mt-2 text-lg text-yellow-600">{product.price} €</p>
             <div className="product-handle flex">
               <div className="product-plus-minus-counter flex  space-x-5 me-auto items-center">
                 <button onClick={handleDecrease} disabled={counter <= 0}>-</button>
-                <p className="product-counter text-white">{counter}</p>
+                <span className="product-counter text-white">{counter}</span>
                 <button onClick={handleIncrease}>+</button>
               </div>
               <div className="product-add-to-cart flex justify-items-center bg-yellow-500 text-black p-10 mb-2 py-2 cursor-pointer">
@@ -61,4 +59,4 @@ import { CartContext } from "../../utils/CartContext";
       <Cart isOpen={isCartOpen} onClose={handleCloseCart} />
     </div>
   );
-};
+}
