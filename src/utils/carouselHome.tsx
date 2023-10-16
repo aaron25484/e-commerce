@@ -1,12 +1,10 @@
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { ProductContext } from './API';
+import { ProductContext } from '../context/ProductContext';
 import {Carousel} from 'react-responsive-carousel'
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
-
-
-const Category: React.FC = () => {
+const Carrousel: React.FC = () => {
 
   const {products} = useContext(ProductContext)
 
@@ -66,4 +64,4 @@ const Category: React.FC = () => {
   );
 };
 
-export default Category;
+export default Carrousel;

@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { ProductContext} from '../../utils/API';
+import { ProductContext} from '../../context/ProductContext';
 
 const SalesPage: React.FC = () => {
   const {products} = useContext(ProductContext)

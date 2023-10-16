@@ -1,5 +1,4 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import Category from "./carouselHome";
 import SalesPage from "../components/Category/Sales";
 import { FC } from "react";
 import NewArrivalsPage from "../components/Category/NewArrivals";
@@ -9,9 +8,10 @@ import BackCataloguePage from "../components/Category/BackCatalogue";
 import BackButton from "./BackButton";
 import { ProductsPage } from "../components/Products/Products";
 import Checkout from "../pages/CheckoutPage";
-import LoginPage from "./LoginPage";
-import { useAuth } from "./AuthContext";
-
+import LoginPage from "../pages/LoginPage";
+import { useAuth } from "../context/AuthContext";
+import HomePage from "../pages/HomePage";
+import Navbar from "../components/Navbar/Navbar";
 
 export const RouterPaths:FC<any> = () => {
     
@@ -20,19 +20,20 @@ export const RouterPaths:FC<any> = () => {
     return (
         <>
             <BrowserRouter>
+                <Navbar />
                 <Routes>
-                    <Route path="/" element={<Category />}/>
+                    <Route path="/" element={<HomePage />}/>
                     <Route path="/:id" element={<ProductsPage />} />
-                    <Route path="/New Arrivals" element={<NewArrivalsPage />} />
-                    <Route path="/Classics" element={<ClassicsPage />} />
-                    <Route path="/Sales" element={<SalesPage />}/>
-                    <Route path="/Best Sellers" element={<BestSellersPage />} />
-                    <Route path="/Back to Catalogue" element={<BackCataloguePage />} /> 
-                    <Route path="/Login" element={<LoginPage />} />
+                    <Route path="/new Arrivals" element={<NewArrivalsPage />} />
+                    <Route path="/classics" element={<ClassicsPage />} />
+                    <Route path="/sales" element={<SalesPage />}/>
+                    <Route path="/best Sellers" element={<BestSellersPage />} />
+                    <Route path="/back to Catalogue" element={<BackCataloguePage />} /> 
+                    <Route path="/login" element={<LoginPage />} />
                     {state.isLogged ? (
-                    <Route path="/Checkout" element={<Checkout />} />
+                    <Route path="/checkout" element={<Checkout />} />
                     ) : (
-                    <Route path="/Checkout" element={<Navigate to="/Login" />} />
+                    <Route path="/checkout" element={<Navigate to="/Login" />} />
                 )}
                 </Routes>
                 <BackButton />

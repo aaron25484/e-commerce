@@ -25,10 +25,8 @@ const CheckoutForm: React.FC = () => {
                 <p>{errors.postalCode && typeof errors.postalCode.message}</p>
                 <input {...register("email")} placeholder="Email" type="email" className="block w-60 mx-auto mb-1"/>
                 <input {...register("city")} placeholder="City" type="text" className="block w-60 mx-auto mb-1"/>
-                <label htmlFor="">Country</label>
-                <select name="" id=""></select>
                 <input {...register("phone")} placeholder="Phone" type="text" className="block w-60 mx-auto mb-1"/>
-                <button type="submit">SUBMIT</button>
+                <button className="bg-yellow-600 text-black px-3 py-2 rounded mt-4" type="submit">SUBMIT</button>
                 </form>               
         </>
     )
