@@ -82,7 +82,7 @@ Form validation is implemented using the `react-hook-form` library, ensuring tha
 
 ### Hooks
 
-The project makes extensive use of React hooks, including `useEffect`, `useContext`, and `useState`, to manage component lifecycle, global state, and component-specific state.
+The project makes extensive use of React hooks, including `useEffect`, `useContext`, `useReducer` and `useState`, to manage component lifecycle, global state, and component-specific state.
 
 ### User Authentication
 
