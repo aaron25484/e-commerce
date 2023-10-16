@@ -13,7 +13,6 @@ Welcome to my E-Commerce project! Fuzz Records! This GitHub repository contains 
   - [Form Validation](#form-validation)
   - [Hooks](#hooks)
   - [User Authentication](#user-authentication)
-- [License](#license)
 
 ## Introduction
 
