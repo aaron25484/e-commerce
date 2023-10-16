@@ -42,10 +42,9 @@ This e-commerce project is built using modern web development tools and librarie
    ```
 Make sure to install the following dependencies explicitly:
 
-```bash
-Copy code
-pnpm install react-hook-form tailwindcss react-responsive-carousel react-router-dom
-```
+    ```bash
+    pnpm install react-hook-form tailwindcss react-responsive-carousel react-router-dom
+    ```
 4. Start the development server:
 
    ```bash
