@@ -44,11 +44,11 @@ const HomePage = () => {
                         <p>ER SELULA feat. Saiano</p>
                         <p>Including:</p>
                         <ol>
-                            <li>"Perfectly Unbeatable"</li>
-                            <li>"Saiyan Dream Team Anthem"</li>
-                            <li>"Fusion of Power"</li>
-                            <li>"Saiyan Serenade</li>
-                            <li>"Kamehame-hot Rhymes" </li>
+                            <li>"No me toques las bolas (de dragón)"</li>
+                            <li>"Las bragas de Ulong"</li>
+                            <li>"De farra por Namek"</li>
+                            <li>"Te pego</li>
+                            <li>"Tú me kamehameameas"</li>
                         </ol>
                     </div>
                 </div>
