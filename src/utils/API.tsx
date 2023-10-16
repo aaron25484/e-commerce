@@ -1,4 +1,3 @@
-
 export interface Product {
   quantity: number;
   id: string;
@@ -9,8 +8,8 @@ export interface Product {
   category: string;
 }
 export async function fetchProducts(): Promise<Product[]> {
-  const url = 'http://localhost:3000/albums';
+  const url = "http://localhost:3000/albums";
   const response = await fetch(url);
   const data = await response.json();
-  return data
+  return data;
 }

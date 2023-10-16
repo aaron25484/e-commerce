@@ -1,9 +1,9 @@
-body{
-  background-image:url('src/assets/img/bg.jpg');
+body {
+  background-image: url("src/assets/img/bg.jpg");
   background-attachment: fixed;
 }
-i{
-  color: rgb(234, 194, 59)
+i {
+  color: rgb(234, 194, 59);
 }
 
 #root {
@@ -19,7 +19,6 @@ i{
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
-  
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);

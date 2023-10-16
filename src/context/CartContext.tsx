@@ -1,4 +1,10 @@
-import { createContext, FC, PropsWithChildren, useEffect, useState } from "react";
+import {
+  createContext,
+  FC,
+  PropsWithChildren,
+  useEffect,
+  useState,
+} from "react";
 import { Product } from "../utils/API";
 
 interface CartContextType {
@@ -21,7 +27,9 @@ const initialCartContext: CartContextType = {
 
 export const CartContext = createContext(initialCartContext);
 
-export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => {
+export const CartContextProvider: FC<PropsWithChildren<{}>> = ({
+  children,
+}) => {
   const [cart, setCart] = useState<Product[]>(() => {
     const savedCart = localStorage.getItem("cart");
     return savedCart ? JSON.parse(savedCart) : [];
@@ -64,7 +72,16 @@ export const CartContextProvider: FC<PropsWithChildren<{}>> = ({ children }) => 
   };
 
   return (
-    <CartContext.Provider value={{ cart, totalPrice, totalQuantity, addToCart, removeFromCart, updateCartItemQuantity }}>
+    <CartContext.Provider
+      value={{
+        cart,
+        totalPrice,
+        totalQuantity,
+        addToCart,
+        removeFromCart,
+        updateCartItemQuantity,
+      }}
+    >
       {children}
     </CartContext.Provider>
   );

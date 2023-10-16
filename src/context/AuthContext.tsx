@@ -1,44 +1,50 @@
-import { FC, PropsWithChildren, createContext, useContext, useReducer } from "react";
+import {
+  FC,
+  PropsWithChildren,
+  createContext,
+  useContext,
+  useReducer,
+} from "react";
 
-type AuthState = { isLogged: boolean, username: string | null }
+type AuthState = { isLogged: boolean; username: string | null };
 
-type AuthAction =  { type: 'LOGIN', username: string } | { type: 'LOGOUT'}
+type AuthAction = { type: "LOGIN"; username: string } | { type: "LOGOUT" };
 
 const initialState: AuthState = {
-    isLogged: localStorage.getItem('isLogged') === 'true',
-    username: localStorage.getItem('username'),
-}
+  isLogged: localStorage.getItem("isLogged") === "true",
+  username: localStorage.getItem("username"),
+};
 export const AuthContext = createContext<{
-    state: AuthState,
-    dispatch: React.Dispatch<AuthAction>;
+  state: AuthState;
+  dispatch: React.Dispatch<AuthAction>;
 }>({
-    state:initialState,
-    dispatch: () => {}
-})
+  state: initialState,
+  dispatch: () => {},
+});
 
 const authReducer = (state: AuthState, action: AuthAction): AuthState => {
-    switch (action.type) {
-        case 'LOGIN':
-            return { isLogged: true, username: action.username };
-        case 'LOGOUT':
-            return {isLogged: false, username: null };
-        default:
-            return state;    
-    }
-}
+  switch (action.type) {
+    case "LOGIN":
+      return { isLogged: true, username: action.username };
+    case "LOGOUT":
+      return { isLogged: false, username: null };
+    default:
+      return state;
+  }
+};
 
-export const AuthContextProvider: FC<PropsWithChildren> = ({children}) => {
-    const [state, dispatch] = useReducer(authReducer, initialState);
+export const AuthContextProvider: FC<PropsWithChildren> = ({ children }) => {
+  const [state, dispatch] = useReducer(authReducer, initialState);
 
-    return (
-        <AuthContext.Provider value={{ state, dispatch}}>
-            {children}
-        </AuthContext.Provider>
-    )
-}
+  return (
+    <AuthContext.Provider value={{ state, dispatch }}>
+      {children}
+    </AuthContext.Provider>
+  );
+};
 
 export const useAuth = () => {
-    const context = useContext(AuthContext)
-    
-    return context
-}
+  const context = useContext(AuthContext);
+
+  return context;
+};

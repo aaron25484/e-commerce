@@ -13,31 +13,30 @@ import { useAuth } from "../context/AuthContext";
 import HomePage from "../pages/HomePage";
 import Navbar from "../components/Navbar/Navbar";
 
-export const RouterPaths:FC<any> = () => {
-    
-    const {state} = useAuth()
+export const RouterPaths: FC<any> = () => {
+  const { state } = useAuth();
 
-    return (
-        <>
-            <BrowserRouter>
-                <Navbar />
-                <Routes>
-                    <Route path="/" element={<HomePage />}/>
-                    <Route path="/:id" element={<ProductsPage />} />
-                    <Route path="/new Arrivals" element={<NewArrivalsPage />} />
-                    <Route path="/classics" element={<ClassicsPage />} />
-                    <Route path="/sales" element={<SalesPage />}/>
-                    <Route path="/best Sellers" element={<BestSellersPage />} />
-                    <Route path="/back to Catalogue" element={<BackCataloguePage />} /> 
-                    <Route path="/login" element={<LoginPage />} />
-                    {state.isLogged ? (
-                    <Route path="/checkout" element={<Checkout />} />
-                    ) : (
-                    <Route path="/checkout" element={<Navigate to="/Login" />} />
-                )}
-                </Routes>
-                <BackButton />
-            </BrowserRouter>
-        </>
-    )
-}
+  return (
+    <>
+      <BrowserRouter>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/:id" element={<ProductsPage />} />
+          <Route path="/new Arrivals" element={<NewArrivalsPage />} />
+          <Route path="/classics" element={<ClassicsPage />} />
+          <Route path="/sales" element={<SalesPage />} />
+          <Route path="/best Sellers" element={<BestSellersPage />} />
+          <Route path="/back to Catalogue" element={<BackCataloguePage />} />
+          <Route path="/login" element={<LoginPage />} />
+          {state.isLogged ? (
+            <Route path="/checkout" element={<Checkout />} />
+          ) : (
+            <Route path="/checkout" element={<Navigate to="/Login" />} />
+          )}
+        </Routes>
+        <BackButton />
+      </BrowserRouter>
+    </>
+  );
+};
