@@ -2,10 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './index.css'
-import { ProductContextProvider } from './utils/API.tsx'
-import { CartContextProvider } from './utils/CartContext.tsx'
-import { AuthContextProvider } from './utils/AuthContext.tsx'
-
+import { ProductContextProvider } from './context/ProductContext.tsx'
+import { CartContextProvider } from './context/CartContext.tsx'
+import { AuthContextProvider } from './context/AuthContext.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -16,6 +15,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
         </CartContextProvider>  
       </ProductContextProvider>
     </AuthContextProvider>
-  
   </React.StrictMode>,
 )

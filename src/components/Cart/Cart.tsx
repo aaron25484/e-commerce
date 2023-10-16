@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
-import { CartContext } from "../../utils/CartContext";
+import { CartContext } from "../../context/CartContext";
 
 export interface CartProps {
   isOpen: boolean;
@@ -35,12 +35,12 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
         ></div>
         <div className=" bg-gray-200 w-80 h-screen p-4 absolute top-0 right-0 rounded-l shadow-lg overflow-auto">
             <button
-              className="bg-gray-200 text-gray-800 px-2 py-0 rounded"
+              className="bg-gray-200 text-gray-800 mb-3 rounded"
               onClick={onClose}
               >
-              x
+              X
               </button>
-            <h2 className="text-xl font-semibold text-black mb-4">Shopping Cart</h2>
+            <h2 className="text-xl font-semibold text-black mb-6">Tote Bag</h2>
             {cart.length === 0 ? (
               <p>Your shopping cart is empty</p>
             ) : (
@@ -50,8 +50,8 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
                     <img src={product.image} alt={product.name} className="product-image w-22 h-22" />
                   </div>
                   <div className="flex flex-col justify-between ml-5">
-                    <div>
-                      <h5 className="text-md text-black font-semibold">{product.name}</h5>
+                    <div className="text-black">
+                      <p className="text-md font-semibold">{product.name}</p>
                       <p className="text-sm">{product.artist}</p>
                       <p className="text-sm">{product.price}€</p>
                     </div>
@@ -70,7 +70,7 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
                         >
                           -
                         </button>
-                        <p className="text-sm px-2">{product.quantity}</p>
+                        <p className="text-sm text-black px-2">{product.quantity}</p>
                         <button
                           className="bg-gray-200 text-gray-800 px-3 py-0 text-sm"
                           onClick={() => updateCartItemQuantity(product.id, product.quantity + 1)}
@@ -86,8 +86,8 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
 
           {cart.length > 0 && (
             <>
-              <p className="text-sm mb-2">Total Items: {totalQuantity}</p>
-              <p>Total Price: {totalPrice.toFixed(2)}€</p>
+              <p className="text-sm text-black mb-2">Total Items: {totalQuantity}</p>
+              <p className="text-black font-semibold">Total Price: {totalPrice.toFixed(2)}€</p>
               
               <button
               className="bg-yellow-600 text-black px-3 py-2 rounded mt-4"
@@ -101,4 +101,4 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
     );
   };
 
-    export default Cart;
+  export default Cart;
