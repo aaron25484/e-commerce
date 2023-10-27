@@ -43,7 +43,7 @@ const Navbar = () => {
           <div className="text-yellow-400 text-sm flex">
             <p className="pl-8">Welcome</p>
             <img
-              className="pl-14"
+              className="pl-4"
               src="src/assets/img/logout.png"
               alt="lock"
               onClick={handleLogout}
@@ -52,6 +52,10 @@ const Navbar = () => {
         ) : (
           <i></i>
         )}
+        <div>
+          <p className="text-yellow-400">W</p>
+
+        </div>
         <div onClick={() => setIsCartOpen(true)}>
           <img src="src/assets/img/carros.png" alt="Cart" />
           <span className="bg-red-500 text-white rounded-full w-5 h-5 text-sm text-center absolute -mt-3 ml-3">

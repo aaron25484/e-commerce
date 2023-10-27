@@ -28,7 +28,7 @@ const Checkout: React.FC = () => {
       </ul>
       <div>
         <p className="text-yellow-200">Total Items: {totalQuantity}</p>
-        <p className="text-yellow-500">Total Price: ${totalPrice.toFixed(2)}</p>
+        <p className="text-yellow-500">Total Price: {totalPrice.toFixed(2)} €</p>
       </div>
       <CheckoutForm />
     </div>

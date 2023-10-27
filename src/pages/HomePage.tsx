@@ -46,7 +46,7 @@ const HomePage = () => {
               <li>"No me toques las bolas (de dragón)"</li>
               <li>"Las bragas de Ulong"</li>
               <li>"De farra por Namek"</li>
-              <li>"Te pego</li>
+              <li>"Te pego"</li>
               <li>"Tú me kamehameameas"</li>
             </ol>
           </div>
