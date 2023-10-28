@@ -5,6 +5,7 @@ import { ProductsPage } from "../components/Products/Products";
 import { useAuth } from "../context/AuthContext";
 import Navbar from "../components/Navbar/Navbar";
 import { lazy } from "react";
+import WishlistPage from "../components/Wishlist/Wishlist";
 
 const HomePage = lazy(() => import('../pages/HomePage'));
 const NewArrivalsPage = lazy(() => import('../components/Category/NewArrivals'));
@@ -30,6 +31,7 @@ export const RouterPaths: FC<any> = () => {
           <Route path="/sales" element={<Suspense fallback={<div>Loading...</div>}><SalesPage /></Suspense>} />
           <Route path="/best Sellers" element={<Suspense fallback={<div>Loading...</div>}><BestSellersPage /></Suspense>} />
           <Route path="/back to Catalogue" element={<Suspense fallback={<div>Loading...</div>}><BackCataloguePage /></Suspense>} />
+          <Route path="/wishlist" element={<Suspense fallback={<div>Loading...</div>}><WishlistPage /></Suspense>}/>
           <Route path="/login" element={<Suspense fallback={<div>Loading...</div>}><LoginPage /></Suspense>} />
           {state.isLogged ? (
             <Route path="/checkout" element={<Suspense fallback={<div>Loading...</div>}><Checkout /></Suspense>} />

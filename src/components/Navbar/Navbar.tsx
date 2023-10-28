@@ -53,8 +53,9 @@ const Navbar = () => {
           <i></i>
         )}
         <div>
-          <p className="text-yellow-400">W</p>
-
+          <Link to="/wishlist">
+            <p className="text-yellow-400">W</p>
+            </Link>
         </div>
         <div onClick={() => setIsCartOpen(true)}>
           <img src="src/assets/img/carros.png" alt="Cart" />

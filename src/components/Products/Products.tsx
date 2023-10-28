@@ -3,6 +3,7 @@ import { ProductContext } from "../../context/ProductContext";
 import { useParams } from "react-router-dom";
 import Cart from "../Cart/Cart";
 import { CartContext } from "../../context/CartContext";
+import { WishContext } from "../../context/WishlistContext";
 
 export const ProductsPage: React.FC = () => {
   const [counter, setCounter] = useState<number>(0);
@@ -10,8 +11,12 @@ export const ProductsPage: React.FC = () => {
   const { id } = useParams();
   const [isCartOpen, setIsCartOpen] = useState<boolean>(false);
   const { addToCart } = useContext(CartContext);
+  const { wish, addToWish, removeFromWish } = useContext(WishContext); 
+
 
   const product = products.find((product) => product.id === id);
+  const isWishItem = wish.some((item) => item.id === id);
+
 
   const handleIncrease = () => {
     setCounter((prevState) => prevState + 1);
@@ -32,6 +37,14 @@ export const ProductsPage: React.FC = () => {
 
   const handleCloseCart = () => {
     setIsCartOpen(false);
+  };
+
+  const handleToggleWish = () => {
+    if (product && isWishItem) {
+      removeFromWish(product.id); 
+    } else if (product) {
+      addToWish(product); 
+    }
   };
 
   return (
@@ -64,6 +77,11 @@ export const ProductsPage: React.FC = () => {
               <div className="product-add-to-cart flex justify-items-center bg-yellow-500 text-black p-10 mb-2 py-2 cursor-pointer">
                 <button onClick={handleAddToCart} disabled={counter <= 0}>
                   + Add to Cart
+                </button>
+              </div>
+              <div>
+              <button onClick={handleToggleWish}>
+                  {isWishItem ? "Remove from Wishlist" : "Add to Wishlist"}
                 </button>
               </div>
             </div>
