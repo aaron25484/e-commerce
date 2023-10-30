@@ -6,14 +6,26 @@ import {
   useReducer,
 } from "react";
 
-type AuthState = { isLogged: boolean; username: string | null };
+import { LoginInputs } from "../pages/LoginPage";
 
-type AuthAction = { type: "LOGIN"; username: string } | { type: "LOGOUT" };
+type AuthState = {
+  isLogged: boolean;
+  user: LoginInputs | null };
 
-const initialState: AuthState = {
-  isLogged: localStorage.getItem("isLogged") === "true",
-  username: localStorage.getItem("username"),
+type AuthAction = 
+  | { type: "LOGIN"; payload: LoginInputs }
+  | { type: "LOGOUT" };
+
+let initialState: AuthState = {
+  isLogged: false,
+  user: null,
 };
+
+const isAuthenticated = localStorage.getItem('isLogged') === 'true';
+if (isAuthenticated) {
+  initialState = { isLogged: true, user: null };
+}
+
 export const AuthContext = createContext<{
   state: AuthState;
   dispatch: React.Dispatch<AuthAction>;
@@ -25,9 +37,11 @@ export const AuthContext = createContext<{
 const authReducer = (state: AuthState, action: AuthAction): AuthState => {
   switch (action.type) {
     case "LOGIN":
-      return { isLogged: true, username: action.username };
+      localStorage.setItem('isLogged', 'true')
+      return { isLogged: true, user: action.payload };
     case "LOGOUT":
-      return { isLogged: false, username: null };
+      localStorage.setItem('isLogged', 'false')
+      return { isLogged: false, user: null };
     default:
       return state;
   }

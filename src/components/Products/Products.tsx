@@ -13,10 +13,8 @@ export const ProductsPage: React.FC = () => {
   const { addToCart } = useContext(CartContext);
   const { wish, addToWish, removeFromWish } = useContext(WishContext); 
 
-
   const product = products.find((product) => product.id === id);
   const isWishItem = wish.some((item) => item.id === id);
-
 
   const handleIncrease = () => {
     setCounter((prevState) => prevState + 1);

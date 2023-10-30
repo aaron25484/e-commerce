@@ -2,14 +2,13 @@ import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import { SubmitHandler, useForm } from "react-hook-form";
 
-type LoginInputs = {
+export type LoginInputs = {
   username: string;
   password: string;
 };
 
 const LoginPage = () => {
   const navigate = useNavigate();
-
   const { dispatch } = useAuth();
 
   const {
@@ -25,12 +24,11 @@ const LoginPage = () => {
       !/[A-Z]/.test(data.password)
     ) {
     } else {
-      dispatch({ type: "LOGIN", username: data.username });
-      localStorage.setItem("isLogged", "true");
+      dispatch({ type: "LOGIN", payload: data });
       localStorage.setItem("username", data.username);
       localStorage.setItem("password", data.password);
 
-      navigate("/Checkout");
+      navigate('/checkout');
     }
   };
 

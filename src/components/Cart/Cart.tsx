@@ -21,10 +21,10 @@ const Cart: React.FC<CartProps> = ({ isOpen, onClose }) => {
     const isLogged = localStorage.getItem("isLogged") === "true";
 
     if (isLogged) {
-      navigate("/Checkout");
+      navigate('/checkout');
       onClose();
     } else {
-      navigate("/Login");
+      navigate("/login");
       onClose();
     }
   };
